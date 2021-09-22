@@ -1,0 +1,30 @@
+Top 8 topics for INDREBY_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 2.34%: indre så kbh kan ved dag bare lige mangler bil nej ja går svært helt kl få hele lidt desværre
+Topic #2 with probability 0.73%: rebellion truth amalienborg frederiksborgpalace nyhavn norrebro johncharles danish amalienborgpalace osterbro frederiksstaden frederikschurch rat borsen charles christianborg christianborgpalace rosenborgcastle rosenborg rebellionandtruth
+Topic #3 with probability 0.83%: battles kulturhuset rap slam vs 11 beta klar indre simon fresco mikkel norup geeza mr beast vigsø magermayn via hakke
+Topic #4 with probability 1.05%: københavn røg farlig brand kr indre gamle overdrive område mistænkelig kasse mindre udvikle musikuniversitet pedal delay afspærret politiet 300 afspærrer
+Topic #5 with probability 0.52%: årig cykelhandler skyldig drabsforsøg mand 18 kendes 69 albaner nævningeting fundet ung københavn kvinde skud politiet anholdt dræbt bandemiljøet livsfare
+Topic #6 with probability 0.55%: hal grå denmark might go feb going religion bad jul 24 indre 14 borgerservice pumpehuset taste roof fuck trees gerne
+Topic #7 with probability 1.15%: indreby copenhagen københavn østerbro la architecture delditkbh københavnk cphpicks bevillingsstop ibyen tilbyen miss denmark travel heart voreskbh fog copenhagenbible wonderlustcopenhagen
+Topic #8 with probability 0.78%: ramt nørrebro del kun skud københavn dr indre mand amager 28 bygmestervej bandemiljøet livsfare arbejdet nedlagt tidligere ny siger viser
+
+Top 8 topics for INDREBY_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.91%: indre kan lige kl ved svært helt går ja kæmpe oslo nok lidt sted år politi væk kommer trafik nat
+Topic #2 with probability 0.81%: vesterbro copenhagen christianshavn indreby christianborgpalace frederiksberg tivoli 2013 john denmark rosenborg frederiksstaden frederikschurch frederiksborgpalace rat rebellion rebellionandtruth slotsholmen middelalder rosenborgcastle
+Topic #3 with probability 0.92%: kulturhuset slam rap vs 11 battles klar beta simon vores via fresco norup mikkel januar tid rammer mr vigsø battle
+Topic #4 with probability 1.75%: københavn kr indreby politiet københavns mand overdrive mistænkelig pedal område røg bar brand løser la politi foran ibyen mener københavnere
+Topic #5 with probability 1.70%: indre mand politidk så politiet kbh årig stoppe køre gang skyldig nævningeting 18 cykelhandler bil risiko løbet ingen havn trafikforbud
+Topic #6 with probability 1.20%: indre denmark grå fuck go bad set hal dk 24 might religion jul city feb steder one back turister lost
+Topic #7 with probability 1.88%: indreby så copenhagen ved kan måske lige mad nye time få fire trafikkaos vores weekend år københavnk svært find hold
+Topic #8 with probability 1.81%: indre nørrebro kbh ramt dag kun østerbro mangler træt tv må amager nyt får problemer hader uden twitterhjerne vej valby
+
+Top 8 topics for INDREBY_negative.json using the LDA models with tf features.
+Topic #1 with probability 2.83%: fc mestrene kamp fck fejl fem bedst slå dyrt parken pænt straffer slap tabt fire 21 herning københavns gavepakke startede
+Topic #2 with probability 4.71%: indreby østerbro nørrebro kan københavn brønshøj hellerup crazy frederiksberg eyelash copenhagen valby storkøbenhavn nomoremascara flawlesslashescph smukkeøjne eyelashesextension ikkemeremascara flawlesslashes eyelashextensions
+Topic #3 with probability 4.40%: mand rådhuspladsen københavn mener skorsten udgravet grave hemmelighed skeletterne arkæologerne regner winther damsbo stine stammer arkæologer skeletter 20 første københavnere
+Topic #4 with probability 7.97%: indreby copenhagen indre københavn ibyen delditkbh bevillingsstop løser travel problemerne cphpicks city tilbyen architecture la kritiserer fog fandme miss wonderlustcopenhagen
+Topic #5 with probability 61.38%: indre københavn så kan kbh ved dag kulturhuset battles kl politiet lige bare politi nej går bor 11 slam rap
+Topic #6 with probability 6.53%: københavn udligning denmark københavns truth rebellion indreby copenhagen vesterbro frank begrænse 22 regning jensen loft mener levakovic regeringen kommuners kommunal
+Topic #7 with probability 7.46%: københavn årig mand cykelhandler drabsforsøg skyldig ramt 18 skud fundet ung 69 nævningeting albaner kendes siger indre nørrebro politiet 28
+Topic #8 with probability 4.72%: kr københavn overdrive pedal indreby stedet 300 delay distortion weekend anmeldelser 1057 boss slagsmål uorden rigtig bad pas 1367 tickets
+

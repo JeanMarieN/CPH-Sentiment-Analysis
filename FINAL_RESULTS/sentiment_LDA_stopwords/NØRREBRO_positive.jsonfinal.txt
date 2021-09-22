@@ -1,0 +1,30 @@
+Top 8 topics for NØRREBRO_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.46%: funiture fredensgade møbler retrobutik genbrugsfund 15a genbrugsbutik secondhand interiør 2200 boligindretning indretning danskdesign gammel fed lampe 150kr fin patina belysning
+Topic #2 with probability 0.43%: happy new year 2018 newyear years happynewyear everyone newyearseve best one friends 2017 party everybody good wishes eve birthday ready
+Topic #3 with probability 0.35%: nytår godt 2018 happynewyear godtnytår så nye år venner 2017 newyear fest klar fantastisk aften newyearseve bedste selskab party nytårsaften
+Topic #4 with probability 0.45%: love christmas weekend loveislove food friends loveisblind fighters _rutler family xtinaisbeautiful fighter xtina stefansgade fadøl streetart one stefanshusnbro loveislife beautiful
+Topic #5 with probability 0.28%: tatovør prettypunkcph tatovørnørrebro ravnsborggade tattoocopenhagen cphtattoo tattoocph copenhagentattoo tatovørkøbenhavn femaletattooartist tattoo message direct tatuaje tatovering email booking send tatuering københavntattoo
+Topic #6 with probability 0.30%: hygge getting dreamed beer sunday winter home projects weekend brunch christmas coffee kaffe art morning life drinks living jul family
+Topic #7 with probability 0.37%: jul glædelig christmas merry december merrychristmas god glædeligjul streetwear advent økologisk mifkids så inspiration fairtrade dansk julepynt iværksætter streetfashion familytime
+Topic #8 with probability 0.26%: fashioninsta wiw fashiondaily fashionaddict styleblogger outfitpost instafashion minimalistic whatiwore monochrome sneakers wear outfitoftheday ootd fashionista hair beautiful motivation streetstyle fitgirl
+
+Top 8 topics for NØRREBRO_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.72%: secondhand retrobutik indretning møbler boligindretning danskdesign interiør 2200 genbrugsbutik fredensgade funiture genbrugsfund 15a gammel interiordesign fine fed fin vintage lampe
+Topic #2 with probability 1.49%: new happy year 2018 one time love today like good best day newyear years thanks thank christmas friends see last
+Topic #3 with probability 0.96%: godt nytår så år bedste tak nye fantastisk kærlighed venner dag kan valby klar lige bare verdens aften ja fest
+Topic #4 with probability 1.37%: love winter home weekend food travel morning photography christmas art instagood beautiful photooftheday sunday visitcopenhagen nofilter design like picoftheday homemade
+Topic #5 with probability 0.53%: tattoo ravnsborggade tatovering prettypunkcph tatovør tattoocopenhagen tattoocph copenhagentattoo tatovørnørrebro tatovørkøbenhavn cphtattoo tatuaje femaletattooartist message direct drawing send kunst tradworkers ready
+Topic #6 with probability 0.99%: jul tak god hygge christmas glædelig søndag weekend morgen så wearenørrebro december elsker vores tillykke kom dag kaffe guldbergsgade lækkert
+Topic #7 with probability 1.18%: så kan vores inspiration frederiksberg se melangedeluxe valby nye julegave smukke femina ved handmade dag gave klar altfordamerne lidt mere
+Topic #8 with probability 0.58%: hygge style beautiful fashion streetstyle hair winter ootd motivation photooftheday outfitoftheday sneakers streetwear fashionista wear monochrome work outfitpost instafashion whatiwore
+
+Top 8 topics for NØRREBRO_positive.json using the LDA models with tf features.
+Topic #1 with probability 7.97%: hygge tak jul brunch glædelig weekend love elmegade aok cphfood pizza retro food tipkbh visitcopenhagen vintagestyle frokost mondokaos stefansgade burger
+Topic #2 with probability 7.44%: danskdesign indretning boligindretning interiør secondhand 2200 genbrugsbutik genbrugsfund møbler retrobutik fredensgade funiture 15a gammel tattoo ravnsborggade fed interiordesign prettypunkcph inspiration
+Topic #3 with probability 5.52%: danishdesign creative diy love kreativ handmade homemade loveislove gallery feathers _rutler fighters scandinaviandesign fjer copenhagenmade handmadecph forsale lulumarthinedesign fighter xtinaisbeautiful
+Topic #4 with probability 12.66%: nytår godt så kl frederiksberg dk kan se dag valby morgen forbi 17 www lørdag vintage vores 12 klar butikken
+Topic #5 with probability 12.48%: inspiration fashion style music streetwear like jul streetstyle melangedeluxe open webshop superkilen ootd julegave 00 beer julefrokost handmade femina altfordamerne
+Topic #6 with probability 30.72%: love christmas happy new year 2018 good day one home beautiful hygge food best art weekend like friends today winter
+Topic #7 with probability 5.11%: fitness workout healthy motivation vsco fitnessworld træning gym vscocam fit training fitfam bodybuilding funny fitnessdk gains crossfit gay lifestyle instagood
+Topic #8 with probability 18.11%: så kan godt år tak dag vores nye ved god bedste 2018 elsker jul bare lige lidt kærlighed lille helt
+

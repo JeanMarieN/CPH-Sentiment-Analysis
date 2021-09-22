@@ -1,0 +1,30 @@
+Top 8 topics for VALBY_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.85%: dirty john dr valby aka tickets show 00 live saturday 30 friday bar tonight altar pittsburgh get comedy seating start
+Topic #2 with probability 0.48%: kunde kniv ser dk cm 160 kokkekniv dick lag tojiro stål 63 superior premier 18 valby plus flash japansk 21
+Topic #3 with probability 0.38%: playing explicit listen john pussy fuck gives valby lil revenge ass big whore dead philosophical bullshit radio fucking survival twat
+Topic #4 with probability 0.33%: foodporn ringsted frokostordning madhytten hundige greve vallensbæk ishøj frokost karlslunde herlev brøndby lækkersulten hjemmelavet holbæk frisk livretter mad livret køge
+Topic #5 with probability 0.62%: st tog dsb valby fejl ved skyldes rejsetid længere linje så mellem signalerne kører station frederikssund øjeblikket kan færre taastrup
+Topic #6 with probability 0.35%: hunger games karen jennifer lawrence defends peeta exclusive gale weeks lionsgate movies trilogy deadline four make offhand may report today
+Topic #7 with probability 0.49%: mand anholdt årig skud valby ramt skyderi politiet drabsforsøg flere 19 knivstikkeri dræbt 25 fest ved opgør ung mænd 23
+Topic #8 with probability 0.38%: 2500 kl anmeldt fotovogn kr landevej gammel valby køge 08 pedal overdrive distortion 07 000 delay elguitar 500 15 19
+
+Top 8 topics for VALBY_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.48%: valby john dr dirty show tickets miss live tonight get week one saturday aka via friday night 30 start next
+Topic #2 with probability 0.66%: valby ser dk kniv kunde cm lag kokkekniv dick tojiro stål 18 superior plus premier 160 63 serie skam nature
+Topic #3 with probability 0.69%: valby john playing listen explicit fuck shit pussy fucking tom folk sad gives whore rt dirt oh ditties lil song
+Topic #4 with probability 0.71%: valby mad roskilde køge vores foodporn holbæk madhytten personalepleje vallensbæk ringsted herlev frokost ishøj uge lækkersulten greve frisk hundige karlslunde
+Topic #5 with probability 1.57%: valby så ved st station tog kan lige venter vej igen mellem år ingen fejl mangler slog nej lidt toget
+Topic #6 with probability 0.76%: karen today hunger games new may make weeks lawrence jennifer think lionsgate play movies someone gale report movie rt real
+Topic #7 with probability 0.94%: valby årig mand politiet anholdt skud ramt mænd brand skyderi røver unge søndag dræbt politi drabsforsøg voldsom flere politidk politiken
+Topic #8 with probability 1.32%: valby kr kl 2500 hallen kamp se idrætspark træt imod fotovogn anmeldt summer pedal la gammel overdrive ya que mangler
+
+Top 8 topics for VALBY_negative.json using the LDA models with tf features.
+Topic #1 with probability 8.86%: valby mand anholdt årig politiet ramt skud 19 unge tre kvinde mænd røver drabsforsøg flere voldsom dræbt nat blevet dr
+Topic #2 with probability 5.78%: valby foodporn ringsted mad frokostordning brøndby frokost frisk herlev madhytten ishøj vallensbæk hundige greve karlslunde hjemmelavet holbæk lækkersulten livretter livret
+Topic #3 with probability 16.59%: valby ved så st tog roskilde lige station kan lidt brand dsb fejl igen mellem bakke kører hjem lille køge
+Topic #4 with probability 5.75%: valby ____________________________________________________ elskditvalby summer frederiksberg art book personligtræning voreskbh nyellebjergfysioterapi fysioterapi træning ring interiordesign reps vintage skader organic grey leave
+Topic #5 with probability 28.56%: valby john dirty dr karen aka show tickets one get playing listen fuck friday new live hunger stop 00 miss
+Topic #6 with probability 10.85%: valby ingen kan år kr ny træt nej 2500 bakke får før fire baby carlsberg mere fået helt nye pedal
+Topic #7 with probability 4.90%: kbhpol design indretning dirt hard retro valby tilsalg interiør offer give nofilter loppefund øv hygge compact fall digital genbrug interior
+Topic #8 with probability 18.72%: valby dk så ser kniv cm kunde 2500 kl mangler mad dag 160 kamp vores lag dick 10 idrætspark kr
+

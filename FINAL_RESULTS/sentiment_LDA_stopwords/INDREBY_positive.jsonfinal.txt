@@ -1,0 +1,30 @@
+Top 8 topics for INDREBY_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.30%: indre god bedste tak kulturhuset twitterhjerne kr area dag spots københavns gerne ja beautiful ved super bare helt 500px popular
+Topic #2 with probability 0.53%: elguitar supreme kr guitar 500 1309 nyt komplet 198 begyndersæt indre forstærker fed 400 super tokai 000 stand andet fin
+Topic #3 with probability 0.72%: diamondsandrustcopenhagen vintageshop vintagestore ilovecopenhagen ilovevintage wonderfulcopenhagen beautiful vintagedresses vintageshopping sanktpederstræde vintage vintagekjoler ibyen vintagejagt luxurysecondhand dress pisserenden vintagefund dresses localshop
+Topic #4 with probability 0.40%: eyelash hellerup smukkevipper flawlesslashescph ikkemeremascara brønshøj smukkeøjne eyelashes smukkevipperhverdag flawlesslashes eyelashesextension stayflawless nomoremascara valby storkøbenhavn eyelashextensions lashesbybella frederiksberg lashes blinknordic
+Topic #5 with probability 0.29%: software innovative business city indre sign distortion lategram bought almost awesome center gjort glædelig godt godmorgen godetider give gode girlsday
+Topic #6 with probability 0.36%: nyheter oslo dittoslo ha nå bli indre av sport tøyen må bo sted thereses gate bilfri mer ivrige nabokjerringer oslos
+Topic #7 with probability 0.94%: godt så kan indre nok sted lige ja twitterhjerne lidt ved nogen få se bo må forbi bare går spise
+Topic #8 with probability 0.35%: pride copenhagenpride colors cannon55d centrum cphpride canon colour rainbow gayparade color lgbt love flag colours aok city baloons baloon ibyen
+
+Top 8 topics for INDREBY_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.67%: indre så god tak ved godt twitterhjerne bedste nok lige ja bare dag år aften københavns helt gerne politidk går
+Topic #2 with probability 1.04%: kr elguitar super nyt supreme guitar 500 000 stand fed 1309 komplet ny pedal mærke tc andet tokai 800 harmonix
+Topic #3 with probability 1.35%: vintageshop vintagestore diamondsandrustcopenhagen beautiful wonderfulcopenhagen ilovecopenhagen vintageshopping ilovevintage vintagedresses store sanktpederstræde ibyen vintage new vintagekjoler link spots vintagejagt weekend bio
+Topic #4 with probability 0.95%: frederiksberg klar smuk valby www gøre storkøbenhavn hellerup eshakhamo kbhk smukkeøjne smukkevipperhverdag stayflawless smukkevipper dk skønhed eyelashextensions nomoremascara eyelashesextension brønshøj
+Topic #5 with probability 0.81%: city indre business software innovative like pretty go one center around christianshavn street favorite look time danish better back places
+Topic #6 with probability 0.89%: indre oslo nå må nyheter sted ha godt av dittoslo mer bilfri bo ønsker bedre fint øst sentrum seg mindre
+Topic #7 with probability 1.67%: kan så vores se smukke godt lidt dag glæder lige få lokaler sidste opleve forbi smørrebrød mere kom hygge restaurantpalægade
+Topic #8 with probability 1.29%: love visitcopenhagen best popular visitdenmark hygge travel 500px ibyen summer pride colors photography food view design reflet govisitdenmark copenhagenpride fuld
+
+Top 8 topics for INDREBY_positive.json using the LDA models with tf features.
+Topic #1 with probability 6.44%: smørrebrød restaurantpalægade frokost komogspis vores år trygt dk instafood hep dag tak tickets show byggegrund søde gode danishlunch events natteliv
+Topic #2 with probability 38.41%: indre så godt kan god kr tak bedste ved ja twitterhjerne nok lige bedre oslo går få nå københavns bo
+Topic #3 with probability 5.71%: fed hygge så tattoo islandsbrygge tatovering frederiksberg skriv lo maalue indbakken mor dag super sommer lomaalue kh pedal kærlighed smuk
+Topic #4 with probability 5.35%: kr elguitar fc time tokai food les enjoying travel calm atlético go gibson sushi fender hygge fall oplyser paul stratocaster
+Topic #5 with probability 12.75%: diamondsandrustcopenhagen beautiful vintageshop vintagestore love ibyen ilovecopenhagen wonderfulcopenhagen city ilovevintage vintageshopping visitcopenhagen vintagedresses sanktpederstræde vintage like visitdenmark day one pisserenden
+Topic #6 with probability 19.70%: indre så kan kr vores dag lige helt 500 elguitar frederiksberg guitar nyt 000 kl klar supreme år sidste forbi
+Topic #7 with probability 6.64%: indre bio minut popular get link best 500px spice like følg chance specialist sweet us atlético opgøret fc mellem check
+Topic #8 with probability 5.00%: eshakhamo elsker dk www skønhed kbhk giver hår ppd frisørkøbenhavn available frisør threading før 3312 2400 booking online strøget køb
+

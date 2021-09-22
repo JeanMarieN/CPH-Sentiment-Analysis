@@ -1,0 +1,30 @@
+Top 8 topics for VALBY_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.85%: dirty john dr valby aka tickets show 00 live saturday 30 friday bar tonight altar pittsburgh get comedy seating start
+Topic #2 with probability 0.48%: kunde kniv ser dk cm 160 kokkekniv dick lag tojiro stål 63 superior premier 18 valby plus flash japansk 21
+Topic #3 with probability 0.36%: foodporn ringsted frokostordning madhytten hundige ishøj vallensbæk greve frokost herlev karlslunde brøndby holbæk lækkersulten hjemmelavet frisk østerbro nørrebro vesterbro livretter
+Topic #4 with probability 0.38%: playing explicit listen john pussy fuck gives valby lil revenge ass big whore dead philosophical bullshit radio fucking survival twat
+Topic #5 with probability 0.69%: st valby tog dsb ved fejl skyldes så linje rejsetid længere mellem københavn station kører signalerne frederikssund kan øjeblikket færre
+Topic #6 with probability 0.35%: hunger games karen jennifer lawrence defends peeta exclusive gale weeks lionsgate movies deadline trilogy four make offhand may report today
+Topic #7 with probability 0.48%: mand anholdt årig skud valby ramt skyderi politiet drabsforsøg flere 19 knivstikkeri dræbt 25 fest ved opgør ung mænd 23
+Topic #8 with probability 0.38%: 2500 kl anmeldt danmark fotovogn kr landevej gammel valby køge 08 pedal overdrive 07 distortion 50 19 000 15 13
+
+Top 8 topics for VALBY_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.36%: valby john dr dirty show tickets live tonight get miss week saturday 30 aka via one friday start next night
+Topic #2 with probability 0.65%: valby ser dk kniv kunde cm lag kokkekniv dick tojiro stål 18 superior plus premier 160 63 serie samme skam
+Topic #3 with probability 0.87%: valby københavn mad roskilde nørrebro vesterbro vores frederiksberg østerbro frokost slut kbh ringsted køge frokostordning holbæk god personalepleje ishøj herlev
+Topic #4 with probability 0.65%: valby john playing listen explicit fuck pussy fucking gives shit whore dirt song ditties lil folk dead tom radio big
+Topic #5 with probability 1.63%: valby så ved st station tog kan lige venter mangler vej igen lidt mellem år slog dag fejl ingen se
+Topic #6 with probability 0.70%: valby karen today hunger games new rt may make weeks lawrence jennifer think lionsgate play movies gale mad report movie
+Topic #7 with probability 0.94%: valby årig mand politiet anholdt skud ramt københavn mænd skyderi røver brand unge politi dræbt drabsforsøg voldsom tre politiken politidk
+Topic #8 with probability 1.35%: valby copenhagen kr denmark 2500 danmark kl hallen fotovogn anmeldt la summer pedal imod home ya se overdrive que gammel
+
+Top 8 topics for VALBY_negative.json using the LDA models with tf features.
+Topic #1 with probability 9.15%: valby år frederiksberg fire dag mangler baby mere vanløse al dage danish mandag siden så får koncert side langgade kr
+Topic #2 with probability 9.46%: valby mand foodporn anholdt årig frokostordning københavn madhytten østerbro politiet hjemmelavet greve karlslunde skud lækkersulten ishøj livretter ramt livret yndlings
+Topic #3 with probability 6.12%: valby se glemt el unge que kbhpol ya la art si pero es carlsberg møllerensoase would valeria klar acabateloconvaleria _valby
+Topic #4 with probability 8.16%: valby hunger games karen god food got weeks much film jennifer lawrence give little tom delditkbh mitkbh lionsgate gym dirt
+Topic #5 with probability 24.64%: valby john dirty dr aka show tickets 00 copenhagen one get live playing listen fuck friday week 30 denmark explicit
+Topic #6 with probability 5.36%: valby copenhagen ____________________________________________________ summer vintage crazy tilsalg book personligtræning interiordesign boligindretning rob nyellebjergfysioterapi ring fysioterapi smuktbrugt træning indretning reps skader
+Topic #7 with probability 27.04%: valby så københavn kan ved mad st tog ringsted roskilde lige station kbh vesterbro lidt bakke dsb køge brøndby dag
+Topic #8 with probability 10.05%: valby copenhagen dk ser 2500 denmark kniv cm kunde kr 160 danmark 18 lag dick kokkekniv tojiro kl fotovogn stål
+

@@ -1,0 +1,30 @@
+Top 8 topics for ØSTERBRO_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.42%: ringsted foodporn frokostordning madhytten mad vallensbæk hundige greve ishøj frokost herlev holbæk karlslunde lækkersulten frisk køge hjemmelavet roskilde valby livretter
+Topic #2 with probability 0.51%: skud ramt mindst personer tre skyderi fredag aften område stort såret dræbt død skudepisode politiet bil efterforsker terror blevet sendt
+Topic #3 with probability 0.70%: så kan mangler bare lidt igen dag kun fucking træt se står ved kom lige må slut slå år bor
+Topic #4 with probability 0.40%: brand ved beboere ryparken evakueret stor voldsom tagbrand lejlighed kollegium person nat politiet livet kontrol beboelsesejendom lejlighedsbrand slukket røg tæller
+Topic #5 with probability 0.42%: anholdt mand årig sigtes skarpladt pistol 19 politiaktion ung blevet formiddag politi kampklædt søndag serievoldtægtsmand politiet yngre avis mulig københav
+Topic #6 with probability 0.32%: lige billede slået slog stadion set lugter aften kommer mangler cphshooting mad gider dørene står damn kan siden angrebet ved
+Topic #7 with probability 0.41%: kr 2100 overdrive pedal 000 delay 500 elguitar wah ibanez mærke cry fender baby andet dunlop hot rod orange jim
+Topic #8 with probability 0.25%: slog albummet facebook billeder 2013 spring skæmt spøg nyboder billede tårnby ff hold 11 12 nice helt år ii butik
+
+Top 8 topics for ØSTERBRO_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.89%: mad brøndby valby uge food foodporn karlslunde god køge ringsted frokost herlev hjemmelavet roskilde vallensbæk yndlings hundige ishøj holbæk madhytten
+Topic #2 with probability 1.12%: ramt skud aften fire tre terror dkpol skyderi personer mindst dræbt politiet bil såret død flere fredag mænd skudepisode stort
+Topic #3 with probability 2.13%: så kan mangler lidt dag bare se mere kun nogen venter fuck problemer nok går bor ja stadig får står
+Topic #4 with probability 0.98%: ved brand politiet lejlighed set police stor beboere nat person plads dr dk voldsom krudttønden røveri evakueret kvinde leder tv2
+Topic #5 with probability 0.92%: årig mand anholdt cphshooting blevet politi københavns rt oesterbro 30 sigtes 17 søndag attack politiaktion 14 drabsforsøg ung dreng 19
+Topic #6 with probability 0.99%: lige stadion nej slog kl kamp slået billede billeder facebook år lugter albummet ligger tager tv 00 dizzy 20 live
+Topic #7 with probability 1.58%: kr 2100 today grey day work bad christmas 000 overdrive pedal saturday us ndrfrihavnsgade45 homedecor interiordesign art danish night stole
+Topic #8 with probability 1.08%: træt slut stop get år one miss 2018 home crazy nye time never far hold lost 11 tired much year
+
+Top 8 topics for ØSTERBRO_negative.json using the LDA models with tf features.
+Topic #1 with probability 12.56%: day home christmas work night get time new last tired sunday go make grey com party selfie dk two see
+Topic #2 with probability 9.07%: kr foodporn ringsted 2100 frokostordning mad valby hjemmelavet brøndby herlev roskilde madhytten køge frokost holbæk ishøj frisk lækkersulten greve vallensbæk
+Topic #3 with probability 8.64%: brand venter dræbt ved tre såret skudepisode fundet mand die visitcopenhagen fik stjålet hjem wonderfulcopenhagen cphpicks skyderi død aokdk politiet
+Topic #4 with probability 11.24%: mad politiet food god lille shit fuck hele mere plads dk pizza frederiksberg brød dinner lyngby område går instafood østerbrogade
+Topic #5 with probability 13.23%: ved mangler så fire kan se nogen nye ny få livet lejlighed aften endnu mandag svært lidt mere person sammen
+Topic #6 with probability 24.38%: så kan dag ramt lige skud bare lidt kun år kl første gang helt aften nej børn kom igen træt
+Topic #7 with probability 9.82%: stadion kæmpe 15 lige billeder slog vores facebook 17 problemer billede 18 årig tager desværre kl kamp albummet bio ligger
+Topic #8 with probability 11.06%: one anholdt mand cphshooting danish little art black krudttønden morning horse iron bus us much saturday stop kunst samtidskunst live
+

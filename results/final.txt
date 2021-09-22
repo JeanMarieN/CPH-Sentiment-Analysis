@@ -1,0 +1,690 @@
+Top 8 topics for amager_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.50%: mand anholdt arig pa død politiet drab fundet dr fængslet skyderi kvinde tre politi ung politiken blevet 28 mænd stukket
+Topic #2 with probability 0.45%: bryghus drinking princess bastard photo suns darkest revenge reepicheep axe ipa todd beer bitter good new tap ale ratebeer hops
+Topic #3 with probability 0.48%: problemer tekniske tog lufthavnen ved pga øjeblikket ml strand forsinkelse forsinkelser amagerbro skyldes 10 ca grundet vestamager ingen minutters alarm
+Topic #4 with probability 0.37%: islands brygge vestamager metro ballademagere uacceptabelt hærger kulturhuset havnebadet ml skyldes livs uroen station elevatoren fire pa byen tog skolen
+Topic #5 with probability 0.91%: pa sa brand kan fælled lige desværre ogsa mangler bor dag ved bare ude fire lidt vej kun politiet igen
+Topic #6 with probability 0.30%: series sinner greed bryghus drinking photo envy beer gluttony sloth available wrath craftbeer lust sinners pride bitter amagerbryghus pilsner replacing
+Topic #7 with probability 0.43%: christianshavn ballade movie download actors huset pa vold metro christianshavns miss online 1971 problemer lost volden jes ml fuck mellem
+Topic #8 with probability 0.28%: ramt skud mand person pa ung skyderi holmbladsgade personer blevet fire oplyser skudepisode 20 undersøger aften skudt flere tre benet
+
+Top 8 topics for amager_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.54%: pa mand ved politiet arig strandpark ramt skud dr anholdt brand tre kvinde politi skyderi politidk politiken fire flere mænd
+Topic #2 with probability 1.17%: bryghus drinking photo princess bastard ipa new hell todd replacing suns bitter axe ale tap beer darkest danish good one
+Topic #3 with probability 0.80%: ved problemer strand amagerbro tog tekniske pga christianshavn lufthavnen ml øjeblikket ingen station skyldes 10 forsinkelse vestamager ca mellem forsinkelser
+Topic #4 with probability 0.84%: islands brygge islandsbrygge shit fire crazy beach dk night island last still summer day metro via missing fælled place many
+Topic #5 with probability 1.68%: pa sa fælled kan lige ogsa mangler bakke lidt desværre se bare dkpol dag kun sted mere star gar ser
+Topic #6 with probability 0.72%: series sinner greed twin evil beer love replacing sloth envy today øl craftbeer sins come deadly twitter tap sinners gluttony
+Topic #7 with probability 0.75%: christianshavn ballade download vold movie huset miss today get got metro danish christianshavns lost sur news volden police die years
+Topic #8 with probability 1.17%: bio fremad sa sure live death ramt fc metal going koncert fucking see bet tonight bad yeah fuck profit slut
+
+Top 8 topics for amager_negative.json using the LDA models with tf features.
+Topic #1 with probability 21.85%: så islands brygge kan brand ved desværre mangler bare lige ingen christianshavn fælled igen mad kun få uheld bor mere
+Topic #2 with probability 7.65%: fremad kamp uden time demons gør nye træt ny taber kan fremadamager hold imod flop foran 19 dong tager gået
+Topic #3 with probability 14.70%: mand anholdt årig politiet ramt skud kvinde tre død ved fundet skyderi politi københavns dr mænd personer blevet fængslet person
+Topic #4 with probability 12.90%: bryghus drinking photo series sinner ipa bastard princess dkpol greed går bitter ale danish tap lidt sted shit la nok
+Topic #5 with probability 13.15%: christianshavn ved strand problemer tog 10 lufthavnen tekniske se via pga 15 øjeblikket lige ballade ml skyldes forsinkelse fire ca
+Topic #6 with probability 6.95%: dk 11 stedet større folk lejlighed hospital us house vores deadly sidder godt valby strandpark snart morning 13 aggressiv division
+Topic #7 with probability 8.45%: bakke fælled år får står sure fc bet sidste siden tv byggeri frank island dkbiz jensen last lille ha udskældt
+Topic #8 with probability 14.34%: bio beer new evil twin death hell bad fremad live dag metal love one replacing day fucking beach see damn
+
+Top 8 topics for amager_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.42%: bryghus drinking photo beer great ipa good big nice sausage kentucky fest series todd axe xiquic twins hero sinner amazing
+Topic #2 with probability 0.24%: joss stone performed impressive nr 2016 photos bio interested photo aften live concert koncert show night tonight video liked prince
+Topic #3 with probability 0.64%: pa sa godt kan bor lige ogsa ved tak dag god haber nar strand ja lidt se aften nok bare
+Topic #4 with probability 0.33%: brygge islands kulturhuset popular olemsteffensen 500px good hygge morning islandsbrygge bryggen havnebadet day sun summer great nice nyder fun beautiful
+Topic #5 with probability 0.36%: christianshavn beautiful huset popular 500px christiania day olemsteffensen dansk like travel morning blue copenhague lovely place best church good great
+Topic #6 with probability 0.28%: love drinking tørst stars blueberry blueberries photo aronia twin 75 evil islandsbrygge never 25 tasty summer music jason mandarina say
+Topic #7 with probability 0.24%: strandpark beach day beautiful good nice morning summer today strand sun sunset ved great station enjoying happy others fun sunny
+Topic #8 with probability 0.24%: stout imperial frederiksen hr sundby bryghus new frog blueberry danish collaboration tap chocolate twin 10 metal brunch craftbeer mikkeller wheat
+
+Top 8 topics for amager_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.75%: bryghus drinking photo beer great ipa nice sweet good one thanks super series fest big sinner black craftbeer todd danish
+Topic #2 with probability 0.61%: bio 2016 stone impressive aften performed joss photos kl nr glæder spiller koncert ses interested support live 20 søndag prince
+Topic #3 with probability 1.63%: pa sa godt kan ved tak ogsa lige dag nar god lidt fælled strand se velkommen nok elsker ja super
+Topic #4 with probability 0.63%: islands brygge islandsbrygge sun popular kulturhuset hygge olemsteffensen enjoying summer 500px good bryggen welcome morning nice island weekend havnebadet happy
+Topic #5 with probability 0.82%: christianshavn beautiful like lovely place nice sunset dansk view huset home wonderful travel one blue city morning day walk top
+Topic #6 with probability 0.51%: love drinking tørst stars blueberry fælled blueberries music twin video tarnby aronia 25 evil say never somebody odense 33 surely
+Topic #7 with probability 0.78%: strandpark great strand beach good day today video night live see time tonight amazing happy like last concert fun nice
+Topic #8 with probability 0.67%: stout fremad new imperial sundby danish hr vandt twitter frederiksen win vinder top time 10 brunch com mikkeller væsel tillykke
+
+Top 8 topics for amager_positive.json using the LDA models with tf features.
+Topic #1 with probability 7.80%: fremad kan spændende vild se fremadamager vandt osu aldrig kyokushin samme kamp træning fc børn bk brøndby drenge hver hospital
+Topic #2 with probability 10.04%: så fik dag helt ved igen går gang tak dejlig ude stadig del tager siden hele lidt får fantastisk bedre
+Topic #3 with probability 15.39%: drinking bryghus photo stout beer great imperial ipa one new good danish hr nice frederiksen big craftbeer black series ale
+Topic #4 with probability 11.25%: islands brygge beach super bedste flot velkommen twitter com strong time islandsbrygge win hold smuk little summer sunset strand campfire
+Topic #5 with probability 7.12%: 2016 nr impressive joss performed top tur todd celebration tonight fint set 17 øl hjælpe concert rigtig fodbold altså double
+Topic #6 with probability 17.89%: love christianshavn strandpark good day like beautiful great today photos nice enjoying happy thanks best amazing lovely morning rt night
+Topic #7 with probability 12.46%: bio fælled aften ja stone kl 10 fest nye kom glæder bedste live fin morgen weekend fun 20 tillykke tak
+Topic #8 with probability 18.05%: godt kan så lige god christianshavn ved strand bor strandpark år bare elsker nok tak lidt må fantastisk lille ha
+
+Top 8 topics for amager_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.35%: bryghus drinking photo beer series great sinner ipa good princess bastard nice greed todd axe big kentucky sausage fest xiquic
+Topic #2 with probability 0.51%: pa mand bor ved anholdt strand skud ramt dag arig fælled vej amagerbro politiet brand ogsa dr tak kan huset
+Topic #3 with probability 0.19%: joss impressive performed stone nr 2016 photos bio photo interested live concert koncert aften night tonight show death prince video
+Topic #4 with probability 0.27%: brygge islands kulturhuset good popular olemsteffensen 500px morning hygge havnebadet islandsbrygge day bryggen summer ved vestamager nice great sun beautiful
+Topic #5 with probability 0.30%: christianshavn beautiful huset christiania popular day 500px problemer morning dansk olemsteffensen good like tog blue great place nice ballade lovely
+Topic #6 with probability 0.21%: love drinking tørst stars blueberry blueberries photo aronia twin evil 75 islandsbrygge strandpark never replacing summer beach 25 tasty amazing
+Topic #7 with probability 0.33%: sa godt kan lige bio ogsa ved fremad se strandpark nok gar dag helt bare igen lidt nar fik komme
+Topic #8 with probability 0.18%: stout imperial frederiksen hr sundby bryghus new danish blueberry twin frog tap evil collaboration chocolate brunch metal mikkeller 10 craftbeer
+
+Top 8 topics for amager_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.66%: bryghus drinking photo beer ipa series nice great sinner good sweet tap one todd øl la princess fest big super
+Topic #2 with probability 1.31%: pa ved mand strand kan lige ogsa bor vej tak ude politiet sted velkommen amagerbro nye lidt ramt tog dag
+Topic #3 with probability 0.52%: bio nr live impressive stone photos joss performed 2016 koncert concert show interested video tonight prince support aften tour wow
+Topic #4 with probability 0.56%: islands brygge islandsbrygge summer sun kulturhuset good fun hygge popular nice weekend yesterday island happy swim day morning bryggen sunday
+Topic #5 with probability 0.76%: christianshavn beautiful like nice good morning place day today lovely great home popular one view dansk go beach travel walk
+Topic #6 with probability 0.46%: love fælled drinking islandsbrygge twin tørst stars evil video blueberry tarnby natur blueberries jensen dkpol replacing say frank aronia truet
+Topic #7 with probability 0.89%: sa fremad godt kan ogsa lige tak se dag nok nar ja gar helt vandt lidt tillykke kom elsker god
+Topic #8 with probability 0.65%: strandpark stout new imperial strand danish hr sundby night beach today thanks great frederiksen twitter beer time via last top
+
+Top 8 topics for amager_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 12.21%: islands brygge mand årig mere anholdt dr 10 politiet metro go kvinde kl twitter com hygge 12 tillykke 16 skud
+Topic #2 with probability 13.27%: bio kan strand christianshavn beach bor ved live 2016 få nr strandpark ha stone impressive beautiful vej photos joss tog
+Topic #3 with probability 7.53%: hr fremad frederiksen thanks spiller time brunch tilbage mad rundt tid vinder finde lækker sgu bryggen full samme 22 smukke
+Topic #4 with probability 16.45%: bryghus drinking love photo beer stout good great ipa new imperial danish one series nice amazing sinner ale see black
+Topic #5 with probability 17.95%: så christianshavn godt ved kan lige dag lidt bio strandpark bare aften ja fik nok helt går igen kommer morgen
+Topic #6 with probability 11.20%: fælled tak år amagerbro så fantastisk bakke må elsker sted ser big dkpol fest velkommen godt lige klar folk station
+Topic #7 with probability 10.65%: fremad bio islandsbrygge se today dk night kamp best last tror ligger sidste vild great søndag del concert summer us
+Topic #8 with probability 10.74%: christianshavn like day nice happy dansk home awesome komme vandt set demons blue christiania get café back way city beautiful
+
+Top 8 topics for indreby_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 2.59%: pa indre sa darlig lige dag bil nej se ogsa 20 helvede gar gider helt brand set ja igen kan
+Topic #2 with probability 1.20%: battles kulturhuset rap slam vs 11 klar beta fresco indre simon vigsø magermayn via jake particle norup mikkel januar geeza
+Topic #3 with probability 0.91%: mangler bare indre sa valby kun brønshøj optalt synes twitterhjerne lokaler stor stadig syg helt kender dktrp mere politi rundt
+Topic #4 with probability 1.10%: ramt kun del indre ogsa dr arbejdet nedlagt ny pol strømafbrydelse havnearbejdere desværre københavns bt blevet skraldemænde store bredband tv
+Topic #5 with probability 0.86%: mistænkelig afspærret omrade kasse politiet politi københavns undersøger bomberobot afspærrer indre bil ved bt bombe se første omkring dele skyderi
+Topic #6 with probability 0.76%: fire fjerne nye selvfølgelig byradet klarer bilene ar av løpet oslo tok bare indre dagens sker kastrup partikelforurening gange mot
+Topic #7 with probability 0.76%: køre natten malrettet kriminalitet politidk løbet normalt indre sygt virkelig byen tænk cyklister gør alene vide gad rt laver kl
+Topic #8 with probability 1.46%: ved kan fa svært indre fucking ret gør taxa sa finde bo ja folk værre gode ogsa hvorfor byen desværre
+
+Top 8 topics for indreby_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 3.35%: indre pa sa lige se nar væk lidt nej gider set gar steder pt mad mere god kører nogen parkering
+Topic #2 with probability 1.14%: kulturhuset slam rap vs battles klar via 11 simon beta fresco 2017 vigsø januar magermayn stort lost mr jake pta
+Topic #3 with probability 2.67%: indre ved sa uden ja hele hader hjem sur helt rundt vand ødelagt stinker hvorfor problemet død ingen klager gar
+Topic #4 with probability 1.55%: ramt kun pa ogsa tv vej dr københavns dag nat lille desværre ny pol træt nedlagt strømafbrydelse del siger store
+Topic #5 with probability 1.92%: indre politiet pa politi mand intet københavns politidk omrade brand store mistænkelig omkring mener voldsom risiko dræbt større problemer arig
+Topic #6 with probability 1.67%: indre oslo nye kaos fire farlig fjerne av vanvittigt kbhpol skriver røg ar savnet pisserenden faet selvfølgelig klarer kø jp
+Topic #7 with probability 1.82%: indre mangler kr køre natten distortion politidk stadig overdrive rt løbet kriminalitet synes malrettet fuck valby mere virkelig egen twitterhjerne
+Topic #8 with probability 1.79%: kan svært ved ogsa sted problemer fa kl byen bo ret værre nok ulovlig fucking tabt larm bor transport tingbjerg
+
+Top 8 topics for indreby_negative.json using the LDA models with tf features.
+Topic #1 with probability 2.21%: tricktyve spil sort kvinde sidder sov holder vindue pivstive fest fire hjemløse nedenfor 1000 køber tøj mand kvinder så indre
+Topic #2 with probability 28.49%: indre kulturhuset battles så 11 slam rap vs ramt kun desværre folk dag sted hele år fuck går får lige
+Topic #3 with probability 5.66%: indre årig mand anholdt ramt bar arbejdet nedlagt foran hey politiet dræbt pol havnearbejdere dead drop skud fc bevillinger kirke
+Topic #4 with probability 2.46%: indre øv kbhs kommune tendens 800 borgerservice mon anmeldelser pas hinanden slagsmål uorden mt hvilken hente løsning lave fanden frygtelig
+Topic #5 with probability 1.86%: bt morten misbruger pet politisk lukning kabell kommunen sammen københavnere terror måtte tv indre kæde ramt dag agenda politiet bredbånd
+Topic #6 with probability 42.10%: indre kan ved så politi kr mangler svært bor bil rundt nej lige helt få dag overdrive afspærret ja brand
+Topic #7 with probability 13.87%: indre køre kr natten politisk lidt politidk dårlig lukning terror 000 parkering dr lige kommunen horse crazy kriminalitet løbet kæde
+Topic #8 with probability 3.35%: indre wampler hot wired 1367 distortion overdrive kr vores gaderne bukserne dansk pisse 300 ekstremt utrolig tdc århus virker travel
+
+Top 8 topics for indreby_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.35%: indre kulturhuset kr super fed dag andet elsker ønsker fint 000 ha best fin omkring ogsa stand dk christianshavn boss
+Topic #2 with probability 1.01%: supreme elguitar kr 1309 500 guitar nyt komplet 198 begyndersæt indre forstærker fed 400 super tokai 000 andet tilbehør fin
+Topic #3 with probability 0.51%: 500px popular commencais reflet claude mindelio indre photography elghazyhamzaphotographe une odeyus_eye rive world beautiful black gate gatur gavekort generelt gar
+Topic #4 with probability 1.58%: godt sa kan indre nok ogsa ja lige sted lidt nogen ved twitterhjerne bedre bo bare god bud bor hjemme
+Topic #5 with probability 1.48%: pa indre tæt god ogsa se gar politidk vej hjem kom hinanden pas aften kan dag cafe nar vores mulighed
+Topic #6 with probability 0.82%: bedste twitterhjerne gerne far indre go sted kaffe morgenmad bare tæt bud dag take away finder brunch tweeps kr spise
+Topic #7 with probability 0.58%: nyheter oslo dittoslo ha bli tøyen sport bo av sted indre thereses gate mer bilfri nabokjerringer ivrige hurra etter dag
+Topic #8 with probability 0.62%: tak aften hjælpen twitterbrain luksus street indre strøget tusind tyske rt distortion siger billeder ogsa sted ja omkring veninde tip
+
+Top 8 topics for indreby_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.96%: indre nar ved kun se mere spændende super uden hele rundt metro ingen fa par smuk gar ny rigtig dag
+Topic #2 with probability 1.53%: kr elguitar super nyt 500 supreme guitar fed komplet stand tokai pedal andet 400 mærke begyndersæt fin rker 198 stratocaster
+Topic #3 with probability 1.34%: indre popular love reflet commencais claude travel like go takker søges mindelio photography tribute beautiful center day 500px ever good
+Topic #4 with probability 1.73%: godt kan sa ogsa nok ja ved lige lidt ligger sammen køre ser hjemme synes bo nogen virkelig helt bedre
+Topic #5 with probability 1.99%: pa politidk ogsa tæt vej se god kommer mulighed hjem vores politi lige pas kom københavns nok gar kære fantastisk
+Topic #6 with probability 1.45%: twitterhjerne sted kan bedste nogen godt pa gerne morgen spise kaffe cafe god kl fa lækre far frederiksberg lækker søndag
+Topic #7 with probability 1.61%: indre oslo ha ønsker nyheter mer hver nye velkommen folk sted politiet øst dittoslo flere sikkert tid mest bedre bo
+Topic #8 with probability 1.77%: indre sa tak kulturhuset omkring elsker københavns lige via siger bor roligt igen far hurtigt før kører glad klart smukke
+
+Top 8 topics for indreby_positive.json using the LDA models with tf features.
+Topic #1 with probability 12.00%: indre kr elguitar 500 guitar supreme fed super 1309 nyt 000 komplet tokai andet 400 stand christianshavn 198 1367 pedal
+Topic #2 with probability 39.69%: indre kan godt så tak god lige dag lidt bedste sted aften kun twitterhjerne få nyheter får igen københavns fik
+Topic #3 with probability 4.98%: indre bedste center beautiful får leder middag rehabiliteringscenter visionær areas køber søg spar travel close sikker pris 30 area arbejder
+Topic #4 with probability 11.10%: indre så ja bil går cykler flere ha bedre hele heller bare fuld varmt folk hvorfor varme smuk 19 av
+Topic #5 with probability 2.40%: day dybbølsbro brygge vasbygade kalvbod ingerslevsgade massiv one hensyn vis kø samt great menu retters trafikhovedstad restaurant long atlético roser
+Topic #6 with probability 3.71%: indre 500px popular commencais claude reflet indrė mindelio søges photography studerende moment organisatorisk jobdk stærk students studiejob dk samme zilvinas
+Topic #7 with probability 21.91%: indre godt ved kan nok nogen gerne twitterhjerne bedre sted så bare gode ligger må fint politidk kommer trygt anbefale
+Topic #8 with probability 4.23%: indre lækker brunch go populære raw hygge 42 står ny pris halv næstved lækre dag bedste nyt kæresten smukke downtown
+
+Top 8 topics for indreby_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.16%: indre dag kr ja kun super ogsa ramt bil ved andet elsker omkring uden fint bare kulturhuset fed mangler københavns
+Topic #2 with probability 0.71%: elguitar supreme kr 500 1309 guitar nyt komplet 198 begyndersæt indre fed forstærker 400 super tokai 000 andet fin tilbehør
+Topic #3 with probability 0.48%: kulturhuset battles rap slam vs 11 klar beta fresco simon indre magermayn vigsø via particle jake januar norup mikkel mr
+Topic #4 with probability 1.19%: pa indre tak tæt se ogsa politidk aften vej kan dag god cafe lige pas kom hinanden gar nar vores
+Topic #5 with probability 0.34%: 500px popular reflet claude commencais mindelio indre photography elghazyhamzaphotographe une rive odeyus_eye world black beautiful photo sur fund gader fucked
+Topic #6 with probability 1.18%: godt sa kan indre nok ogsa sted lige lidt ja ved nogen twitterhjerne fa bo god bare gar bedre bud
+Topic #7 with probability 0.57%: bedste twitterhjerne gerne far indre sted kaffe go tæt bud bare morgenmad take finder away brunch dag cafe kr spise
+Topic #8 with probability 0.41%: nyheter oslo dittoslo ha bli tøyen sport av bo sted savnet thereses indre gate mer bilfri nabokjerringer ivrige hurra syklist
+
+Top 8 topics for indreby_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.67%: indre ved kun tak lige ja sa uden omkring nar mere helt hele rundt gar lidt bare mangler god kbhpol
+Topic #2 with probability 1.16%: kr elguitar super nyt guitar supreme 500 fed komplet pedal stand overdrive fin tokai andet mærke boss 400 fender begyndersæt
+Topic #3 with probability 1.28%: indre kulturhuset slam rap vs love via travel battles go klar dr like sur takker photography ever beautiful get one
+Topic #4 with probability 1.60%: pa tak vej se tæt vores kommer politidk første sidder kom gar tilbage hjem nar morgen god mulighed lige nytorv
+Topic #5 with probability 1.39%: indre københavns politidk politi ramt politiet nat stor kaos tv dag sikkert omrade restaurant væk spar dk spærret ny st
+Topic #6 with probability 1.27%: sa kan godt nok ogsa lidt lige popular se ved nogen ja reflet claude commencais ligger ude tage plads fa
+Topic #7 with probability 1.26%: twitterhjerne sted kan bedste godt kl gerne nogen kaffe frederiksberg cafe spise god steder rt sadan morgen kender søde kom
+Topic #8 with probability 1.40%: indre ogsa oslo nye ha nyheter ønsker synes mest av mer folk hver fire elsker mindre dittoslo hvordan seg kommer
+
+Top 8 topics for indreby_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 6.56%: indre kulturhuset 11 battles rap slam av klar vs ha ring sentrum city love nye sagt gi mot kvinde oslo
+Topic #2 with probability 3.38%: område indre mistænkelig afspærret fået fc kasse fck trafik første parken 22 politiet la københavns kommet høre bag højt atlético
+Topic #3 with probability 52.23%: indre så kan godt ved lige dag ja sted bare tak god bo få går kun lidt københavns folk politidk
+Topic #4 with probability 6.44%: indre 500px popular dr tv dk ramt signal mindelio valby bt commencais reflet claude pænt bredbånd beboere nedbrud søges frederikssund
+Topic #5 with probability 14.25%: indre bedste gerne kl 30 twitterhjerne nye godt cykler café ingen nok 19 gratis 17 får tak ude sted svært
+Topic #6 with probability 3.08%: indre spar hensyn center vis done oplyser massiv jul massage damer beauty kø get grå ærligt sign close samt politiet
+Topic #7 with probability 4.96%: indre dkpol kbhpol like parkering flot st lokaludvalg hygge andet kr frogner størst slagsmål først uorden pas anmeldelser derfor hente
+Topic #8 with probability 9.10%: indre kr elguitar super 500 000 guitar supreme fed 1309 nyt komplet stand 400 pedal boss andet tokai 100 overdrive
+
+Top 8 topics for islandsbrygge_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.93%: pa sa brand fælled kan lige ogsa desværre mangler bor dag ved bare vej fire lidt kun politiet kvinde dkpol
+Topic #2 with probability 0.47%: bryghus drinking princess bastard photo darkest suns revenge reepicheep axe ipa todd beer bitter good new tap ale ratebeer hops
+Topic #3 with probability 0.47%: problemer tekniske lufthavnen tog ved strand pga øjeblikket amagerbro ml forsinkelse forsinkelser 10 skyldes ca grundet ingen minutters alarm øresund
+Topic #4 with probability 0.52%: mand anholdt arig pa politiet død drab dr fængslet fundet skyderi kvinde tre 28 mænd blevet politi politiken ung stukket
+Topic #5 with probability 0.31%: series sinner greed bryghus drinking photo envy beer gluttony sloth available wrath lust craftbeer sinners pride bitter amagerbryghus pilsner replacing
+Topic #6 with probability 0.45%: christianshavn ballade movie download actors huset pa vold metro christianshavns miss 1971 online problemer ml lost volden jes drift elevatoren
+Topic #7 with probability 0.30%: ramt skud mand person pa ung skyderi holmbladsgade personer blevet fire oplyser skudepisode 20 aften flere undersøger skudt tre benet
+Topic #8 with probability 0.37%: bio death metal eagles live deathmetal koncert going concert blackmetal see 11 extrememetal tickets 23rd june kurt vile 2016 lost
+
+Top 8 topics for islandsbrygge_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.86%: pa fælled brand dkpol fire politidk politiet mangler ar flere kvinde via vej uheld morgen far tre kun aggressiv dr
+Topic #2 with probability 1.08%: bryghus drinking photo princess bastard ipa new todd replacing suns bitter axe ale tap hell darkest beer revenge pale mikkeller
+Topic #3 with probability 0.90%: ved strand problemer amagerbro tog christianshavn tekniske pga lufthavnen ingen øjeblikket ml station mad skyldes forsinkelse mellem ca islandsbrygge 10
+Topic #4 with probability 0.86%: mand ramt arig skud politiet anholdt ved skyderi død tre dr fængslet politi ung fundet person kvinde drab politiken mænd
+Topic #5 with probability 0.72%: series sinner greed twin beer evil replacing love sloth envy ok øl la sins twitter deadly craftbeer tap available sinners
+Topic #6 with probability 0.77%: christianshavn ballade huset vold movie download voldtægt metro missed christianshavns miss volden sur actors stor die christiania anholdt watch abandoned
+Topic #7 with probability 1.47%: sa fremad kan ogsa lige bare fucking se desværre kommer mangler lidt fuck gar bakke nogen dag slut ja gider
+Topic #8 with probability 1.09%: bio strandpark sure metal live death koncert bad see fc fire going bet tonight miss danish profit beach fuck night
+
+Top 8 topics for islandsbrygge_negative.json using the LDA models with tf features.
+Topic #1 with probability 9.30%: fælled ved brand flere fængslet 30 fejl politidk død alarm shit stor fundet biler brygge islands tre dage ulykke dr
+Topic #2 with probability 9.53%: amagerbro ballade mad metro ingen station movie download helt uden time ja actors tage uheld frank jensen metroen wtf elevatoren
+Topic #3 with probability 26.49%: christianshavn så ved problemer kan lige tog strand amagerbro tekniske lufthavnen pga islandsbrygge mangler ml bare dag igen desværre lidt
+Topic #4 with probability 8.86%: fremad kvinde fire 20 år sure fc kamp bet kbhpol sidste får dræbt årig fremadamager taber stort skudt natten yeah
+Topic #5 with probability 12.71%: bio bakke bad metal death danish miss live one today new love see going eagles lost beer get day tonight
+Topic #6 with probability 12.97%: bryghus drinking photo series ipa sinner bastard princess greed replacing pa beer ale todd bitter tap evil twin axe hell
+Topic #7 with probability 7.28%: ude fuck fælled die 16 11 siden aggressiv år night us 18 natur unge troede jag værste kæmper gået dreng
+Topic #8 with probability 12.85%: mand ramt politiet anholdt årig strandpark skud dr skyderi politi mænd københavns tre ung blevet aften person bil drab endnu
+
+Top 8 topics for islandsbrygge_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.45%: bryghus drinking photo beer great ipa good big nice sausage kentucky fest series todd axe xiquic twins hero sinner amazing
+Topic #2 with probability 0.22%: joss impressive stone performed nr 2016 photos bio photo cbc celebration blue today fuck full fuldt fuldstændig fulde fuld fuego
+Topic #3 with probability 0.65%: pa sa godt kan bor lige ogsa ved dag tak god strand nar ja haber lidt fælled nok bare se
+Topic #4 with probability 0.38%: christianshavn beautiful huset christiania popular 500px day dansk morning olemsteffensen like good travel blue lovely place great best copenhague church
+Topic #5 with probability 0.29%: love drinking tørst stars blueberry photo blueberries aronia twin 75 evil islandsbrygge 25 never tasty summer music jason mandarina hill
+Topic #6 with probability 0.25%: stout imperial frederiksen hr sundby bryghus new frog blueberry danish collaboration tap chocolate twin 10 brunch metal craftbeer mikkeller wheat
+Topic #7 with probability 0.29%: bio interested aften live concert koncert night show video tonight liked glæder prince thank wow bow great last tak support
+Topic #8 with probability 0.24%: strandpark beach day beautiful good nice summer morning today ved strand sunset sun station great others happy enjoying fun fantastisk
+
+Top 8 topics for islandsbrygge_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.80%: bryghus drinking photo great beer ipa nice good one sweet thanks series big fest sinner like super todd xiquic sausage
+Topic #2 with probability 0.57%: bio nr impressive stone joss performed photos aften 2016 spiller koncert interested glæder support ses prince star læs vinde kl
+Topic #3 with probability 1.69%: pa sa godt kan ved tak ogsa lige dag nar se lidt god fælled elsker ja nok morgen fik vej
+Topic #4 with probability 0.85%: christianshavn like place popular best lovely beautiful huset dansk one travel blue home city top christiania nice would wonderful today
+Topic #5 with probability 0.51%: love drinking stars tørst blueberry fælled blueberries tarnby music video aronia islandsbrygge 33 25 say oh never somebody odense surely
+Topic #6 with probability 0.54%: stout imperial new hr sundby frederiksen danish brunch twitter tap mikkeller 10 væsel top com craftbeer collaboration metal frog twin
+Topic #7 with probability 0.79%: fremad live time video vandt night tonight see win vinder amazing last show concert rt lol wow thank liked way
+Topic #8 with probability 0.77%: strandpark strand islandsbrygge day beach today beautiful good nice morning summer sun great weekend amagerbro happy sunset velkommen fun hygge
+
+Top 8 topics for islandsbrygge_positive.json using the LDA models with tf features.
+Topic #1 with probability 13.85%: christianshavn så kan godt bor bare huset lige sted må velkommen hjem nogen haha sunset glad love folk hjælpe kender
+Topic #2 with probability 8.95%: islandsbrygge elsker time day håber happy ha få fun weekend gang får really good st 1000 hold pretty walk life
+Topic #3 with probability 17.44%: drinking bryghus love photo stout beer imperial ipa great 2016 good danish nice bio new nr amazing impressive stone joss
+Topic #4 with probability 11.10%: great amagerbro beautiful strandpark best like live night thanks vores nice twitter com big la place good tillykke last one
+Topic #5 with probability 8.97%: fremad city dk lille ser metal se smuk via hope win center sushi fremadamager wonderful siger lol kirke flere fan
+Topic #6 with probability 8.80%: bedste dansk enjoying top new summer beach video fin set perfect sun day strand strandpark house kr siden church kærlighed
+Topic #7 with probability 9.37%: bio today morning love christiania popular vinder stars 500px koncert tonight travel good 25 søndag home come like sikker world
+Topic #8 with probability 21.51%: ved godt dag tak god lige fælled lidt fik kan aften fantastisk ja glæder går kl super helt kom morgen
+
+Top 8 topics for nørrebro_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.55%: ramt skud person pa personer tilfældige flere plads nyt nat affyret nær dr røde blevet aften politibil tre tilfældig mand
+Topic #2 with probability 1.14%: pa sa brand dkpol kan unge lige mangler ballade bare gar ogsa se aften dag fa lidt mere kun tabt
+Topic #3 with probability 0.46%: police killed dancing pigeon station shot cphshooting suspect train dead near fire via one person copenhagenshooting fired danish breaking shots
+Topic #4 with probability 0.53%: anholdt pa tre personer flere demonstration demonstrationer mænd uroligheder bandemedlemmer 28 unge dr ni drab politiet fire frihed voldsom skudopgør
+Topic #5 with probability 0.47%: ved politiet station dræbt dræber mand skyder person politiskud skudepisode skudt cphshooting ny død fire antager affyrer manden anholdte drnyheder
+Topic #6 with probability 0.38%: dræbt arig 16 dreng skud 19 pa bandemedlem kort 22 kvinde blagardsgade kl død fundet dk skudepisoder 29 person tv2
+Topic #7 with probability 0.38%: skyderi politi afspærrer del nyt medie ramt flere nyheder bandemedlemmer pa bandemedlem dele mænd fængslet natten tilfældige afspærret endnu gerningsmand
+Topic #8 with probability 0.48%: mand fængslet ung arig pa knivstik skudt knivstikkeri drabsforsøg stukket død 26 politiken sigtet dr 19 lejlighed fredag mænd kvinde
+
+Top 8 topics for nørrebro_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.46%: pa skud ramt person ydre aften uden personer nat flere blevet indre tilfældige politiet plads ingen wtf dr tv nye
+Topic #2 with probability 2.17%: pa sa kan lige dkpol mangler ogsa lidt bare vold nok se fucking gar kun set kr ballade nogen svært
+Topic #3 with probability 1.39%: police station killed shot cphshooting fire one suspect sure miss noerrebro train via dead shit today die street go twitter
+Topic #4 with probability 0.71%: anholdt politiet tre arig personer mænd demonstration unge fire uroligheder mand ved flere ni drab dr demonstrationer politiken tv2 skudopgør
+Topic #5 with probability 0.90%: ved politiet tabt station mand st dræbt død skudt ny truet samme dk dræber sad stoppe bag vermund gerningsmanden pernille
+Topic #6 with probability 0.84%: pa arig bryghus dræbt via pigeon mad 16 drinking kl øl dancing dreng teater stort kvinde 19 video kort la
+Topic #7 with probability 0.89%: skyderi politi dkpol før del nyt imam nyheder jøder krig terrorangreb dagen gerningsmand rt moske norrebro endnu afspærrer dele natten
+Topic #8 with probability 0.95%: pa mand unge fængslet brand mænd ung tre politiken knivstik lejlighed voldsom raser voldsomt dr frygter knivstikkeri stukket offer vold
+
+Top 8 topics for nørrebro_negative.json using the LDA models with tf features.
+Topic #1 with probability 22.18%: ramt skud anholdt mand politiet årig skyderi ved dræbt fire mænd fængslet person personer politi aften tre flere dk skudt
+Topic #2 with probability 9.09%: dkpol kun ungdomshuset mere dkmedier hvorfor ballade bange gider træt ut nordvest gennem truet sten væk kbhpol nok skaber mister
+Topic #3 with probability 9.76%: indre svært ny 10 beboere uroligheder borgere del bare hærværk plads stadig ingen vold tilbage df flere skole bo 000
+Topic #4 with probability 9.08%: police station unge shot rt cphshooting ydre bander utilpassede siden train ik raser suspect fired gøre shots la vrede imod
+Topic #5 with probability 9.56%: før kl fucking børn imam dagen jøder krig hellerup terrorangreb gå overklassen 30 11 vej finde terror talsmand crazy moské
+Topic #6 with probability 20.98%: så kan lige tabt mangler ved dag igen brand går bor bare nogen bryghus fuck kr 2200 helt desværre lejlighed
+Topic #7 with probability 9.03%: få killed lidt år mad police skyld via se new danish pigeon video sur sker slut længere øv dancing mener
+Topic #8 with probability 10.32%: one problem vold wood langt hader noerrebro die sammen live go første morning park today madness teater gang near street
+
+Top 8 topics for nørrebro_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.87%: pa tak bor bedste teater aften dag lige ogsa ved fik god bare haber se twitterhjerne dkpol sikker gar glæder
+Topic #2 with probability 0.27%: love gotta distortion new city hood photo one danish streetart live rt would year pizza always part best superkilen york
+Topic #3 with probability 0.21%: elsker kærlighed bare bo sted vej elle mennesker længere hjem cphdistortion teater holde nar velkommen lige kender hood noerrebro bor
+Topic #4 with probability 0.32%: 2200 kr elguitar super fed 500 000 pedal guitar 800 lækker boss fender andet gibson 200 sg fin ibanez 400
+Topic #5 with probability 0.37%: good bryghus morning beer drinking nice great photo new day stout night ale food øl like beautiful one coffee place
+Topic #6 with probability 0.40%: godt kan nok anbefale nogen ogsa lide sted ved tror lidt nar nytar spise se komme god twitterhjerne pa fa
+Topic #7 with probability 0.34%: sa lige kom fik bare kan glad klar helt ja kommer igen teater forbi lidt gar nar glade nok ved
+Topic #8 with probability 0.14%: soul wins adaptation climate concept project major design multi designboom firm architecture team dbreaders challenge via led nordicbuiltcities inspiration sla
+
+Top 8 topics for nørrebro_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.78%: pa tak ved bedste dag dkpol ogsa god bor haber fik se spændende twitterhjerne plads stor vores nye ar ny
+Topic #2 with probability 0.91%: love distortion happy street city streetart time live fun pizza welcome party new art life part park best one sunday
+Topic #3 with probability 0.63%: elsker teater velkommen hjem kærlighed vej mennesker dag cphdistortion se louises solskin bro bycenter kebab bare nye dronning sol lækkert
+Topic #4 with probability 0.66%: kr super 2200 lækker top fed fin flot elguitar perfekt 000 trends pedal smuk dejlig 500 stand guitar ha andet
+Topic #5 with probability 1.19%: good like great nice day morning night place retro today thanks one video weekend food lovely best beautiful summer sunshine
+Topic #6 with probability 1.03%: godt kan ved ogsa nar nok lidt nogen sted tror indre kun god mere twitterhjerne se lide ja anbefale sadan
+Topic #7 with probability 1.04%: sa tak lige glad kom station haha ja fik vild se søde bare vores st valby glæder gar kommer helt
+Topic #8 with probability 0.68%: bryghus øl beer hygge new photo via drinking soul twitter stout wins la project norrebro superkilen ale com climate adaptation
+
+Top 8 topics for nørrebro_positive.json using the LDA models with tf features.
+Topic #1 with probability 13.60%: good great like best day hygge one morning time today night soul thanks summer via see bryghus go life danish
+Topic #2 with probability 12.12%: love new happy nice top beautiful place city set home distortion like street trends øl bryghus røde party art superkilen
+Topic #3 with probability 8.44%: bryghus beer spændende fint unge drinking ydre bispebjerg noerrebro pizza video coffee fået la 14 pris nyt nice photo hvorfor
+Topic #4 with probability 12.67%: kr bedste dag super teater elguitar morgen velkommen 000 twitter vores flere folk sidste søde 500 cafe com hjælp ha
+Topic #5 with probability 11.69%: 2200 dkpol mere godt kl fed politiet kan fantastisk ny stor anbefale flot kære gør ja 30 stadig lige kærlighed
+Topic #6 with probability 9.81%: tak elsker glad haha distortion hele retro park fordi boss ligger arbejde take gøre awesome hej bare bruge glæder aften
+Topic #7 with probability 23.02%: så kan godt ved lige god bor fik bare se lækker gerne håber indre lidt få kommer kun år helt
+Topic #8 with probability 8.64%: dk food kom vild fine tillykke tager nordvest streetart hjælper fred 10 16 ren gratis teater år ses bar fejrer
+
+Top 8 topics for nørrebro_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.77%: pa godt kan anholdt bor tak ogsa ved dkpol dag lige aften bedste se teater gar unge lidt god bare
+Topic #2 with probability 0.30%: skud ramt mand arig pa skyderi person dræbt politiet anholdt personer flere nyt skudt dr 16 ung tilfældige tre 19
+Topic #3 with probability 0.18%: love gotta distortion new city hood photo one danish live year pizza would always part best 2012 superkilen streetart home
+Topic #4 with probability 0.29%: sa kan lige bare kom igen nok fik kommer forbi nar mangler glad lidt ja ballade ogsa teater klar helt
+Topic #5 with probability 0.22%: 2200 kr elguitar super fed 500 000 pedal 800 boss lækker guitar fender andet gibson overdrive 200 ibanez sg mærke
+Topic #6 with probability 0.28%: bryghus good beer drinking morning nice photo øl great new stout ale granja lager food la beers one like day
+Topic #7 with probability 0.23%: station police killed ved shot cphshooting train pigeon dancing suspect politiet person near fire dead one fired breaking shots mand
+Topic #8 with probability 0.14%: elsker kærlighed bo bare vej sted elle mennesker hjem teater cphdistortion lige velkommen længere nar kender holde hood bor livet
+
+Top 8 topics for nørrebro_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.54%: pa tak ogsa dkpol se ydre indre vores twitterhjerne aften kl mere dag nye bor bedste gar god igen ar
+Topic #2 with probability 0.59%: skud ramt mand politiet skyderi arig anholdt person ved personer dræbt tre fængslet skudt dr mænd flere politi ung nyt
+Topic #3 with probability 0.86%: love like distortion happy street best time place great new today beautiful nice home city summer day live one streetart
+Topic #4 with probability 0.87%: sa kan godt ved lige ogsa lidt st nar bare se nogen nok tabt tror kommer ja valby kom glad
+Topic #5 with probability 0.59%: kr 2200 super lækker tak top fed soul flot elguitar ny dejlig distortion fin 000 fantastisk pedal wins pris project
+Topic #6 with probability 0.67%: good police via station morning killed cafe video twitter one noerrebro go shot dk rt danish coffee fuck fire suspect
+Topic #7 with probability 0.63%: pa elsker unge ved velkommen politiet dkpol station vold politi lige anholdt skole kærlighed ballade væk demonstration jøder voldsom vej
+Topic #8 with probability 0.65%: bryghus teater øl beer drinking norrebro hygge nice good retro night great photo food mikkeller new stout weekend ale jægersborggade
+
+Top 8 topics for nørrebro_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 9.24%: teater går nok gør ha før dag thanks mellem ik sweet nørrebrogade mennesker jøder dagen bispebjerg tillykke tag byen imam
+Topic #2 with probability 9.08%: 2200 kr super lejlighed lækker fantastisk frederiksberg 000 fed retro flot kommer elguitar nye fint andet hjælp dk ny gøre
+Topic #3 with probability 12.38%: mand politiet anholdt aften ved like fik igen årig blevet øl dr politi fængslet skudt tre mænd 20 tilbage station
+Topic #4 with probability 13.31%: tak bryghus good distortion beer great one happy photo new beautiful time morning home haha today night place nice drinking
+Topic #5 with probability 10.85%: best bar street nice city lørdag rt cafe hygge holder gratis nörrebro 12 party fine lovely fun fuck take mad
+Topic #6 with probability 10.81%: skud ramt unge police station skyderi dk flere fire person bryghus noerrebro elsker velkommen stor killed nat nyt aldrig plads
+Topic #7 with probability 21.99%: så kan godt lige bare ved lidt bor god se bedste mere få ja helt indre nogen kun må håber
+Topic #8 with probability 12.34%: dkpol love dag år kl får via ingen day gang park set brand 10 gå 30 sidste vild tager siden
+
+Top 8 topics for torvehallerne_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.78%: mad vin dkfood amok laver vegan mekka al _dk palæo franske go lidt mums also gar spot lunch irma gaet
+Topic #2 with probability 2.30%: market food make sure die pretty danish many stall go street places one visit amazing much city tour hall two
+Topic #3 with probability 2.07%: pa vores la suk dag arige forleden arbejde svar siger morgen gar finde ar hjem arkitekt kan desværre samme kom
+Topic #4 with probability 1.20%: coffee collective two already sad wtf first world top day fucking one september pastry get hot amazing morning cava lunch
+Topic #5 with probability 1.83%: sa ved lige dejlige dumt tager sad store lille husk kan ogsa dag nar rundt godt spiser mand maske hold
+Topic #6 with probability 0.76%: yesterday espressohouse crockery filthy drinking french fish followers food foran forbi forleden former franske fredag fremover frokost fire fruit fuck
+Topic #7 with probability 1.00%: bad bourbon ass bakery danish 60 arige stedet tog okt succesen gentager tasting forbi 18 really 17 fredag kl 00
+Topic #8 with probability 1.23%: miss tacos makes going monster aka dinosaur cookie baby madblogs via dk pictures looking chef places really juice ah bought
+
+Top 8 topics for torvehallerne_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.35%: mad pa lidt gar kan uden vin bar spot al samme dkfood laver marts tage debat kaffe mekka kedeligt palæo
+Topic #2 with probability 2.97%: market food sure stall many make try go visit one tour much far markets poor sur place check miss rt
+Topic #3 with probability 2.67%: pa dag mangler arkitekt suk desværre dk vejle vores mand fire aldrig ja ibyen ouch siger lukket boost chokeret rodebutik
+Topic #4 with probability 1.61%: coffee day collective lunch already two fucking miss hot first wtf top world cava september sad abenbart mikeller tidligere juice
+Topic #5 with probability 2.86%: sa ved lige tager ost shit dag købe darlige se ogsa dkpol kan nar sad gang dumt dansk dyre fairarbejde
+Topic #6 with probability 1.55%: stand cake smørrebrød crockery espressohouse filthy yesterday ga others alright got chocolate noma cupcakes well 15 taco show doree get
+Topic #7 with probability 2.09%: bad die danish oh much 00 far ass open kl kopenhagen soon bourbon ich smorrebrod sidde great tasting torvhallerne shop
+Topic #8 with probability 2.45%: good miss stall drinking pretty tacos fish could dk photo ok beer damn via duck travel angry think hijadesanchez madblogs
+
+Top 8 topics for torvehallerne_negative.json using the LDA models with tf features.
+Topic #1 with probability 9.37%: photo se good yelp sur aka cookie monster baby miss ale dinosaur fuck dårlige ost tog bad må though fruit
+Topic #2 with probability 17.01%: så dag ved lige mand die kom fire spise dkpol fish store foran kan må rundt ok open tager stay
+Topic #3 with probability 16.35%: market food stall miss cheese could la street bought one beer pretty make cava tapas last far went paleo amazing
+Topic #4 with probability 9.13%: try sure day make oh cupcakes well gå alright got round tower hader shit smørrebrød others top complaint list market
+Topic #5 with probability 10.11%: dk arkitekt bad bourbon yesterday filthy espressohouse crockery 00 fredag kl ass madblogs via ibyen 17 okt tasting gentager fremover
+Topic #6 with probability 11.10%: coffee much collective sandwich kiin drinking miss mikeller check food two lort dyre maven fav fucking beers bars rt day
+Topic #7 with probability 16.00%: mad lidt kan also desværre uden food day suk kedeligt nørreport dkfood vin brød palæo frokost tivoli kr lige politisk
+Topic #8 with probability 10.93%: danish mangler går papirøen good stand kaffe tacos stall bad køber fattig cake granny søndag house damn bakery rosas travel
+
+Top 8 topics for torvehallerne_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.40%: food market amazing great place lovely visit one street also delicious best favorite awesome like nice travel markets worth smørrebrød
+Topic #2 with probability 0.82%: best western vejle hotel drinking beer ever mayor befinder ipa 16 checked kirketorvet dansk big post room town world one
+Topic #3 with probability 0.76%: coffee collective coffeecollective morning best today great kaffe location amazing everything top town cheese lpindenmark place seafood cup mt enjoying
+Topic #4 with probability 0.59%: win blanca costa trip costablancaincopenhaguen day last market come alicante us taste wine paella find start great know sunny fin
+Topic #5 with probability 0.60%: love others much market place bar time need christmas dk yum thepeacebomb stalls fun fish especially vscocam seen little gourmet
+Topic #6 with probability 1.07%: pa godt sa ved kan lige ogsa kaffe god dag vej tror bedste lidt ligger gar bare sted nok ellers
+Topic #7 with probability 0.46%: beautiful day market torvehallernekbh flowers breakfast outdoor enjoying produce friday tomatoes pictures sunny yellow another pastries winter interesting twitter markets
+Topic #8 with probability 0.60%: good morning grød time porridge day lunch back got go really place food also smørrebrød right lord intended way first
+
+Top 8 topics for torvehallerne_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.98%: market food amazing lovely one visit markets great place go travel places street new worth twitter also fantastic recommend super
+Topic #2 with probability 1.14%: best western vejle hotel drinking town ever world life 16 beer 10 bij fransk hvem wide found hygge post koncert
+Topic #3 with probability 1.10%: coffee collective morning coffeecollective perfect seafood top everything friday danish kaffe today inspiration luksus _thomsen succes espresso sun laver thanks
+Topic #4 with probability 0.85%: day win trip last blanca costablancaincopenhaguen costa taste start sweet come wine sunny abner us night alicante 15 valentine way
+Topic #5 with probability 1.09%: love dk via others cava bar fun pic yum place cute madblogs ibyen much lauras tuesday thepeacebomb seen let need
+Topic #6 with probability 2.50%: pa sa godt ved kan lige tak bedste ogsa dag god super sted lækkert lidt elsker lækker kaffe forbi ja
+Topic #7 with probability 1.22%: market beautiful happy wonderful heaven foodie sandwich fresh hovedstaden torvehallernekbh rt photo paradise city produce vscocam birthday el people confit
+Topic #8 with probability 1.72%: good like great delicious time lunch smørrebrød nice enjoying place today grød danish yummy tapas shopping paleo shop thanks porridge
+
+Top 8 topics for torvehallerne_positive.json using the LDA models with tf features.
+Topic #1 with probability 14.18%: coffee collective beautiful love hygge one places favorite market enjoying sweet favourite morning perfect coffeecollective cake great sun day sunday
+Topic #2 with probability 31.57%: market food good great amazing day nice love danish best place also lovely go lunch markets visit like trip win
+Topic #3 with probability 6.88%: lækkert bedre breakfast dejlig others come gourmet tuesday le copenhague twitter com lækre nyhavn gorms ok mercado hyggeligt vino world
+Topic #4 with probability 8.13%: tak happy elsker palæo dk tapas love bar cava paleo via photo thepeacebomb fair dkpol healthy går sommer madblogs seen
+Topic #5 with probability 8.16%: best vejle western hotel ha drinking 16 beer friends help location full need town post carlsberg koncert far dansk world
+Topic #6 with probability 18.19%: godt så kan ved lige god bedste dag super sted få forbi kaffe ja glad lækker ellers lidt nok ligger
+Topic #7 with probability 6.50%: sandwich duck delicious lunch wonderful går really klar rum bag drinks confit tasting och poule district ny meatpacking things true
+Topic #8 with probability 6.39%: like plads tur besøg dk israels bedste ibyen please 20 øko fødevarer dagen fantastisk overvejer super early bare dag coming
+
+Top 8 topics for torvehallerne_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.26%: market food amazing great place visit one lovely street also places delicious favorite best like awesome smørrebrød nice markets worth
+Topic #2 with probability 0.71%: best western vejle hotel drinking beer ever mayor befinder ipa checked 16 kirketorvet post dansk big town room one world
+Topic #3 with probability 0.68%: coffee collective morning coffeecollective best today great kaffe top amazing location everything town lpindenmark place real seafood cheese spots cup
+Topic #4 with probability 0.52%: win blanca costa trip day costablancaincopenhaguen last market come alicante taste us wine paella find start great know sunny like
+Topic #5 with probability 0.99%: pa sa godt ved kan lige ogsa dag god kaffe vej lidt mad gar tror nørreport bedste ligger fa tur
+Topic #6 with probability 0.52%: love others much place market bar time need christmas thepeacebomb yum dk stalls fun fish especially little seen gourmet tonight
+Topic #7 with probability 0.40%: beautiful day market torvehallernekbh flowers breakfast outdoor enjoying produce friday tomatoes sunny pictures yellow another pastries winter twitter interesting markets
+Topic #8 with probability 0.53%: good morning grød time porridge lunch day back got italian really place go also food right smørrebrød first intended lord
+
+Top 8 topics for torvehallerne_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.80%: food market amazing visit lovely go markets great travel street also city place new one worth nørreport recommend fantastic check
+Topic #2 with probability 1.06%: best western vejle hotel drinking ever town 16 life fire world succes beer 10 kl fransk dansk pa show bij
+Topic #3 with probability 1.05%: coffee collective morning top coffeecollective perfect kaffe everything laver seafood _thomsen today danish two luksus mt spot espresso lpindenmark cheese
+Topic #4 with probability 0.83%: day trip win last market costablancaincopenhaguen costa taste sweet blanca start come wine sunny fin us way night alicante know
+Topic #5 with probability 2.47%: pa sa ved kan godt lige dag mad ogsa tak bedste god lidt lækkert sted super ja elsker kaffe forbi
+Topic #6 with probability 1.03%: love dk others via much fish bar fun pic cava madblogs place photo seen cute need yum tonight tuesday peace
+Topic #7 with probability 1.12%: market beautiful nice one wonderful fresh hovedstaden places favorite foodie torvehallernekbh super miss rt el photo awesome produce vscocam holiday
+Topic #8 with probability 1.69%: good great lunch time like delicious place smørrebrød happy sandwich grød today enjoying tapas heaven danish cake tacos yummy shopping
+
+Top 8 topics for torvehallerne_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 8.66%: kan ja få bare lidt dag yes tror oh lækkert true kun helt samme gå ret må 18 synes inspiration
+Topic #2 with probability 21.96%: coffee love market collective great good time beautiful visit go new today delicious place lunch one also danish happy amazing
+Topic #3 with probability 6.69%: dag så elsker aften ha rum nyder igen fisk husk øl vejr søndag håber købt kan bakery ingen pink mangler
+Topic #4 with probability 9.37%: day market last danish win trip top costa blanca costablancaincopenhaguen thanks taste seafood everything wine stall cheese markets coffee 10
+Topic #5 with probability 8.56%: hygge fik lunch paleo super yummy frokost besøg lækre cupcakes nørreport vild får healthy weekend bad ude juice palæo fordi
+Topic #6 with probability 21.28%: food market best vejle western amazing nice like hotel lovely great street tapas place heaven wonderful markets good beer com
+Topic #7 with probability 12.70%: så godt ved dk sandwich via pizza bedre går la ok gorm sted god kl fish duck spise ellers kom
+Topic #8 with probability 10.78%: mad lige bedste tak kaffe ved lækker dag god kan nok forbi godt lidt købe vores se nye arbejde tur
+
+Top 8 topics for valby_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.25%: dirty john dr aka tickets show tonight friday saturday live 00 get 30 bar night next week tomorrow altar special
+Topic #2 with probability 0.63%: st dsb fejl skyldes tog rejsetid pa længere ved linje signalerne mellem frederikssund kører øjeblikket færre togene høje taastrup teknisk
+Topic #3 with probability 0.51%: cm ser kunde dick dk kniv 160 kokkekniv premier pa superior plus nature 18 23 21 1905 26 udbenerkniv serie
+Topic #4 with probability 0.52%: anholdt arig mand drabsforsøg skyderi unge knivstikkeri 25 mænd røverisag drab opgør skuddrab politiet ung røveri aben politiken 23 39
+Topic #5 with probability 0.94%: pa sa station bakke vej lige igen kan tog mangler desværre idrætspark sidder langgade ogsa hallen se nogen toget brand
+Topic #6 with probability 0.30%: fuck gives john explicit _valby hallen go suck bite eat hej listen igen holy røven yeah comedian welcome said personpakørsel
+Topic #7 with probability 0.42%: 2500 kr overdrive pedal distortion 000 100 riot sd 125 soft mærke 400 andet ny 800 boss 500 600 plimsoul
+Topic #8 with probability 0.56%: skud ramt mand arig flere politiet ved dræbt 19 fest 31 person skyderi tog kvinde livsfare leder kritisk uden station
+
+Top 8 topics for valby_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.80%: john dr dirty tickets show tonight aka get live saturday friday week next night tomorrow 30 miss special new one
+Topic #2 with probability 1.53%: pa st tog ved fejl station dsb vej mellem sa kører skyldes toget lige linje længere igen kan ingen rejsetid
+Topic #3 with probability 0.62%: dk ser kniv kunde dick cm premier plus kokkekniv superior 160 underwerket nature truet photo 18 21 23 26 serie
+Topic #4 with probability 1.34%: mand anholdt arig politiet skud røver mænd flere unge skyderi ved ramt drab drabsforsøg dræbt lejlighed politiken politi 19 politidk
+Topic #5 with probability 1.89%: sa bakke mangler kan se ogsa idrætspark dag lige langgade hallen lidt vest far kamp slut dkpol kun nogen kbhpol
+Topic #6 with probability 1.54%: john fuck via miss fucking shit playing song listen listening songs right whore fire house home die rt know hallen
+Topic #7 with probability 0.89%: 2500 kr karen mad overdrive pedal nej ny hunger games 000 last 100 distortion andet tv riot food mangler dinner
+Topic #8 with probability 1.21%: brand station ramt stop person theddiner rt new today cop15 voldsom ved swing one prison train someone kraftig live 13
+
+Top 8 topics for valby_negative.json using the LDA models with tf features.
+Topic #1 with probability 14.00%: dk 2500 kr ser kniv dick se kunde cm station kl dag mangler kamp langgade idrætspark 160 overdrive 15 30
+Topic #2 with probability 6.97%: slut mere går komme kan fare tv side svært tv2 sige større verden hus stor amerikansk lad di står kommet
+Topic #3 with probability 15.36%: så lige bakke ved desværre karen mad bare kan st igen swing kommer theddiner bor sad må mangler kbhpol crazy
+Topic #4 with probability 13.69%: mand anholdt årig politiet skud ramt ved flere aften røver unge mænd kvinde dræbt dr 19 bakke voldsom drabsforsøg politi
+Topic #5 with probability 6.84%: lidt frederiksberg hjem boss ret dårlig ondt synes virkelig trist al mangler poor eu igen gratis kæmper kun savner sender
+Topic #6 with probability 10.89%: st tog fejl brand dsb mellem linje ved kører skyldes vej længere kan høje taastrup bx rejsetid toget frederikssund ændringer
+Topic #7 with probability 26.12%: john dirty dr aka show tickets get tonight miss live friday fuck 30 00 saturday one 10 week next coming
+Topic #8 with probability 6.13%: kino rt cop15 60 arrested birketræer systematisk gerningsmand slået 70 ihjel riot prison 19 2500 evil kill nedrevet makes problemer
+
+Top 8 topics for valby_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.32%: thank hair pubic nowplaying god john via new lyrics listening pandora fresh bless live dag phil perfect super remember genial
+Topic #2 with probability 0.29%: iphone nej sim last gb 16 sort flot kr 2500 super 000 800 hvid 5s velholdt 600 32 500 fin
+Topic #3 with probability 0.32%: familiefilm populære baseret bøger dansk villads arige pa 12 bio rødding kinoteater grindsted ari biografen kanten filmteatret hobro bibliografen dre
+Topic #4 with probability 0.25%: 204 tv langgade 2500 ved pa føler 23 karen th gothersgade anbefale flytter græsplænen lejlighed 36 galleri gadekunst ganas gammel
+Topic #5 with probability 0.86%: pa sa godt kan bakke tak dag lige ogsa se ved ja vej nar haber nok lidt glæder idrætspark morgen
+Topic #6 with probability 0.50%: john video liked dirty dr like favorited funny christmas youtube playing great show comedy lol town live song train night
+Topic #7 with probability 0.48%: kr 2500 elguitar super fed 000 500 andet stand fin fender guitar mærke guitarcombo boss 200 pedal lækker 300 perfekt
+Topic #8 with probability 0.24%: love beautiful gotta day karen one park life home julielindhardt graffiti moving walking _valby really today others loved _goret lol
+
+Top 8 topics for valby_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.52%: god john thank nowplaying pubic hair via perfect listening sushi vandkulturhus wonderful stuff hall things yo boldklub grand till humor
+Topic #2 with probability 0.64%: super langgade 2500 last tv nej sort 16 204 flot sim kr iphone lejlighed gb ny lækker 800 udsigt salg
+Topic #3 with probability 0.92%: pa villads populære dansk familiefilm vej bøger baseret 12 kino 30 sikker arige vores bio kan mandag kom tæt torsdag
+Topic #4 with probability 1.16%: ved godt kan sa lige bakke velkommen st bedste kbhpol spændende ja bor elsker vest nye nar lidt bedre station
+Topic #5 with probability 1.42%: sa tak se ogsa dag godt idrætspark glæder kan morgen kl helt koncert kom parken aften grøn ses søndag igen
+Topic #6 with probability 1.15%: john like video show dr liked dirty great see thanks live night hallen lol christmas funny time playing tonight win
+Topic #7 with probability 0.68%: kr 2500 super fed elguitar top fin la andet stand 000 500 mærke perfekt lækker sælger guitar pedal fender boss
+Topic #8 with probability 1.37%: love karen good happy new welcome nice theddiner great day today utopia dk beautiful dear morning best swing _valby days
+
+Top 8 topics for valby_positive.json using the LDA models with tf features.
+Topic #1 with probability 9.78%: bedste vores kl kino dear 10 langgade ny 00 204 11 se 15 nye dkpol velkommen stor fine kbhpol jobs
+Topic #2 with probability 23.59%: så godt tak dag kan glæder aften lige god idrætspark se morgen år frem håber fik fantastisk kommer kom hjem
+Topic #3 with probability 16.17%: john like great dr dirty thank show god big good nowplaying day hair pubic night live see time christmas hallen
+Topic #4 with probability 7.40%: happy haha rt frederiksberg thanks via _valby plads diner sushi birthday work house park sushi2500 sun toftegårds luksus si sexy
+Topic #5 with probability 11.68%: 2500 kr super iphone elguitar fed 000 langgade nej 500 fin tv andet 16 sim låst flot gb bor sort
+Topic #6 with probability 13.86%: familiefilm bakke så villads populære dansk bøger baseret kan video st ved lidt liked bare ja ha årige 12 la
+Topic #7 with probability 7.35%: mere dk fitness beautiful world lol art lejlighed station really søger leje liv rt people stærk service kultur læs quality
+Topic #8 with probability 10.17%: love karen new koncert nice good grøn welcome carlsberg john tillykke morning job town utopia song look music summer fun
+
+Top 8 topics for valby_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.53%: john dirty dr aka tickets show video tonight liked live saturday friday get night christmas bar 30 like 00 comedy
+Topic #2 with probability 0.22%: iphone nej sim last gb 16 sort flot kr 2500 super 000 800 hvid 5s velholdt 600 32 500 fin
+Topic #3 with probability 0.71%: pa sa st godt kan ved bakke lige tog dag vej dsb tak se fejl station ogsa ja nar skyldes
+Topic #4 with probability 0.25%: thank hair pubic nowplaying god john via listening pandora new lyrics liked video like bless fresh dag skeeter fuck phil
+Topic #5 with probability 0.23%: familiefilm populære bøger baseret villads dansk arige pa 12 bio rødding grindsted kinoteater kanten biografen ari filmteatret hobro bibliografen dre
+Topic #6 with probability 0.19%: 204 langgade tv 2500 føler ved pa karen 154 23 gothersgade th anbefale mad flytter lejlighed græsplænen 62 bi 36
+Topic #7 with probability 0.18%: dk ser kunde cm dick kniv 160 kokkekniv premier pa superior plus nature 1905 21 18 23 udbenerkniv 26 serie
+Topic #8 with probability 0.37%: kr 2500 elguitar super 000 fed 500 andet fender stand fin mærke guitar pedal boss guitarcombo overdrive 200 distortion 400
+
+Top 8 topics for valby_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.92%: john dr dirty love like video show new good great happy live rt tonight see today night liked tickets day
+Topic #2 with probability 1.24%: sa vores se dag kino godt nye velkommen ny ved bedste kl uden mangler sted fantastisk lejlighed fremad mere helt
+Topic #3 with probability 1.55%: pa sa ogsa kan godt bakke ved lige se vej morgen idrætspark st igen hallen tog kbhpol nar vest ja
+Topic #4 with probability 0.74%: tak god thank nowplaying pubic parken koncert kan hair spændende nogen grøn haber hjælp kender godt dag lidt fest sa
+Topic #5 with probability 0.33%: villads last populære baseret iphone nej bøger familiefilm kr dansk sim 12 16 arige sort gb 2500 flot super 800
+Topic #6 with probability 0.57%: langgade 2500 tv karen 204 look mad cafe recap please summer women dear føler season girl th hotel review right
+Topic #7 with probability 0.93%: pa station dk karen st mand welcome ser ved arig anholdt tog politiet ramt fejl skud brand utopia dsb kniv
+Topic #8 with probability 0.63%: kr 2500 super fed elguitar 000 andet fin stand 500 pedal mærke top lækker la sælger perfekt guitar fender overdrive
+
+Top 8 topics for valby_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 15.92%: st good john tog great kl 00 30 happy 10 night dsb kino time live 20 day best fejl last
+Topic #2 with probability 9.79%: bakke får få mangler vest velkommen dejlig hele folk carlsberg dk del beautiful altid lige må hus ligger så shit
+Topic #3 with probability 10.72%: 2500 kr super iphone 16 000 elguitar nej dk fed frem flot 500 ser gerne andet låst fin sim sort
+Topic #4 with probability 9.59%: tak langgade station vej tv nye 2500 ny la desværre 204 film flere kaffe tillykke art jobs dag nyt ved
+Topic #5 with probability 21.34%: så kan godt dag god se lige ved lidt idrætspark glæder fik nok kom thank ja hallen big år koncert
+Topic #6 with probability 15.07%: john dirty dr like mand video årig show anholdt tonight love liked back politiet via brand aka get skud funny
+Topic #7 with probability 9.82%: familiefilm villads vores kbhpol rt dansk populære bøger baseret karen welcome 12 mad ingen fremad lejlighed fantastisk årige endnu utopia
+Topic #8 with probability 7.76%: karen new hjem elsker give think cafe may summer service stop free left support games hunger gets year ew sweet
+
+Top 8 topics for vesterbro_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.51%: pa sa mangler kan dag jul bare anholdt se ved lige desværre ogsa nogen politiet aften distortion problemer fa ar
+Topic #2 with probability 0.38%: jul paa beard download finished sick kufferten igen guds ondt set baby kage aldrig stewart helt anders loppemarked rager repeat
+Topic #3 with probability 0.77%: mand dræbt fundet kvinde skud arig pa anholdt skudt ramt død dr 32 48 politiet politi hovedet skyderi blevet lejlighed
+Topic #4 with probability 0.48%: brand evakueret voldsom ved pa kontrol beboere 30 mændenes 27 odense hjem flere femetagers bygning nat nyheder røg indre dr
+Topic #5 with probability 0.35%: fuck vesterbro_ht ballerup thomas1976lbv chinorocks 8l bottling kombucha satisfying distortion fed back sgu ungdomsgard officials covering playing chill danser halmtorvet
+Topic #6 with probability 0.45%: mad madklubben kaffe food god vinstue billig pa shezan foderbrættet hotdog pakistansk bodega øl vin kødbyens marked lite breakfast spiser
+Topic #7 with probability 0.36%: shooting mosque dead outside injured district amerikavej rt street police person c4news one st killed fb drop agh random yesterday
+Topic #8 with probability 0.25%: typeface viking wear dying helmet via design type name make tuesday eye today case missed gav gatur gasværksvej gaw gard
+
+Top 8 topics for vesterbro_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.77%: pa mangler kan dag ogsa sa se kl gar bare nogen lidt desværre ja kom sadan stadig fa dkpol helt
+Topic #2 with probability 0.99%: jul fucking paa sick download finished wtf set beard weird igen helvede penalty ondt called starz know well twitter hipster
+Topic #3 with probability 1.25%: mand politiet anholdt ramt arig fundet dræbt skud kvinde skudt politiken politi tre skyderi mænd drab tv2 nat pushere død
+Topic #4 with probability 0.97%: ved brand hotel voldsom hjem evakueret odense new nat 30 mændenes flere vesterbrogade first aalborg indre søndag nytdk slukket stupid
+Topic #5 with probability 1.58%: distortion fuck miss shit photo drinking much fire go mikkeller time crazy night pretty beer got far get drunk vesterbro_ht
+Topic #6 with probability 1.39%: pa mad madklubben usa kaffe kr stjalet verdens skide restaurant god advarer sure vodka ny udsatte dk flaske borgere sgu
+Topic #7 with probability 1.33%: torv rt rock bad dead street shooting district die outside mosque stop radio sur injured hate city day one police
+Topic #8 with probability 1.06%: sa lige svært via typeface die wear helmet viking dying værre kan ved værste oder skandinavische ret væk lassigkeit trist
+
+Top 8 topics for vesterbro_negative.json using the LDA models with tf features.
+Topic #1 with probability 10.91%: brand ved anholdt miss nogen politiet advarer voldsom nat fire pushere evakueret udsatte unge uden nyheder usa blå andre urban
+Topic #2 with probability 12.41%: distortion rock kl drinking mikkeller shit work volbeat lejlighed hipster crazy festival photo fire krabbes otto musik sur 13 00
+Topic #3 with probability 13.31%: mand årig anholdt dræbt ramt fundet kvinde politiet aalborg politi mænd aften skud søndag hotel skudt ved blevet død tv2
+Topic #4 with probability 10.23%: mangler vesterbro_ht fuck much må dkpol så desværre desperat kom forkerte fucking typeface hansen leder dying helmet wear viking pga
+Topic #5 with probability 18.25%: så kan jul lige bare folk få hjem helt lidt ved måske træt stadig år snart fedt sick paa beard
+Topic #6 with probability 11.76%: mad dag kaffe får wood god ingen madklubben problem vej frederiksberg need via gå marked kødbyens ikk talk gentrification sol
+Topic #7 with probability 9.81%: die indre stjålet sgu skide går kopenhagen kbhpol se flaske verdens møder steder odense vodka 30 war oder altaner gammel
+Topic #8 with probability 13.30%: torv bad ale dead brown rt sure got one photo night ever shooting street district aarhus never restaurant pretty go
+
+Top 8 topics for vesterbro_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.85%: pa jul bedste tak dag elsker bor aften god ogsa kan se torv glæder distortion gar lige ved nar ja
+Topic #2 with probability 0.30%: hotel comfort first happy drinking us hotels guldsmeden checked axel check tuborg copenhagenhotels quickberater на beautiful view posted one finally
+Topic #3 with probability 0.30%: love torussiawithlove pride gotta happy streetart home art distortion city place street travel life party weekend heart new little sunny
+Topic #4 with probability 0.29%: good morning beautiful night day view sunrise food guide old hfsacq6isa coffee stineonielsen back beer sharingcph time city weekend great
+Topic #5 with probability 0.37%: godt kan sted ogsa nok twitterhjerne nytar nogen pa kender anbefale nyt god spise ser lide gør virkelig billigt lidt
+Topic #6 with probability 0.27%: vesterbro_ht valbygarden beautiful brunch rt boyseatscotland v7dmbx1hiz d_fischermann dag mother guldsmedentwt struck axel johnhampton1 bluetapper nich_nielsen aovez0bl5z lucky ukirke great
+Topic #7 with probability 0.36%: sa kan lige fik klar kommer bor bare gar forbi hjem igen festival lidt mere dag gør ha istedgade gerne
+Topic #8 with probability 0.27%: drinking photo pilsner wit spontanale nice mikkeller beer sour stout great lovely ale tuborg really light hoppy pils bar like
+
+Top 8 topics for vesterbro_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.71%: pa bedste ved se torv dag ogsa kl lejlighed god aften lige ny lille vores glæder set tak morgen dkpol
+Topic #2 with probability 0.62%: hotel comfort first us happy new twitter year com travel win check pic style drinking vesterbrogade room world och hi
+Topic #3 with probability 0.95%: love weekend today day happy distortion street home party go city see lovely great via streetart art awesome torv wonderful
+Topic #4 with probability 0.94%: good one great morning thanks time starz night food like visit beautiful nice hipster best top amazing district area last
+Topic #5 with probability 1.05%: godt kan ogsa ved sa god nogen sted lidt ja nok kender mere twitterhjerne skydebanegade vist nye lige torv tror
+Topic #6 with probability 0.60%: vesterbro_ht rt hygge valbygarden brunch fin lækkert rigtig musik ukirke dag kødbyen best saturday mother pizza christmas dejlig mad beautiful
+Topic #7 with probability 0.99%: sa tak jul elsker distortion video velkommen nar fik lige glæder festival radio hjem rock haha kom vores kommer gar
+Topic #8 with probability 0.92%: super photo kr like nice drinking bar mikkeller madklubben beer best pilsner great wit new restaurant top perfect bryghus stout
+
+Top 8 topics for vesterbro_positive.json using the LDA models with tf features.
+Topic #1 with probability 11.51%: super kl sted twitterhjerne go nogen restaurant ny 10 rt frederiksberg gerne måske indre radio kender 20 klar cafe summer
+Topic #2 with probability 10.91%: vesterbro_ht distortion jul like happy great valbygarden aften dejlig plads party time set enghave dinner del birthday life christmas fest
+Topic #3 with probability 11.68%: hygge kr glæder dag så håber kommer hjem twitter skydebanegade velkommen starz super fed lige lækker affär nye børn søde
+Topic #4 with probability 15.16%: love hotel comfort beautiful good nice day morning new first street visit see one district area haha check city us
+Topic #5 with probability 8.85%: tak istedgade kaffe fine gode fantastisk andre ukirke sammen nej ligger perfect altid burger rt odense hej andersenhotel lækre ja
+Topic #6 with probability 14.89%: best good drinking great elsker photo bar cool mikkeller beer place brunch food madklubben awesome thanks amazing pilsner one art
+Topic #7 with probability 17.04%: så godt kan ved god lidt bor går lige hipster torv helt bedre nok se ja må få igen fik
+Topic #8 with probability 9.97%: bedste dag år dkpol fin lørdag kødbyen video aften øl får morgen rigtig kære streetart 2016 flot next lækkert ha
+
+Top 8 topics for vesterbro_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.77%: pa bedste dag tak kan aften ogsa ved bor god distortion torv gar lige mand se lidt glæder kl ja
+Topic #2 with probability 0.25%: hotel comfort drinking first photo happy tuborg hotels us check guldsmeden pilsner checked axel copenhagenhotels quickberater one на new beautiful
+Topic #3 with probability 0.24%: love torussiawithlove pride gotta streetart happy home art distortion place city street life travel party weekend heart little new sunny
+Topic #4 with probability 0.32%: sa kan lige bare forbi fik klar kommer bor gar dag istedgade festival mere igen fedt komme gør kom hjem
+Topic #5 with probability 0.25%: good morning beautiful night drinking day photo view beer great food sunrise pilsner place old nice really coffee wit hfsacq6isa
+Topic #6 with probability 0.22%: vesterbro_ht valbygarden beautiful brunch ballerup thomas1976lbv fuck d_fischermann rt v7dmbx1hiz boyseatscotland mother dag aovez0bl5z nich_nielsen ukirke guldsmedentwt bluetapper struck johnhampton1
+Topic #7 with probability 0.22%: jul elsker pa download video paa beard finished sick glædelig liked julekalender se anders sangen ser dr2 afsnit christmas godtidligmorgen
+Topic #8 with probability 0.29%: godt kan sted ogsa nok twitterhjerne nytar kender nogen anbefale spise god ser nyt gør lide billigt li virkelig bud
+
+Top 8 topics for vesterbro_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.68%: pa ved tak bedste torv mand dag kl lige lejlighed god super aften ny far kaffe politiet nar lækker se
+Topic #2 with probability 0.76%: hotel drinking photo comfort mikkeller first us beer pilsner happy wit new twitter world nice year com bryghus style stout
+Topic #3 with probability 1.20%: love nice distortion weekend today new great day street go happy time place see torv cool city party home awesome
+Topic #4 with probability 1.07%: sa tak kan ved lige lidt velkommen nye bare ja ogsa dag distortion mere kom gar morgen kommer torv valby
+Topic #5 with probability 0.84%: good kr one great like madklubben morning super starz top best food restaurant hygge visit beautiful bar night pizza mad
+Topic #6 with probability 0.48%: vesterbro_ht love valbygarden hygge fin rigtig musik lækkert fuck brunch dejlig dag ukirke fantastisk sunshine pride rt kødbyen merry guldsmeden
+Topic #7 with probability 0.61%: jul sa elsker video rock se radio haha liked fik kærlighed paa glæder download nar sick fan snak glædelig finished
+Topic #8 with probability 0.65%: godt kan ogsa sted twitterhjerne nok ser god nogen hipster set se kun kender nytar lide spise anbefale synes lyder
+
+Top 8 topics for vesterbro_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 15.79%: dag ved kan godt lidt lige mand bor ja hipster morgen nok anholdt indre så bedste brand politiet forbi kommer
+Topic #2 with probability 12.23%: god tak aften så torv hygge ha glæder festival brunch dejlig fest enghave plads haha endnu se klar øl del
+Topic #3 with probability 14.53%: så jul godt går kan år elsker sted fik helt ny bare lejlighed lille igen kun bedste velkommen lige stadig
+Topic #4 with probability 9.53%: så drinking photo vores frederiksberg coffee kan spændende jul video godt glad madklubben wit gå apartment sweet mere flot nye
+Topic #5 with probability 10.02%: best one nogen restaurant starz thanks awesome area mangler hotel twitter great visit new neighbourhood places food com first pizza
+Topic #6 with probability 19.24%: vesterbro_ht love good great nice like bar mikkeller new beautiful mad cool day beer time fun lovely city rock night
+Topic #7 with probability 8.27%: twitterhjerne dkpol 30 måske fundet dræbt 15 kl hvem 11 life finde kvinde shop 50 aldrig 16 nyder bedre usa
+Topic #8 with probability 10.40%: hotel comfort happy distortion go istedgade kr kaffe 10 kl fantastisk super lørdag really 20 nyt vega kbhpol 00 carlsberg
+
+Top 8 topics for østerbro_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.68%: pa ogsa kan problemer mangler lige dag fire bor stadion desværre nogen stjalet dkpol ar dræbt aften mad fa vej
+Topic #2 with probability 0.73%: ramt skud mindst personer tre pa skyderi omrade stort fredag saret aften død person skudepisode afspærret dræbt blevet bil flere
+Topic #3 with probability 0.60%: brand beboere evakueret stor pa voldsom ryparken lejlighed kontrol kollegium beboelsesejendom tagbrand røg mega set kraftig slukket kopenhamn nat tæller
+Topic #4 with probability 0.67%: anholdt arig mand sigtes 19 skarpladt pistol pa politiaktion 17 drabsforsøg blevet ung serievoldtægtsmand hjemmerøveri betjente ældre dræbt mulig cphshooting
+Topic #5 with probability 0.56%: kr 2100 overdrive pedal 000 ibanez fender hot rod deluxe elguitar fed 500 40 riot boss mærke blues 900 600
+Topic #6 with probability 0.83%: sa igen mangler fucking gal bare lidt lige kan træt slut tage dag fedt kom ydre ja ser penge vist
+Topic #7 with probability 0.58%: ved ryparken dræbt krudttønden nar angrebet hader muligvis trafikulykke skyderi stille politiet døden tage skudsalve heftig lydoptagelse afslører ballade attentat
+Topic #8 with probability 0.52%: terror politiet efterforsker skud pa skudepisode leder flere gerningsmand attack afspærrer røveri grund rt gerningsmanden omrade genstand drnyheder mistænkelig undersøger
+
+Top 8 topics for østerbro_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 3.11%: pa kan lige ogsa mangler problemer nogen stjalet dag kun ar ingen sted indre vej mere far fire mad darlig
+Topic #2 with probability 1.09%: ramt skud tre skyderi personer mindst saret skudepisode person flere dræbt død stort fredag vilks aften politiet lars fire krudttønden
+Topic #3 with probability 0.85%: brand ved stor set voldsom evakueret lejlighed person beboere politiken nat dr plads tagbrand røg ryparken fik tv2 politiet kollegium
+Topic #4 with probability 1.41%: pa mand arig anholdt politi blevet kvinde dræbt københavns røveri sigtes dreng livsfare skudt cphshooting politiet ung skuddrab politiaktion drabsforsøg
+Topic #5 with probability 0.88%: kr 2100 overdrive mad pedal bad ny andet rod 000 wtf 40 hot mærke sælger new dead week fender elguitar
+Topic #6 with probability 1.44%: sa lidt ydre igen fucking slut dag træt stadig tage bare kom ser mangler væk hjem city lige gal næste
+Topic #7 with probability 1.41%: ved stadion shit fuck dkpol nar fucking helt hvem kl desværre tror gang fans time tager going got hader spærret
+Topic #8 with probability 1.47%: terror cphshooting politiet sure oesterbro today dk one attack rt police stop victims dkpol live two go scary people accuse
+
+Top 8 topics for østerbro_negative.json using the LDA models with tf features.
+Topic #1 with probability 8.45%: media sure live cphshooting dårlig france police two galt österbro oesterbro accuse self inflicted wouds srilanka play us gå fængslet
+Topic #2 with probability 13.36%: ramt skud mand dræbt årig person ved skyderi nogen blevet fucking politi flere set kvinde københavns cphshooting hvorfor politiet skudt
+Topic #3 with probability 10.53%: kr 2100 tre stadion personer mindst overdrive såret ved skud krudttønden pedal område grund politiet 000 brand død lørdag tabt
+Topic #4 with probability 9.10%: one attack politiet victims aften go bortført dk via skudepisode lidt dkkrim families thoughts oesterbro slået leder time 14 god
+Topic #5 with probability 15.19%: så kan bare ved hvem parken går svært terror shit cafe kun hader få bif se stjålet bo andre rundt
+Topic #6 with probability 8.31%: mangler slut today spelt så gratis hold står arrested lige get bor flytte police nogen hej bør kommet sidder voldsomt
+Topic #7 with probability 16.74%: så kan lige desværre indre dkpol igen nej hele lidt træt aften ja cphshooting bad stop fejl står tage frederiksberg
+Topic #8 with probability 18.31%: dag brand anholdt ved kl fire problemer år mand morgen plads mad så politiet beboere nye nok 10 ny dk
+
+Top 8 topics for østerbro_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.13%: pa bedste stadion bor dag glæder velkommen lige fik ved hygge god lejlighed ja ogsa gar morgen se vej lidt
+Topic #2 with probability 0.40%: sincerely classensgade østerbroshopping fashion style fashionstore friday monday weekend sunday majestic summer mont shop saint le hello michel beautiful basic
+Topic #3 with probability 0.53%: 2100 kr elguitar fed super 500 000 lækker stand fender pedal fin ibanez guitar boss delay perfekt marshall andet flot
+Topic #4 with probability 0.45%: godt nok lidt lige nytar bor ved sted ser gad selskab spillet pa nyt dans bo kommer ogsa dag langt
+Topic #5 with probability 0.50%: sa lige mere ved haber nok bor kom se gerne bo nar kommer lidt fik ogsa glæder bare forbi pæne
+Topic #6 with probability 0.47%: kan ogsa anbefale nogen lasesmed god hjælpe twitterhjerne lide finde fa tror anbefales høre hvem dygtig lidt sige varmt pa
+Topic #7 with probability 0.28%: love peace home new stadium hellerup gotta summer walk art great oesterbro still autumn latergram night mycity pics photooftheday find
+Topic #8 with probability 0.36%: aften tak smuk vimindes cphshooting dejlig bevægende mindehøjtidelighed sammen dkpol sammenhold krystalgade fredag fest fantastisk 21 god samlet lad stolt
+
+Top 8 topics for østerbro_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.89%: pa velkommen ved plads ny bedste ja lige tæt lidt vej kun sted helt far bor mellem siden fik ydre
+Topic #2 with probability 0.70%: sincerely classensgade østerbroshopping fine weekend fashion summer shop cool friday sunday yes le wonderful monday style sommer saint hello fall
+Topic #3 with probability 0.84%: kr 2100 super lækker fed flot fin elguitar lille perfekt stand 500 000 lejlighed pedal st andet kvm tc mærke
+Topic #4 with probability 1.17%: godt sa ved lige nok ogsa lidt nar sted ja bare haha kommer kun maske tror helt bor ydre nej
+Topic #5 with probability 1.11%: sa se glæder kom mere haber forbi spændende nar vores fik morgen igen glad nye elsker parken kommer ha pæne
+Topic #6 with probability 1.02%: kan god ogsa twitterhjerne lejlighed nogen gerne indre lasesmed rt hjælp bedste kender søger frederiksberg dygtig hjælpe stadig kære anbefale
+Topic #7 with probability 1.47%: love beautiful good great new happy hygge nice time best morning day like today photo home one city stadium oesterbro
+Topic #8 with probability 1.15%: tak stadion aften smuk kl dag vimindes fantastisk sammen parken lørdag cphshooting dkpol dejlig ar ses vandt morgen tillykke flot
+
+Top 8 topics for østerbro_positive.json using the LDA models with tf features.
+Topic #1 with probability 13.08%: beautiful great happy flot good love day nice win nørreport time morning home city new summer oesterbro best one stadium
+Topic #2 with probability 11.73%: 30 10 yes lejlighed år 00 kl lækker dag ønsker søndag kvm fine vær kirke lille ryesgade 16 nazaret gudstjeneste
+Topic #3 with probability 9.68%: love indre bedste hjælp today sidste super rt låsesmed endnu twitterhjerne go pizza tak friday aften fik dygtig søde dansk
+Topic #4 with probability 9.76%: 2100 kr fed super elguitar fin lækker 000 500 vej stand trianglen delay held politiet pedal fender boss besøg fedt
+Topic #5 with probability 8.72%: aften hele tak bedste vejen smuk låser begynder kaffe regnen like spiller cykel perfekt café hjem pænt beauty jul mere
+Topic #6 with probability 9.40%: velkommen classensgade sincerely vores god østerbroshopping butik ny husk nye kære høre weekend fashion børn twitter 40 tilbage glæder tid
+Topic #7 with probability 24.43%: så kan godt stadion nok lige bor få forbi fik ha ja se altid god gerne bare sted bedre håber
+Topic #8 with probability 13.20%: ved helt går så godt må tak fantastisk vimindes lidt eneste sammen fint hygge komme dk kommer dag store stadig
+
+Top 8 topics for østerbro_sentiments.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.00%: pa bedste bor ved dag aften lige tak brand ogsa glæder lejlighed god velkommen fik morgen ja vej hygge far
+Topic #2 with probability 0.30%: sincerely classensgade østerbroshopping fashion style fashionstore friday monday weekend sunday summer majestic shop mont saint le beautiful michel hello basic
+Topic #3 with probability 0.42%: 2100 kr elguitar fed super 500 000 pedal overdrive fender lækker stand ibanez boss fin andet delay perfekt guitar guitarcombo
+Topic #4 with probability 0.44%: sa lige bare kom mere lidt igen haber kommer se nok ved mangler bo nar bor gerne fik forbi ja
+Topic #5 with probability 0.34%: godt nok nytar lige lidt sted bor ved ser gad selskab spillet nyt lide pa bo kommer bruge rigtig langt
+Topic #6 with probability 0.39%: kan ogsa anbefale nogen hjælpe lasesmed lide finde twitterhjerne fa god tror sige anbefales bare hvem høre varmt kun helt
+Topic #7 with probability 0.23%: skud ramt mindst personer tre skyderi pa saret omrade fredag stort dræbt død aften politiet arig skudepisode person blevet flere
+Topic #8 with probability 0.25%: stadion b93 lørdag parken mal kamp pa koldt aften sjovt bold kampen lukas fantastisk gar fremragende se yoga 93 14
+
+Top 8 topics for østerbro_sentiments.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.77%: pa velkommen plads vores vej ny nye stor fik spændende set far dkpol tæt ligger sidder gar ydre bedste hjem
+Topic #2 with probability 1.10%: sincerely love classensgade østerbroshopping beautiful today great day nice time weekend summer city shop home fashion photo like lovely morning
+Topic #3 with probability 0.77%: kr 2100 super lækker fed fin elguitar lille perfekt pedal 000 overdrive 500 stand lejlighed andet flot st mærke via
+Topic #4 with probability 1.08%: sa lige nar lidt ved kommer bare igen nok ogsa kom ja mere ydre godt haha tager gang ser snart
+Topic #5 with probability 0.82%: godt nok ogsa kan sted lidt tror god bor rigtig nej shit ja indre nyt mad kaffe gode helt lide
+Topic #6 with probability 0.93%: kan ogsa nogen twitterhjerne god stadig rt fa mangler gerne frederiksberg lejlighed tak elsker hjælp kender sige lasesmed hvem uden
+Topic #7 with probability 0.86%: ved ramt skud mand politiet oesterbro happy tre terror arig blevet cphshooting skyderi year personer fredag person dræbt new krudttønden
+Topic #8 with probability 1.13%: stadion tak dag se kl parken aften morgen smuk vimindes lørdag sammen good ses tillykke 30 cphshooting kom 10 dkpol
+
+Top 8 topics for østerbro_sentiments.json using the LDA models with tf features.
+Topic #1 with probability 20.39%: så godt lige stadion ja kl kom lidt se går dag kun 00 år fck 10 vores nok glad velkommen
+Topic #2 with probability 12.48%: classensgade sincerely beautiful østerbroshopping cphshooting dejlig love great today day oesterbro vimindes uden happy summer væk city weekend home shop
+Topic #3 with probability 12.90%: kr 2100 ved super lækker sted fed good elguitar 000 nice politiet mad andet 500 kaffe one mand morning flot
+Topic #4 with probability 13.20%: kan så ved godt god igen nok elsker sammen lige andre parken helt cafe folk finde brand tror står hellerup
+Topic #5 with probability 11.21%: bor bare nogen mere dk plads ha new kender så anholdt københavns restaurant gerne anbefale tæt årig rundt kan politi
+Topic #6 with probability 7.94%: glæder komme store tre set kommer håber morgen mand pizza tur dræbt snart faktisk forbi see ny én slut såret
+Topic #7 with probability 11.31%: bedste lejlighed dag love twitterhjerne stadig frederiksberg hygge indre best får år rt like time via fire søger se nye
+Topic #8 with probability 10.57%: tak aften få dag fin så stadion fik smuk forbi stor spændende tage bedre tillykke idag fantastisk tid kan næste
+

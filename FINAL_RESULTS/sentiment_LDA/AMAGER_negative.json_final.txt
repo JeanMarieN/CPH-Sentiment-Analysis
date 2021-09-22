@@ -1,0 +1,30 @@
+Top 8 topics for AMAGER_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.55%: todd axe drinking bryghus amager photo found jdw version cask uk wetherspoon bar house get grinder linda pub surly biografen
+Topic #2 with probability 0.32%: orange crush drinking bryghus amager photo cigar city session ipa la irreale beer available collab house craftbeer crowbar cardinal bryggeri
+Topic #3 with probability 0.32%: series envy sinner bryghus drinking sinners greed amager photo beer sloth gluttony available bitter wrath pride lust craftbeer house bra
+Topic #4 with probability 0.71%: amager mand ramt skud anholdt årig bio politiet død så skyderi ved københavn fremad copenhagen fælled person fundet kvinde strandpark
+Topic #5 with probability 0.41%: christianshavn problemer tog tekniske lufthavnen pga ved ml amagerbro øjeblikket forsinkelse skyldes forsinkelser ca 10 strand vestamager cph grundet ingen
+Topic #6 with probability 0.27%: ipa surly tap beermenus available todd axe new ratebeer amager ale pale added beer india menu full cans see cigar
+Topic #7 with probability 0.28%: islands brygge billede slog copenhagen vestamager metro kulturhuset ballademagere uacceptabelt hærger havnebadet ml ved elevatoren tog rainy desværre station chilling
+Topic #8 with probability 0.35%: photo drinking bryghus princess bastard curry rice amager brown boobies falling suns darkest beer reepicheep revenge grinder new lager linda
+
+Top 8 topics for AMAGER_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.82%: todd axe bryghus drinking amager photo rice curry found version damn house beer pub jdw bar linda tap ipa lager
+Topic #2 with probability 0.60%: bryghus drinking crush orange photo amager princess bastard suns falling session brown och boobies darkest revenge porter gun black reepicheep
+Topic #3 with probability 0.49%: series bryghus sinner drinking envy amager sinners greed photo øl beer sloth bitter nice gluttony pride beers deadly sins lust
+Topic #4 with probability 1.69%: amager så mand ved kan fremad lige årig fælled politiet københavn anholdt ramt brand dr lidt mangler strand kamp skud
+Topic #5 with probability 0.66%: christianshavn amagerbro problemer ved tog pga lufthavnen tekniske ml øjeblikket metro forsinkelse skyldes vestamager strand station ca ingen cph mellem
+Topic #6 with probability 0.59%: amager ipa new tap surly city beer available twin replacing evil love com beermenus ratebeer la pale ale cigar twitter
+Topic #7 with probability 0.61%: islands brygge slog islandsbrygge facebook billeder fælled fire albummet stop billede frank jensen københavn copenhagen udskældt bryggen byggeri kommer kovending
+Topic #8 with probability 1.11%: amager copenhagen bio denmark københavn islandsbrygge strandpark time sure miss day bad live one metal today go koncert shit lost
+
+Top 8 topics for AMAGER_negative.json using the LDA models with tf features.
+Topic #1 with probability 6.47%: amager skud bastard princess com se kan bet twitter fc kr con die och stedet aggressiv 50 di natur kampen
+Topic #2 with probability 10.31%: ved amager christianshavn strand problemer tog amagerbro ingen lufthavnen pga død 10 ml tekniske øjeblikket ca forsinkelse brygge islands kl
+Topic #3 with probability 18.62%: amager copenhagen orange crush beer denmark bio christianshavn new city greed found bad ratebeer københavn day islandsbrygge via danish see
+Topic #4 with probability 16.30%: amager så bio kan bakke slog dag dkpol lidt bare mad lige metal kamp københavn metro kommer fucking desværre kbh
+Topic #5 with probability 17.72%: amager fremad ramt politiet brand strandpark så christianshavn fire københavn tre må år blevet mangler kun skyderi københavns anholdt imod
+Topic #6 with probability 6.23%: amager evil twin replacing billeder fundet facebook albummet la death demons love første que nota sur shit eagles un altid
+Topic #7 with probability 17.47%: amager bryghus drinking axe todd photo mand ipa series envy sinner årig tap surly kvinde anholdt ale sinners available pale
+Topic #8 with probability 6.87%: fælled islands brygge rice curry hvorfor komme version jensen frank darkest drop egen suns ha king øl cask fem news
+

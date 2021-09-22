@@ -1,0 +1,30 @@
+Top 8 topics for INDREBY_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.56%: indre så god kan københavn bedste kbh ja twitterhjerne tak dag lige ved kulturhuset bare gerne vesterbro få helt kr
+Topic #2 with probability 0.72%: diamondsandrustcopenhagen vintageshop vintagestore ilovecopenhagen ilovevintage delditkbh wonderfulcopenhagen vintagedresses indreby vintageshopping sanktpederstræde beautiful vintage vintagekjoler ibyen vintagejagt luxurysecondhand dress pisserenden vintagefund
+Topic #3 with probability 0.63%: kr elguitar supreme guitar 500 1309 københavn komplet nyt 198 begyndersæt indre fed super 000 forstærker 400 tokai stand andet
+Topic #4 with probability 0.46%: eyelash hellerup ikkemeremascara nomoremascara flawlesslashes flawlesslashescph brønshøj eyelashesextension smukkevipper smukkevipperhverdag smukkeøjne eyelashes stayflawless storkøbenhavn valby eyelashextensions frederiksberg lashesbybella nørrebro østerbro
+Topic #5 with probability 0.29%: software innovative business city copenhagen indre gir gløgg glæd glæde glædelig glæden glæder goals go glemme god ginandtonic gode godetider
+Topic #6 with probability 0.36%: nyheter oslo dittoslo ha nå bli indre av sport tøyen må bo thereses sted gate bilfri mer ivrige nabokjerringer oslos
+Topic #7 with probability 1.03%: copenhagen indreby københavn denmark beautiful area love spots city pride colors visitcopenhagen travel copenhagenpride centrum canon colours cannon55d color lgbt
+Topic #8 with probability 0.58%: godt sted nok indre kan twitterhjerne så bud nogen må bo spise hjemme ved spisested lige småt lidt bedre terrorsikre
+
+Top 8 topics for INDREBY_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.26%: indre god tak ved bedste kbh twitterhjerne lige københavns år dag nok helt politidk kl bare tæt aften får ja
+Topic #2 with probability 1.52%: indreby københavn copenhagen vintageshop vintagestore diamondsandrustcopenhagen love delditkbh wonderfulcopenhagen ibyen ilovecopenhagen like mitkbh vintageshopping ilovevintage vintagedresses vintage sanktpederstræde beautiful vintagekjoler
+Topic #3 with probability 1.00%: københavn kr elguitar super guitar nyt supreme 500 fed stand komplet ny pedal mærke 1309 andet 000 tc tokai 400
+Topic #4 with probability 0.84%: nørrebro østerbro vesterbro københavn indreby så frederiksberg valby copenhagen hellerup stayflawless smuk storkøbenhavn smukkeøjne smukkevipper smukkevipperhverdag nomoremascara skriv ikkemeremascara tattoo
+Topic #5 with probability 1.15%: copenhagen indre city denmark popular love travel best beautiful 500px software innovative spots visitcopenhagen pride colors view vesterbro area pretty
+Topic #6 with probability 0.79%: indre oslo nå må nyheter ha sted av dittoslo mer ønsker bedre godt øst sentrum bo klart fint folk seg
+Topic #7 with probability 1.35%: indreby københavn smukke vores hygge kbh kbhk tak dk copenhagen smørrebrød eshakhamo københavnk restaurantpalægade lige www torvehallerne danmark mitkbh tipkbh
+Topic #8 with probability 1.37%: så kan godt ved vores se lige sted kbh nok ja twitterhjerne nogen vesterbro lokaler lidt få glæder opleve forbi
+
+Top 8 topics for INDREBY_positive.json using the LDA models with tf features.
+Topic #1 with probability 7.46%: indreby diamondsandrustcopenhagen vintageshop vintagestore delditkbh ilovecopenhagen beautiful copenhagen wonderfulcopenhagen ilovevintage vintageshopping københavn ibyen vintage vintagedresses sanktpederstræde vintagejagt vintagekjoler pisserenden luxurysecondhand
+Topic #2 with probability 7.86%: indreby københavn kl vores 00 copenhagen nørrebro se lokaler glæder østerbro valby 17 frederiksberg hellerup kan 18 sidste smukke eyelash
+Topic #3 with probability 2.99%: indreby københavn 50 bliv ep gammel danmark håndgranat lande roser tropea støtte kaster league premier ung klubmedarbejdere konference juni samuelsen
+Topic #4 with probability 15.50%: copenhagen indreby københavn denmark indre city love hygge visitcopenhagen vesterbro kbh visitdenmark danmark nørrebro one like beautiful mitkbh best ibyen
+Topic #5 with probability 9.47%: indre god indreby plads torvehallerne nat politidk tak get politiet popular bio ny link 500px spice københavns hinanden fik specialist
+Topic #6 with probability 9.62%: indre københavn kr elguitar 500 oslo 000 nyheter guitar supreme super fed 1309 nyt dittoslo komplet ny andet god indreby
+Topic #7 with probability 43.95%: indre så kan godt københavn indreby ved kbh god lige dag tak bedste få ja lidt twitterhjerne nok kommer bare
+Topic #8 with probability 3.16%: fc minut københavn indreby atlético christianshavn fck klart madrid bjørn hep slagtergårdene opgøret følg mellem vende fritidscenter danmarks nyder fuldstændig
+

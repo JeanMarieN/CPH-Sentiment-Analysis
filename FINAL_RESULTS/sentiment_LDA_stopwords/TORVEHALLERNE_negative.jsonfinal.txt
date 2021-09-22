@@ -1,0 +1,30 @@
+Top 8 topics for TORVEHALLERNE_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.87%: rude rudestore istedgade style fashion rudepige repost rudegirl dress stylish soon coming summerdress frederiksborggade new hårbånd denim vbro pink retrostyle
+Topic #2 with probability 1.00%: market food fish smørrebrød pretty many foodie stall sure tour travel must danish fresh foodporn make lunch go amazing eat
+Topic #3 with probability 0.70%: mad ser vin lækker al så food fisk hygge god dkfood weekend frokost mor instagram fest søde lidt fri familie
+Topic #4 with probability 0.52%: coffee collective first need coffeetime already amenities ristretto always envy kombucha barista weekendbylocals needed might thecoffeecollective tired show two morning
+Topic #5 with probability 0.43%: miss going already kids mì boys guys makes gang pastries places super destroying shojin ryori _san gade really monster dinosaur
+Topic #6 with probability 0.58%: rainy day flowers bad great cortado days brighten rainyday sunday ginandtonic voreskbh stalksandroots back chilling called drink artichokes cuteness always
+Topic #7 with probability 0.33%: slog billede albummet billeder facebook mercato un western best ironisk skreg søn collective aarhus frugt fue funn funkytuesday fundet fun
+Topic #8 with probability 0.66%: stop first flowers time open next stalksandroots last exploring urbanjungle bouquets get quick interior one 00 flowerstothepeople smørrebrød pit cykeltur
+
+Top 8 topics for TORVEHALLERNE_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.10%: rudestore rude istedgade style fashion summer repost rudepige spring soon rudegirl pink new frederiksborggade red loveit sun stylish dress dagens
+Topic #2 with probability 2.29%: food market smørrebrød travel much stall danish lunch sure foodie foodporn many make fish go visitcopenhagen smorrebrod one good oh
+Topic #3 with probability 2.21%: mad så kan ved lige lidt dag vores frokost god fisk går tapas mangler ser kaffe vin købe kom forbi
+Topic #4 with probability 1.47%: stop time today bad last first one come sunday say torvehallernekbh weekend mikkeller get new craftbeer see day week beer
+Topic #5 with probability 1.02%: miss coffee collective already going coffeecollective fucking could missing true coffeetime need barista arkitekt ibyen worse two pastries always softice
+Topic #6 with probability 1.03%: flowers venter grey nørreport tacos grød day overload jul photo siger israelsplads 2017 ved christmas hijadesanchez dk gløgg stalksandroots light
+Topic #7 with probability 1.28%: rainy day slog pretty market billede un copenhague mercado rain la crush fish voreskbh le les tout sur facebook si
+Topic #8 with probability 1.48%: fire stalksandroots urbanjungle brød kæmpe så flowers weekend urbanjunglebloggers dag interior vores torvehallernekbh open kl till kan mere hade fuck
+
+Top 8 topics for TORVEHALLERNE_negative.json using the LDA models with tf features.
+Topic #1 with probability 19.81%: food market smørrebrød danish fish foodie lunch stall foodporn frokost sure eat sandwich much smorrebrod travel grød one beer fruit
+Topic #2 with probability 10.77%: rude rudestore istedgade style fashion dk vores brød rudepige repost kan ready new rudegirl nye dag frederiksborggade kun coming stylish
+Topic #3 with probability 11.93%: mad så dag god kom och slog ost billede kan købe går hade forbi till flowers hjem får hygge köpenhamn
+Topic #4 with probability 5.69%: un di il mercato coffeecollective market con suk facebook lot ser albummet billeder dai visit gormspizza al frem venter estas
+Topic #5 with probability 7.42%: tapas fisk really beer mikkeller pretty photo kl la endnu 10 summer miss pastries kom yum østers lørdag un day
+Topic #6 with probability 11.53%: die miss weekend und food market kopenhagen kimchi many mad one copenhague zu ich le das bad sur wir take
+Topic #7 with probability 15.03%: coffee så kan ved lige collective se mercado lidt que tacos mangler craftbeer copenhague el desværre vores com nogen næsten
+Topic #8 with probability 17.80%: flowers stop day stalksandroots rainy time today market urbanjungle open last interior week porridge get torvehallernekbh good first come urbanjunglebloggers
+

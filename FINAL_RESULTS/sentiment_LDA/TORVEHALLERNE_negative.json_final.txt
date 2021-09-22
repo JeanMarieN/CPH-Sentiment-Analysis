@@ -1,0 +1,30 @@
+Top 8 topics for TORVEHALLERNE_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.45%: copenhagen denmark torvehallerne danish smørrebrød stop travel much foodmarket pretty københavn smorrebrod visit good without foodporn first lunch grey foodie
+Topic #2 with probability 0.88%: rude rudestore istedgade style fashion rudepige torvehallerne repost rudegirl dress stylish soon coming summerdress frederiksborggade new hårbånd denim vbro pink
+Topic #3 with probability 1.46%: torvehallerne mad kbh københavn så billede slog dag kan ved frokost fire weekend lidt lige vin god hygge fisk food
+Topic #4 with probability 0.56%: rainy day bad flowers days great cortado cph brighten rainyday ginandtonic sunday chilling called drink cuteness artichokes morning back always
+Topic #5 with probability 0.89%: market food fish torvehallerne many must tour stop stall sure fresh places foodie went amazing go morning make borough halls
+Topic #6 with probability 0.78%: flowers stalksandroots urbanjungle stop open interior urbanjunglebloggers bouquets flowerstothepeople bouquet get offer 00 flowertothepeople 20 vendersgade flower plants till today
+Topic #7 with probability 0.54%: coffee collective first torvehallerne need stop coffeetime amenities ristretto always kombucha envy weekendbylocals barista needed already might billede morning cph
+Topic #8 with probability 0.42%: miss going already mì boys guys kids makes gang super places pastries gade really destroying _san ryori shojin expensive flower
+
+Top 8 topics for TORVEHALLERNE_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.27%: torvehallerne copenhagen food market københavn smørrebrød travel danish denmark stall lunch summer foodporn missing much foodie sure smorrebrod visit place
+Topic #2 with probability 1.08%: torvehallerne rude rudestore istedgade style fashion rudepige repost rudegirl soon vesterbro spring åbent grå frederiksborggade stylish kun red new summerdress
+Topic #3 with probability 2.46%: torvehallerne så mad ved kan københavn vores lige dag lidt mangler venter kbh kom brød god weekend frokost forbi kaffe
+Topic #4 with probability 1.27%: torvehallerne rainy day copenhagen stop bad time cph photo last mikkeller today first sunday one good say fuck craftbeer could
+Topic #5 with probability 1.44%: torvehallerne market kbh miss slog food fish far fire tacos yesterday pretty must many stand dk taco waiting facebook filthy
+Topic #6 with probability 1.35%: flowers stalksandroots get open today urbanjungle stop interior time still week weekend wine urbanjunglebloggers make new flower overload christmas offer
+Topic #7 with probability 1.28%: mad coffee stop collective summer one last ready food morning cinnamon first might fucking markets instagram sometimes go fisk lunch
+Topic #8 with probability 1.37%: copenhagen denmark much grød porridge københavn grey without guilty mitkbh really travelgram true foodmarket kbh leave visitcopenhagen torvehallernekøbenhavn spring way
+
+Top 8 topics for TORVEHALLERNE_negative.json using the LDA models with tf features.
+Topic #1 with probability 7.99%: torvehallerne copenhagen copenhague un le sur la 00 mercado se une que el denmark les open kl tout miss marché
+Topic #2 with probability 13.28%: torvehallerne coffee copenhagen die københavn collective und kopenhagen kimchi dk day zu kan bike ich coffeecollective craftbeer mere bad danish
+Topic #3 with probability 55.84%: torvehallerne copenhagen food market mad denmark kbh københavn så flowers stop smørrebrød kan cph dag one lunch travel fish day
+Topic #4 with probability 2.45%: fear coffee falling ask design almost photos summer nifty logo togo cannot followers craft name что octopus august gone studio
+Topic #5 with probability 7.18%: rude torvehallerne rudestore istedgade fashion style rudepige repost rudegirl pink frederiksborggade dress spring kun stylish vesterbro vbro vores summerdress soon
+Topic #6 with probability 3.79%: aldrig torvehallerne cream ice palæo sidder mayo gott smut byen hagl things __________________________ tvivl økologi dessert true fik oops anmelde
+Topic #7 with probability 5.94%: torvehallerne copenhagen och denmark food bio market link il di till bread hade ok att köpenhamn day besten ost jag
+Topic #8 with probability 3.53%: torvehallerne copenhagen dkpol ser frem andet historie fanden anne mi fairarbejde januar såsom luggage one denmark catch først fortælle iværksætterdrømmen
+

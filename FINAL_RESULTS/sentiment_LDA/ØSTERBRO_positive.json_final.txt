@@ -1,0 +1,30 @@
+Top 8 topics for ØSTERBRO_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.41%: viborggade shopping accessories modetøj modebutik shopøsterbro wardrobeno2 inspiration mode damemode loveshopping dametøj sneakers tøj womensfashion sko mitøsterbro instafashion clothes østerbroshopping
+Topic #2 with probability 0.76%: østerbro så kan god københavn dag lige tak kr aften ved 2100 stadion klar bedste lidt ja vores bor godt
+Topic #3 with probability 0.26%: godt nytår 2018 år godtnytår happynewyear 2017 nye rigtig kan fyrværkeri herfra nok newyear allesammen selskab ønsker kransekage derude nyt
+Topic #4 with probability 0.53%: copenhagen love denmark beautiful østerbro hygge home christmas københavn morning good day interior weekend interiordesign winter gaystagram gay homedecor interiør
+Topic #5 with probability 0.19%: newlookcph shellac nailbeauty nailart cndshellac cndeducationambassador spraytan cndvinylux lashlift cnd beauty gelenegle akrylnegle københavn naildiva cndbrisagel negle lovelecente cndsolaroil cndgowithapro
+Topic #6 with probability 0.24%: happy new year 2018 happynewyear newyear newyearseve fireworks 2017 everyone day years birthday friends family let party eve love best
+Topic #7 with probability 0.18%: jul glædelig christmas glædeligjul december rigtig merry julpåøsterbro ønsker merrychristmas familie juletræ juleaften god hygge jul2017 familien christmastime christmasdecorations christmastree
+Topic #8 with probability 0.17%: classensgade sincerely østerbroshopping københavn fashion østerbro copenhagen style fashionstore summer friday majestic monday mont hello saint sunday le basic michel
+
+Top 8 topics for ØSTERBRO_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.85%: østerbro shopping kl fashion inspiration mode københavn østerbroshopping mitøsterbro smukke super idag wardrobeno2 viborggade ootd instafashion tøj newin womensfashion lækre
+Topic #2 with probability 0.91%: østerbro nørrebro copenhagen kbh vesterbro god weekend dk morgen store rt søndag valby velkommen twitterhjerne smuk frederiksberg kaffe århusgade time
+Topic #3 with probability 0.77%: godt nytår år 2018 tak nye bedste kan nok så venner rigtig ønsker 2017 må selskab lille happynewyear godtnytår ved
+Topic #4 with probability 1.23%: love copenhagen happy new denmark year beautiful good today morning day like sunday home time weekend one winter life great
+Topic #5 with probability 0.49%: københavn copenhagen newlookcph shellac nailart spraytan nailbeauty cndshellac beauty lashlift cndeducationambassador danmark cndvinylux denmark negle paris gelenegle cnd søerne gold
+Topic #6 with probability 1.12%: østerbro så kan lige ved tak vores lidt stadion klar dag helt se mere ja fik god tid få nye
+Topic #7 with probability 0.78%: hygge jul christmas glædelig interior interiordesign home weekend indretning merry så kærlighed love interiør december homedecor boligindretning søndag odense frederiksberg
+Topic #8 with probability 0.65%: københavn kr sincerely østerbroshopping god super 2100 lækker etoilecph rigtig classensgade str fed etoile fashion stand vintage smukt førpris secondhand
+
+Top 8 topics for ØSTERBRO_positive.json using the LDA models with tf features.
+Topic #1 with probability 12.65%: copenhagen østerbro hygge new denmark beautiful home christmas morning art sunday danmark great design winter happy good instagood work fun
+Topic #2 with probability 7.62%: østerbro day 2018 glæder time danish lyngby fin smile night perfect odense aarhus city hår hellerup first last architecture tillykke
+Topic #3 with probability 7.52%: østerbro sneakers dametøj ses lækre gør gode imorgen smukt klar bio gave derfor masser spændende mere mennesker nordhavn vild bløde
+Topic #4 with probability 40.21%: østerbro så københavn kan godt dag inspiration god jul fashion lige tak nytår vores lidt år nye østerbroshopping tøj sko
+Topic #5 with probability 12.82%: love østerbro copenhagen beauty københavn happy year food today one smuk best foodporn weekend friday little foodie denmark shellac newlookcph
+Topic #6 with probability 6.16%: københavn østerbro kr 2100 healthy get str fashion hold birthday gold gift secondhand siger ready jeres emmelineothine nordrefrihavnsgade14 fed glimmer
+Topic #7 with probability 6.19%: yoga østerbro family husk go velvære sundhed visitcopenhagen østerbrogade massage wellness workout red salig billede workshop luksus jurekcph sundlivsstil 50procent
+Topic #8 with probability 6.84%: shopping viborggade mode mitøsterbro instafashion accessories ootd newin wardrobeno2 kl shopøsterbro modebutik modetøj clothes damemode loveshopping womensfashion 00 interior 18
+

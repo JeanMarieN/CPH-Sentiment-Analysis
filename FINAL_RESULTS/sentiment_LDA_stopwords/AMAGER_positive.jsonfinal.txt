@@ -1,0 +1,30 @@
+Top 8 topics for AMAGER_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.30%: bryghus drinking photo stout beer imperial sundby ipa frederiksen hr todd axe good series xiquic campfire gotland amazing nice hero
+Topic #2 with probability 0.24%: brygge islands kulturhuset popular olemsteffensen havnebadet 500px good hygge god oktobervejr video nyder fantastisk ved lide bedste kl morning fun
+Topic #3 with probability 0.16%: joss performed impressive stone nr 2016 bio photos interested photo live koncert concert aften video tonight show night liked celebration
+Topic #4 with probability 0.24%: love drinking photo tørst stars blueberry blueberries aronia city twin _nyc evil 75 amagerbro never tasty summer 25 happy home
+Topic #5 with probability 0.30%: christianshavn huset beautiful christiania god hygge travel popular dansk canal 500px smukke blue church place canals lovely day city like
+Topic #6 with probability 0.40%: så godt kan god lige ved dag bio tak ja aften bor amagerbro morgen fremad lidt se bare igen nok
+Topic #7 with probability 0.31%: islandsbrygge beautiful good day strandpark morning summer bryggen sunset sun hygge beach nice home happy weekend evening view today night
+Topic #8 with probability 0.15%: great big fest sausage kentucky bryghus bakke drinking plant waste energy grain steam generator kickstarter power seeks funding ring hope
+
+Top 8 topics for AMAGER_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.63%: drinking bryghus love photo stout beer imperial ipa nice sweet sundby hr good frederiksen amazing new craftbeer enjoying series tap
+Topic #2 with probability 0.63%: islands brygge islandsbrygge christianshavn god søndag morgen smuk amagerbro bedste velkommen weekend ved sommer dag kl dejlig popular aften metro
+Topic #3 with probability 0.53%: bio video 2016 nr live stone photos performed joss spiller impressive koncert lide aften tonight fremad concert liked interested show
+Topic #4 with probability 0.64%: christianshavn love hygge travel beautiful smukke visitcopenhagen summer huset city view christiania weekend kærlighed sunset visitdenmark wonderful photography sky canal
+Topic #5 with probability 0.58%: christianshavn one top new like best cool dansk twitter world danish com super today free place go win fresh ha
+Topic #6 with probability 1.14%: så kan godt ved lige tak fremad god dag fælled ja se lidt år klar bor nok bare helt fik
+Topic #7 with probability 0.80%: islandsbrygge strandpark day good like happy time beautiful morning beach summer today nice sun new home strand fun night year
+Topic #8 with probability 0.37%: great big fest bakke sausage via plant kentucky fælled waste energy ring hope white power save center steam fan seeks
+
+Top 8 topics for AMAGER_positive.json using the LDA models with tf features.
+Topic #1 with probability 17.09%: bryghus christianshavn drinking beer love photo beautiful islandsbrygge happy good new summer morning city sun black enjoying danish amazing nice
+Topic #2 with probability 8.22%: islands brygge islandsbrygge 2016 joss performed bryggen tillykke jul 2015 folk hygge hjælpe campfire stort kampen inspiration valby tak kulturhuset
+Topic #3 with probability 17.75%: drinking love stout great photo bio like imperial good one nice day big best time live beach stone thanks video
+Topic #4 with probability 10.27%: god christianshavn glæder bedre rt flot aften kr ring fitness øl set collaboration frog amagerbro 1000 weekend frem fantastisk dag
+Topic #5 with probability 6.17%: fest frederiksen series la vandt kentucky sinner celebration win concert chocolate free arctic amagerbro christianshavn kickstarter el music sunstone band
+Topic #6 with probability 8.42%: strandpark ipa morgen kl 10 12 00 craftbeer 20 brunch 30 hr lørdag 11 sausage koncert haha 15 islandsbrygge 17
+Topic #7 with probability 6.57%: bio big bakke impressive photos metal plant dansk islandsbrygge power art danish energy waste københavns gold generator steam light funding
+Topic #8 with probability 25.50%: så kan godt fremad ved lige fælled bio dag tak christianshavn ja bedste strand lidt se fik bare bor kommer
+

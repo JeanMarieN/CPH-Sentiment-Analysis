@@ -1,0 +1,30 @@
+Top 8 topics for NØRREBRO_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.48%: fredensgade funiture møbler retrobutik genbrugsfund 15a genbrugsbutik secondhand interiør 2200 boligindretning indretning danskdesign kbh denmark gammel fed copenhagen nørrebro lampe
+Topic #2 with probability 1.07%: nørrebro copenhagen love københavn denmark beautiful weekend christmas good winter food home delditkbh art morning day mitkbh så like wearenørrebro
+Topic #3 with probability 0.35%: nytår godt 2018 happynewyear godtnytår så nye år venner 2017 newyear fest klar nørrebro fantastisk aften newyearseve bedste selskab nytårsaften
+Topic #4 with probability 0.42%: happy new year 2018 newyear years happynewyear everyone newyearseve best one friends 2017 everybody party wishes eve birthday ready love
+Topic #5 with probability 0.28%: tatovør prettypunkcph tatovørnørrebro ravnsborggade tattoocopenhagen tattoocph cphtattoo copenhagentattoo tatovørkøbenhavn femaletattooartist tattoo message direct tatuaje tatovering email booking send tatuering københavntattoo
+Topic #6 with probability 0.24%: wiw fashioninsta fashiondaily fashionaddict outfitpost styleblogger instafashion minimalistic whatiwore monochrome sneakers wear outfitoftheday ootd fashionista hair motivation fitgirl streetstyle fashion
+Topic #7 with probability 0.34%: jul glædelig christmas merry december merrychristmas glædeligjul god streetwear advent nørrebro mifkids økologisk julepynt dansk fairtrade streetfashion familytime iværksætter så
+Topic #8 with probability 0.29%: hygge nørrebro getting dreamed projects beer sunday brunch kaffe winter christmas home københavn jul weekend drinks julehygge living sidecar date
+
+Top 8 topics for NØRREBRO_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.06%: nørrebro copenhagen københavn denmark secondhand kbh retrobutik indretning danskdesign møbler interiør wearenørrebro genbrugsbutik funiture fredensgade genbrugsfund visitcopenhagen mitkbh boligindretning 2200
+Topic #2 with probability 1.68%: nørrebro copenhagen københavn weekend like good today time food sunday christmas home thank day one vegan denmark great best saturday
+Topic #3 with probability 0.81%: godt nytår så år bedste 2018 tak nye godtnytår venner klar happynewyear verdens kærlighed ja aften selskab 2017 fest newyear
+Topic #4 with probability 0.81%: new happy year 2018 years newyear one happynewyear newyearseve best welcome everyone friends 2017 ready hope party take excited birthday
+Topic #5 with probability 0.55%: tattoo ravnsborggade copenhagen tatovering prettypunkcph tatovør tattoocopenhagen tattoocph tatovørnørrebro tatovørkøbenhavn femaletattooartist tatuaje vesterbro cphtattoo ready copenhagentattoo drawing message direct go
+Topic #6 with probability 1.13%: love copenhagen beautiful photography photooftheday winter travel smile picoftheday instagood denmark city work nofilter one life loveislove style fun photo
+Topic #7 with probability 1.55%: nørrebro så københavn kan tak vores se god valby dag nye ved lige klar frederiksberg lille helt morgen lidt elsker
+Topic #8 with probability 0.84%: hygge jul christmas glædelig style inspiration fashion streetwear streetstyle december merry melangedeluxe ootd økologisk outfitoftheday sneakers julegave mifkids femina wear
+
+Top 8 topics for NØRREBRO_positive.json using the LDA models with tf features.
+Topic #1 with probability 4.91%: nørrebro fitness homemade diy love creative kreativ workout copenhagen denmark loveislove handmade feathers _rutler fighters danishdesign fjer copenhagenmade handmadecph forsale
+Topic #2 with probability 29.33%: copenhagen nørrebro love new happy year christmas like 2018 day one good today denmark beautiful time københavn best fun friends
+Topic #3 with probability 7.41%: nørrebro copenhagen kbh indretning boligindretning danskdesign denmark interiør secondhand 2200 genbrugsbutik genbrugsfund møbler retrobutik funiture fredensgade 15a design gammel interior
+Topic #4 with probability 6.30%: nørrebro copenhagen tattoo inspiration ravnsborggade melangedeluxe frederiksberg femina altfordamerne prettypunkcph tatovering tatovør julefrokost copenhagentattoo vesterbro tattoocopenhagen østerbro tatovørnørrebro tatovørkøbenhavn cphtattoo
+Topic #5 with probability 22.20%: så nørrebro kan godt nytår tak dag vores år nye ved 2018 god se lige bedste københavn lidt bare helt
+Topic #6 with probability 9.53%: nørrebro copenhagen københavn jul streetwear retro cool glædelig valby shop frederiksberg webshop vintage økologisk fashion style mifkids birkegade genbrug christmas
+Topic #7 with probability 15.90%: nørrebro copenhagen københavn hygge love denmark food christmas sunday coffee delditkbh visitcopenhagen winter mitkbh wearenørrebro vegan brunch weekend beautiful cph
+Topic #8 with probability 4.43%: nørrebro kr lykkebang jul pris str inspiration copenhagen via nordicstyle christmas godegaver inredning check scandinavianhomes fb interiordesign frifragt webshoppen graphicprints
+

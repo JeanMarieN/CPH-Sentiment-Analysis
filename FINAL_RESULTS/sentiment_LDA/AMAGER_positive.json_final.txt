@@ -1,0 +1,30 @@
+Top 8 topics for AMAGER_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.47%: amager bio strandpark fremad strand fælled god beach velkommen elsker ja bor live aften tak kbh video ved bakke new
+Topic #2 with probability 0.39%: copenhagen denmark islandsbrygge beautiful københavn morning good summer day sunset cph hygge sun home travel happy amagerbro city beach bryggen
+Topic #3 with probability 0.23%: love drinking amager photo tørst stars blueberry blueberries aronia twin evil _nyc city 75 tasty never 25 islandsbrygge summer gotta
+Topic #4 with probability 0.24%: brygge islands kulturhuset popular olemsteffensen havnebadet 500px god good hygge ved oktobervejr fantastisk video nyder aften bryggen tak lide great
+Topic #5 with probability 0.16%: joss performed impressive stone nr 2016 photos bio denmark copenhagen amager photo interested live concert koncert aften video cbc tonight
+Topic #6 with probability 0.31%: bryghus drinking photo amager stout beer great imperial big sausage kentucky fest sundby ipa frederiksen hr todd axe series good
+Topic #7 with probability 0.28%: christianshavn huset god christiania popular dansk københavn 500px smukke blue beautiful bedste hygge olemsteffensen church canal copenhague ved kirke denmark
+Topic #8 with probability 0.34%: så godt kan lige ved god dag amagerbro igen lidt se bare nok tak bor ja fik kom helt går
+
+Top 8 topics for AMAGER_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.67%: amager love drinking photo fremad live rt twitter time com fælled stout wow win video stars oh strandpark vs tørst
+Topic #2 with probability 0.81%: copenhagen amager like good denmark today new strandpark day happy nice great beach christianshavn morning time see strand one best
+Topic #3 with probability 0.77%: copenhagen christianshavn islandsbrygge denmark love københavn summer beautiful travel sunset sun visitcopenhagen view hygge sunshine water day morning city happy
+Topic #4 with probability 0.95%: amager fremad fælled strand ved strandpark velkommen klar dag år vej bor elsker tillykke tak super kbh ny bedste ude
+Topic #5 with probability 0.46%: islands brygge bio denmark nr stone photos performed joss impressive 2016 kulturhuset koncert video interested spiller support popular prince show
+Topic #6 with probability 0.66%: bryghus drinking photo stout beer great big ipa imperial fest nice hr frederiksen good new sundby sausage series danish todd
+Topic #7 with probability 0.73%: så christianshavn kan godt ved god lige tak ja se kommer igen nok lidt aften huset dag bedste tur går
+Topic #8 with probability 0.68%: islandsbrygge københavn amagerbro hygge god weekend bryggen morgen dag kbh så vores jul sommer godt nytår smuk copenhagen kan søndag
+
+Top 8 topics for AMAGER_positive.json using the LDA models with tf features.
+Topic #1 with probability 16.82%: amager så godt brygge islands kan lige ved lidt tak går dag nok bedste elsker christianshavn igen islandsbrygge bare kommer
+Topic #2 with probability 5.30%: video bio stone joss performed photos metal love center twins also bk gold family copenhagen look cute live true tagsforlikes
+Topic #3 with probability 11.13%: amager fremad bio fælled ja bor hr kan nr 20 så rt vej vandt spiller koncert demons ved haha kamp
+Topic #4 with probability 23.40%: copenhagen denmark christianshavn amager great islandsbrygge love beautiful københavn islands day brygge good beach cph happy like summer today 2016
+Topic #5 with probability 4.81%: amager la ale com todd twitter ha ring fremadamager yes gotland lol osu fc sejr kyokushin och el half que
+Topic #6 with probability 8.94%: amager bio beer strandpark strand best fest frederiksen series live plant centret win hero top concert amagerbro chocolate liked night
+Topic #7 with probability 17.10%: amager god så christianshavn aften dag københavn godt morgen kl kan fantastisk klar kbh super islandsbrygge amagerbro tur kom lige
+Topic #8 with probability 12.49%: amager drinking bryghus love photo stout ipa big imperial good danish nice new black one craftbeer brunch bakke sundby tap
+

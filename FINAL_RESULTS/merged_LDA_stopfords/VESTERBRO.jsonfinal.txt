@@ -1,0 +1,30 @@
+Top 8 topics for VESTERBRO.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.20%: førstemelding brandalarm brandvæsen station københavns central politi fødevarefællesskab kommune madblogs train dk enghave via city vej museum close kbhff genboen
+Topic #2 with probability 0.12%: vesterbro_ht valbygarden mattmojo1 streetart graffiti rt emli_b chinorocks ukirke kirstenmarie relyreley thomas1976lbv sønder boulevard detfinetårn får veste d_fischermann vester scandinavia
+Topic #3 with probability 0.10%: hotel first vanaf zomer kopenhagen 59 comfort 229 348 29 23 vesterbrogade aalborg andersen guldsmeden hostel helnan one mayor central
+Topic #4 with probability 0.10%: drinking photo pilsner wit spontanale posted ale bryghus toilet bajer brown ipa pale mikkeller beer lager madklubben comfort kaffestout india
+Topic #5 with probability 0.10%: jul video lide sangen christmas anders føjet playliste matthesen glædelig ser afsnit melodi pa hit youtube dagens hits liked download
+Topic #6 with probability 0.09%: distortion 2012 traveleurope travel party others cphdistortion street thursday festival streetparty se music dannebrogsgade distortioncph posted 2015 gadefest istedgade photo
+Topic #7 with probability 0.06%: hovedstaden madklubben torv region home _svs others lêlê centralen kitchen crossfit street bryghus streckers dinner aarhus pic århus 2012 copenhagenpride
+Topic #8 with probability 0.19%: så aalborg kan godt lige ved dag torv fitness world kl kom aften bare bor se går lidt nogen morgen
+
+Top 8 topics for VESTERBRO.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.30%: københavns station brandvæsen førstemelding brandalarm politi jobs train valby kommune enghave kgs sydhavn dybbølsbro låsesmed vej ild karneval historiske rest
+Topic #2 with probability 0.54%: vesterbro_ht streetart rt valbygarden twitter sunday winter visitcopenhagen com graffiti ukirke carlsberg view sønder boulevard vesterbronx sunset enghave pizza morning
+Topic #3 with probability 0.55%: hotel first vesterbrogade time kopenhagen aalborg one world starz district best new sommer area zomer vanaf visit comfort check tivoli
+Topic #4 with probability 0.54%: photo drinking mikkeller wit pilsner good bar like beer nice posted bryghus little spontanale old toilet ale place øl red
+Topic #5 with probability 0.53%: jul via vega video rock christmas ser radio se elsker hygge vesterbrorockradio safari december set tv lide store dagens dk
+Topic #6 with probability 0.70%: distortion istedgade love new festival today day weekend street night happy party art kyotoistedgade city travel go kyoto tonight friday
+Topic #7 with probability 0.51%: torv madklubben hovedstaden restaurant home food mad morning coffee kødbyen dinner vinstue århus odense och job aarhus lunch är cafe
+Topic #8 with probability 1.02%: så kan ved lige godt kr dag nye tak kl lidt kom morgen aften vores år nogen ny god går
+
+Top 8 topics for VESTERBRO.json using the LDA models with tf features.
+Topic #1 with probability 11.08%: station brandvæsen brandalarm førstemelding happy es istedgade110 get fredag hipster gang little friends new kopenhagen indretning skydebanegade flere drinks kærlighed
+Topic #2 with probability 13.56%: christmas new art photo one god like går dk 10 bare rt ibyen music 12 great time dinner see graffiti
+Topic #3 with probability 14.08%: så kan dag hotel vores se first kødbyen food kom mere helt få kaffe tak får jul forbi mad retro
+Topic #4 with probability 12.85%: vesterbro_ht nye frederiksberg good design valbygarden city travel cool mikkeller aalborg danish 20 voreskbh shop brunch bar architecture got still
+Topic #5 with probability 11.40%: hygge drinking visitcopenhagen night distortion go 2017 winter shopping friday vega sunday gerne må coffee 00 mand open store amazing
+Topic #6 with probability 12.24%: godt ved kr day today torv vesterbrogade weekend vintage 30 best enghave saturday life light beautiful plads hele com cafe
+Topic #7 with probability 12.98%: københavns jul kl 2018 så år lille december ny beer morning aften madklubben 18 elsker klar bor sidste lørdag tid
+Topic #8 with probability 11.81%: love istedgade streetart lige lidt street rock nytår video style igen via saxogade tilbage distortion dk gode sted udsalg radio
+

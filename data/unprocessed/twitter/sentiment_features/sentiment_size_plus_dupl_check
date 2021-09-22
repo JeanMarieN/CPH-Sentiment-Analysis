@@ -1,0 +1,214 @@
+Last login: Mon Feb 26 18:07:09 on ttys000
+Nadias-MacBook-Pro:~ nadiakrag$ cd Desktop/Project1
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py nørrebro
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 1, in <module>
+    from nltk.tokenize import TweetTokenizer
+  File "/anaconda3/lib/python3.6/site-packages/nltk/__init__.py", line 128, in <module>
+    from nltk.chunk import *
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/__init__.py", line 157, in <module>
+    from nltk.chunk.api import ChunkParserI
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/api.py", line 15, in <module>
+    from nltk.chunk.util import ChunkScore
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/util.py", line 13, in <module>
+    from nltk.tag.mapping import map_tag
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/__init__.py", line 70, in <module>
+    from nltk.tag.sequential    import (SequentialBackoffTagger, ContextTagger,
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/sequential.py", line 26, in <module>
+    from nltk.classify import NaiveBayesClassifier
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/__init__.py", line 98, in <module>
+    from nltk.classify.textcat import TextCat
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/textcat.py", line 47, in <module>
+    import regex as re
+  File "/Users/nadiakrag/Desktop/Project1/regex.py", line 28
+    raw_tags = []               #returns a list of #words without #
+           ^
+IndentationError: expected an indented block
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py nørrebro
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 1, in <module>
+    from nltk.tokenize import TweetTokenizer
+  File "/anaconda3/lib/python3.6/site-packages/nltk/__init__.py", line 128, in <module>
+    from nltk.chunk import *
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/__init__.py", line 157, in <module>
+    from nltk.chunk.api import ChunkParserI
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/api.py", line 15, in <module>
+    from nltk.chunk.util import ChunkScore
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/util.py", line 13, in <module>
+    from nltk.tag.mapping import map_tag
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/__init__.py", line 70, in <module>
+    from nltk.tag.sequential    import (SequentialBackoffTagger, ContextTagger,
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/sequential.py", line 26, in <module>
+    from nltk.classify import NaiveBayesClassifier
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/__init__.py", line 98, in <module>
+    from nltk.classify.textcat import TextCat
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/textcat.py", line 47, in <module>
+    import regex as re
+  File "/Users/nadiakrag/Desktop/Project1/regex.py", line 28
+    raw_tags = []               #returns a list of #words without #
+           ^
+IndentationError: expected an indented block
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py nørrebro
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 1, in <module>
+    from nltk.tokenize import TweetTokenizer
+  File "/anaconda3/lib/python3.6/site-packages/nltk/__init__.py", line 128, in <module>
+    from nltk.chunk import *
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/__init__.py", line 157, in <module>
+    from nltk.chunk.api import ChunkParserI
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/api.py", line 15, in <module>
+    from nltk.chunk.util import ChunkScore
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/util.py", line 13, in <module>
+    from nltk.tag.mapping import map_tag
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/__init__.py", line 70, in <module>
+    from nltk.tag.sequential    import (SequentialBackoffTagger, ContextTagger,
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/sequential.py", line 26, in <module>
+    from nltk.classify import NaiveBayesClassifier
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/__init__.py", line 98, in <module>
+    from nltk.classify.textcat import TextCat
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/textcat.py", line 47, in <module>
+    import regex as re
+  File "/Users/nadiakrag/Desktop/Project1/regex.py", line 28
+    raw_tags = []               #returns a list of #words without #
+           ^
+IndentationError: expected an indented block
+Nadias-MacBook-Pro:Project1 nadiakrag$ cd ..
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 130, in <module>
+    with open(f"raw_twitter_data/{sys.argv[1]}.json","r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'raw_twitter_data/nørrebro.json'
+Nadias-MacBook-Pro:Desktop nadiakrag$ cd Project1
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py nørrebro
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 1, in <module>
+    from nltk.tokenize import TweetTokenizer
+  File "/anaconda3/lib/python3.6/site-packages/nltk/__init__.py", line 128, in <module>
+    from nltk.chunk import *
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/__init__.py", line 157, in <module>
+    from nltk.chunk.api import ChunkParserI
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/api.py", line 15, in <module>
+    from nltk.chunk.util import ChunkScore
+  File "/anaconda3/lib/python3.6/site-packages/nltk/chunk/util.py", line 13, in <module>
+    from nltk.tag.mapping import map_tag
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/__init__.py", line 70, in <module>
+    from nltk.tag.sequential    import (SequentialBackoffTagger, ContextTagger,
+  File "/anaconda3/lib/python3.6/site-packages/nltk/tag/sequential.py", line 26, in <module>
+    from nltk.classify import NaiveBayesClassifier
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/__init__.py", line 98, in <module>
+    from nltk.classify.textcat import TextCat
+  File "/anaconda3/lib/python3.6/site-packages/nltk/classify/textcat.py", line 47, in <module>
+    import regex as re
+  File "/Users/nadiakrag/Desktop/Project1/regex.py", line 28
+    raw_tags = []               #returns a list of #words without #
+           ^
+IndentationError: expected an indented block
+Nadias-MacBook-Pro:Project1 nadiakrag$ git pull
+Already up to date.
+Nadias-MacBook-Pro:Project1 nadiakrag$ cd ..
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+47046
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 161, in <module>
+    sentiment(sys.argv[1])
+  File "sentiment_analysis.py", line 98, in sentiment
+    ptiny(neg_AFINN)
+NameError: name 'ptiny' is not defined
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+47046
+[]
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+[]
+Nadias-MacBook-Pro:Desktop nadiakrag$ git add sentiment_analysis.py
+fatal: pathspec 'sentiment_analysis.py' did not match any files
+Nadias-MacBook-Pro:Desktop nadiakrag$ cd Project1
+Nadias-MacBook-Pro:Project1 nadiakrag$ git add sentiment_analysis.py
+Nadias-MacBook-Pro:Project1 nadiakrag$ git commit -m "sentiment analysos for twitter and instagram"
+[master e6bafdd] sentiment analysos for twitter and instagram
+ Committer: Nadia Krag <nadiakrag@Nadias-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 14 deletions(-)
+Nadias-MacBook-Pro:Project1 nadiakrag$ git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 390 bytes | 390.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.itu.dk/nadk/Project1.git
+   6cf136c..e6bafdd  master -> master
+Nadias-MacBook-Pro:Project1 nadiakrag$ cd ..
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+TOP 100 BIGRAMS:  [(('kr.i', 'københavn'), 1177), (('nørrebro', 'bryghus'), 724), (('nørrebro', 'københavn'), 570), (('nørrebro', 'copenhagen'), 567), (('copenhagen', 'nørrebro'), 444), (('ved', 'nørrebro'), 394), (('nørrebro', 'teater'), 386), (("i'm", 'nørrebro'), 383), (('nørrebro', 'station'), 363), (('nørrebro,', 'københavn'), 310), (('nørrebro', 'nørrebro'), 296), (('skyderi', 'nørrebro'), 241), (('indre', 'nørrebro'), 219), (('nørrebro', 'st.'), 212), (('københavn', 'nørrebro'), 203), (('copenhagen', 'denmark'), 201), (('ramt', 'skud'), 197), (('skud', 'nørrebro'), 191), (('n,', 'hovedstaden)'), 184), (('nørrebro', 'kan'), 171), (('ydre', 'nørrebro'), 170), (('nørrebro,', 'copenhagen'), 167), (('distortion', 'nørrebro'), 159), (('posted', 'photo'), 156), (('nørrebro,', 'så'), 151), (('nørrebro', 'så'), 139), (('nyt', 'skyderi'), 138), (('nørrebro', 'park'), 135), (('københavns', 'politi'), 131), (('streetart', 'nørrebro'), 131), (('retro', 'nørrebro'), 127), (('nscoder', 'night'), 126), (('nørrebro', 'station.'), 125), (('retro', 'nørrebro.'), 125), (('kommer', 'dag'), 125), (('dansk', 'drama,'), 125), (('drama,', 'udspiller'), 125), (('udspiller', 'nørrebro'), 125), (('nørrebro', 'st.københavn'), 124), (('st.københavn', 'n,'), 124), (('nørrebro', 'teater.'), 115), (('nørrebro', 'lige'), 115), (('bor', 'nørrebro'), 108), (('københavn', 'copenhagen'), 108), (('nørrebro', 'får'), 106), (('nørrebro', 'københavn.'), 106), (('så', 'kan'), 105), (('nørrebro', 'bryghus.'), 103), (('new', 'york'), 102), (('copenhagen', 'københavn'), 101), (('andet', 'mærke'), 99), (('københavn', 'n,'), 98), (('nørrebrogade,', 'nørrebro'), 96), (('denmark', 'nørrebro'), 95), (('nørrebro', 'cph'), 93), (('nørrebro', 'parken'), 92), (('nørrebro', 'bryghusphoto'), 91), (('nørrebro', 'ihvor'), 91), (('photo', 'nørrebro'), 88), (('røde', 'plads'), 88), (('kan', 'få'), 87), (('mand', 'ramt'), 86), (('skud', 'affyret'), 84), (('dronning', 'louises'), 84), (('unge', 'mænd'), 83), (('mand', 'stukket'), 82), (('nørrebro:', 'politiet'), 81), (('ung', 'mand'), 81), (('nørrebro,', 'copenhagen.'), 81), (('nørrebro.', 'så'), 81), (('nørrebro', 'bryghus,'), 78), (('nørrebro', 'politiet'), 78), (('louises', 'bro'), 78), (('skyderi', 'nørrebro:'), 75), (('cph', 'nørrebro'), 73), (('copenhagen', 'cph'), 73), (('ale', 'nørrebro'), 70), (('politiet', 'undersøger'), 70), (('nørrebro', 'dkpol'), 70), (('copenhagen,', 'denmark'), 69), (('indre', 'nørrebro.'), 68), (('nørrebro', '|'), 67), (('pale', 'ale'), 66), (('lejlighed', 'nørrebro'), 66), (('enårig', 'mand'), 66), (('near', 'nørrebro'), 66), (('park', 'nørrebro'), 65), (('ydre', 'nørrebro.'), 64), (('kan', 'godt'), 63), (('|', 'nørrebro'), 63), (('mand', 'skudt'), 62), (('skud', 'nørrebro:'), 61), (('nørrebro', "i'm"), 61), (('nørrebro,', 'copenhagen,'), 61), (('nørrebro', 'station,'), 61), (('bor', 'nørrebro.'), 61), (('nørrebro', 'ved'), 59), (('nørrebro', 'dr:'), 58), (('york', 'lager'), 58), (('n,', 'hovedstaden'), 57)]
+TOP 100 TRIGRAMS:  [(('dansk', 'drama,', 'udspiller'), 125), (('drama,', 'udspiller', 'nørrebro'), 125), (('nørrebro', 'st.københavn', 'n,'), 124), (('st.københavn', 'n,', 'hovedstaden)'), 116), (("i'm", 'nørrebro', 'st.københavn'), 108), (('ved', 'nørrebro', 'station'), 91), (('udspiller', 'nørrebro', 'ihvor'), 90), (('ramt', 'skud', 'nørrebro'), 82), (('posted', 'photo', 'nørrebro'), 78), (('nørrebro', 'copenhagen', 'denmark'), 71), (('nyt', 'skyderi', 'nørrebro'), 71), (('mand', 'ramt', 'skud'), 64), (('dronning', 'louises', 'bro'), 63), (('københavn', 'n,', 'hovedstaden'), 57), (('new', 'york', 'lager'), 56), (('nørrebro', 'københavn', 'copenhagen'), 55), (('nørrebro', 'park', 'skole'), 55), (('ved', 'nørrebro', 'st.'), 53), (('la', 'revolución', 'verde'), 53), (('colina', 'inesperada', 'se'), 53), (('inesperada', 'se', 'alza'), 53), (('se', 'alza', 'el'), 53), (('alza', 'el', 'corazón'), 53), (('bio.', 'dansk', 'drama,'), 52), (('el', 'corazón', 'nørrebro,'), 52), (('corazón', 'nørrebro,', 'un'), 52), (('nørrebro', 'bryghus', '|'), 50), (('nørrebro,', 'un', 'distrito'), 50), (('nørrebro', 'københavn', 'n,'), 49), (('pigeon', 'killed', 'police'), 49), (('|', 'nørrebro', 'bryghus'), 48), (('bryghus', '|', '|'), 48), (('killed', 'police', 'nørrebro,'), 46), (("i'm", 'nørrebro', 'københavn'), 44), (('ved', 'nørrebro', 'station.'), 43), (('copenhagen', 'nscoder', 'night'), 42), (('concept', 'wins', 'major'), 42), (('wins', 'major', 'climate'), 42), (('climate', 'adaptation', 'project'), 42), (('copenhagen', 'denmark', 'nørrebro'), 41), (('major', 'climate', 'adaptation'), 41), (('nørrebro', 'concept', 'wins'), 40), (('revolución', 'verde', 'copenhagueuna'), 39), (('verde', 'copenhagueuna', 'colina'), 39), (('copenhagueuna', 'colina', 'inesperada'), 39), (('nørrebro', 'posted', 'photo'), 38), (('muligt', 'skyderi', 'nørrebro'), 37), (('ifollowback', 'ff', 'sv'), 37), (('undersøger', 'muligt', 'skyderi'), 37), (('person', 'ramt', 'skud'), 36), (('bombay', 'pale', 'ale'), 35), (('york', 'lager', 'nørrebro'), 35), (('soul', 'nørrebro', 'concept'), 34), (('dancing', 'pigeon', 'killed'), 33), (('nørrebro', "i'm", 'nørrebro'), 32), (('skud', 'ved', 'nørrebro'), 32), (('un', 'distrito', 'co...'), 32), (("i'm", 'nørrebro', 'stationnørrebrogadekøbenhavn)'), 31), (('passé', 'gauchiste', 'à'), 30), (('wood', 'adidas', 'gazelle'), 30), (('adidas', 'gazelle', 'nørrebro'), 30), (('gazelle', 'nørrebro', 'szblack'), 30), (('nørrebro', 'szblack', 'madness'), 30), (('szblack', 'madness', 'mayhem'), 30), (('new', 'tap|', 'nørrebro'), 29), (('|', '|', 'ratebeer:'), 29), (('|', 'ratebeer:', 'n/a'), 29), (('valby', 'københavn', 'nørrebro'), 29), (('personer', 'ramt', 'skud'), 29), (('københavn', 'n,', 'hovedstaden)'), 28), (('copenhagen', 'københavn', 'nørrebro'), 28), (('politiet', 'undersøger', 'muligt'), 28), (('shot', 'near', 'nørrebro'), 28), (('near', 'nørrebro', 'train'), 28), (('dreng', 'dræbt', 'skud'), 28), (('skud', 'affyret', 'nørrebro:'), 27), (('ale', '|', 'nørrebro'), 27), (('mand', 'stukket', 'kniv'), 27), (('ramen', 'bíiru', 'nørrebro'), 27), (('mand', 'ved', 'nørrebro'), 27), (('wood', 'wood', 'adidas'), 27), (('nørrebro,', 'københavntaken', 'instagram)'), 26), (('pale', 'ale', 'nørrebro'), 25), (('nyt', 'skyderi', 'nørrebro:'), 25), (('ramt', 'skud', 'nørrebro:'), 25), (('nyl:', 'nørrebro', 'bryghus'), 25), (('nørrebro', 'bryghuskøbenhavn', 'n,'), 25), (('photo', 'nørrebrogade,', 'nørrebro'), 25), (('udspiller', 'nørrebro', 'ihvo…'), 25), (('population', 'à', 'nørrebrodanemark)'), 25), (('à', 'nørrebrodanemark)', 'passé'), 25), (('nørrebrodanemark)', 'passé', 'gauchiste'), 25), (('valby', 'nørrebro', 'københavn'), 25), (('madness', 'mayhem', 'norrebro'), 25), (('nørrebro:', 'enårig', 'mand'), 24), (('nørrebro', 'bryghusphoto', 'drinking'), 24), (('posted', 'photo', 'nørrebrogade,'), 24), (('nørrebro', 'ihvor', 'u…'), 24), (('skyderi', 'nørrebro', 'politiet'), 24), (('elguitar,', 'andet', 'mã¦rke'), 24)]
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+[(':)', 1048), ('godt', 773), ('når', 624), ('god', 565), ('tak', 511), ('ramt', 452), (':-)', 444), ('ja', 438), ('anholdt', 404), ('love', 376), ('good', 319), (';)', 281), ('so', 261), ('bedste', 260), ('fik', 259), ('like', 246), ('nej', 245), ('great', 241), ('elsker', 232), ('sin', 222), ('super', 214), ('<3', 211), ('nice', 210), ('no', 203), ('fængslet', 197), ('klar', 187), ('fest', 181), ('tabt', 174), ('ha', 172), ('dræbt', 172), ('fire', 163), (';-)', 162), ('cool', 156), ('fantastisk', 154), ('mad', 152), ('håber', 150), ('brand', 145), ('demonstration', 145), ('mangler', 144), ('best', 144), ('glæder', 141), ('hygge', 141), ('lækker', 136), ('killed', 134), ('bedre', 126), ('fint', 120), ('haha', 120), ('glad', 119), ('happy', 116), ('stop', 113), ('spændende', 112), ('beautiful', 112), ('big', 111), ('fed', 110), ('nå', 110), ('top', 105), ('fin', 103), ('velkommen', 103), ('flot', 100), ('kæmpe', 99), ('free', 98), ('dejlig', 96), ('fri', 92), ('yes', 92), ('ballade', 91), ('vold', 90), ('desværre', 88), ('fuck', 86), ('thanks', 86), ('hjælp', 85), ('united', 83), ('fun', 83), ('awesome', 83), ('vild', 83), ('død', 82), ('amazing', 80), ('bad', 79), ('anbefale', 79), ('søde', 78), ('kære', 78), ('):', 78), ('fine', 78), ('problemer', 77), ('hjælpe', 76), ('udsat', 76), ('lide', 74), (':/', 72), ('delay', 72), ('venter', 71), ('lovely', 70), ('svært', 69), ('sweet', 68), ('støtte', 67), ('hit', 67), ('helst', 66), ('join', 65), ('tillykke', 65), ('kamp', 65), ('drab', 63), ('want', 62)]
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+[('<3 <3 <3 happy valentines <3 <3 <3 hos fri bikeshop - nørrebro elsker vi alle cykler og deres ejere :)', 26), ("thanks for a very funny trip to the nørrebro brewery :d - girl you're amazing as always, love you :d <3", 16), ('glæder mig! og lækker (igen uforventet) bonus man får oveni ;) på nørrebro prak skole :) held og lykke imorgen!', 16), ('i dag er det s fødselsdag hurra hurra hurra ( retro nørrebro)', 15), ('happy birthday dad, thanks to you i hung at nørrebro because of your iconic role in pusher and bleeder. i bought another pusher 2 dvd because of the beautiful cover. and thank you for inspiring me happybirthdaymadsmikkelsen (also thank you for the pic ) k6kukcqz5l', 15), ('congratulations to the winner of cities challenge, the soul of nørrebro! co-op city is happy to win the 2nd prize! oubp81zguf', 13), ("walk from amager to vesterbro - go through strøget - you'll see pretty much everything. it's a good day's walk. there is tivoli - amusement park, which is good if you're into that. nørrebro kirkegård (a really nice cemetery). but i mean, the food is the main reason for going.", 13), ('erfarne og ambitiøse sygeplejersker til spændende opgaver i sygeplejen bispebjerg/nørrebro erfarne og ambitiøse sygeplejersker til spændende opgaver i sygeplejen bispebjerg/nørrebro vi tilbyder en spændende og udfordrende arbejdsplads i området bispebj…', 13), ('gotta love nørrebro! lokal cykelhandler springer ud fra butikken for at ønske mig glædelig jul og god rejse. <3 venlige mennesker!', 12), ('ja ja ja ja ja ja ja idag juhu hurra vi ses på nørrebro! cphdistortion', 12), ('husk lige :) at imorgen spiller jeg koncert på nørrebro <3 jeg glæder mig kan i tro. håber vi ses :-*', 12), ('fantastisk dag på nørrebro med dejlig solskin med en af de bedste', 12), ('love coming home to nørrebrixton <3 <3 <3 noerrebro brixton multicultural', 12), ('best win ever - i love it!! thank you nørrebro', 12), ("i recommend nørrebro bryghus, it's quiet, has free wifi, nice sorroundings, nice smell of humle, a couch and a fireplace :)", 11), ('yup else im gonna drive you through mikkellers awesome stuff ;) + nørrebro bryghouse is yum - hes vesterbro local, my hero :p', 11), ('held og lykke på nørrebro + vesterbro, hører at du har fået lavet røre i andedammen om fixerrum - godt gået søde !!', 11), ('flot åbning på zenz nørrebro i lørdags, tak til vores fantastiske young creative team i zenz. i var helt...', 11), ('better mood, beautiful weather and good drinks – føler sig glad her: bodega nørrebro', 11), ('by guystrendthings this was awesome [9/10] retro cafe vintage copenhagen awesome nørrebro chill nice … g7xgpvax1g', 11), ('• | koncert i dag, love love love opvarmning. tak til cornelius - juhl sørensen xx studio, nørrebro. |…', 11), ('nørrebro for saaaatan da!! 100000000 tak for alt <3 <3 <3 fastpoholmen 48timerfestival nørrebro…', 11), ('congratulations to eyes of runavik, co-op city and the winner the soul of nørrebro for the great innovative solutions! nordicbuiltcities', 11), ('det har været et fantastisk år! tak, fordi i var en del af det. – føler sig fantastisk godt til mode her: nørrebro', 11), ('discovered a great little pizza place in nørrebro today. amazing marinated chicken pizza. streetfood win pizza c4abf8sucy', 11), ('i just loved the vibe of nørrebro, good company also helped to highlight it, but the feeling of it is great. :-)', 11), ('rigtig god jul og godt nytår! rigtig god jul og godt nytår! der er sket meget på nørrebro i 2017. vores fokus har været på en række spændende projekter og politiske sager. vi har bl.a. lavet en ny bydelsplan for nørrebro, sat fokus på vores bydels udvi…', 11), ('fin artikel - godt initiativ - håber d kan være en hjælp i virvarret - klart der skal skovl under f at løfte tingbjerg & indre nørrebro.', 11), ('well, at least i hope the food was good at c.house :) when drinking, try osborne at elmegade in nørrebro. nice little place.', 10), ('glædelig mandag :-) der kom 3 anbefalinger til steder på nørrebro, fra jer i sidste uge. super fedt... men skulle...', 10), ('had wonderful time visiting what will be our new home. lovely family, nice area bike ride in the woods, now in nørrebro drinking smoothies', 10), ('super lækker andel til salg. rolig gade i hjertet af nørrebro. god, sund forening. 850.000 ell. bud. jeppe .net', 10), ('rt : superkilen in nørrebro by big wins aia honour award via architecture denmark', 10), ('superkilen in nørrebro by big wins aia honour award via architecture copenhagen denmark...', 10), ('- lækre lokaler, fantastisk lyse og i en baggård, så man ikke mærker, man bor på nørrebro. :)', 10), ("uffff :: nørrebro's deff distorded.. have fun peeps, take care and enjoy your freedom iheartcph", 10), ("very nice :) thought about nørrebro too, but we're just totally in love with vesterbro :)", 10), ('wow! nok den vildeste regnbue jeg har set! rainbow rain copenhagen beautiful amazing bow nørrebro', 10), ('big thanks to nørrebro bryghus for great support & beer. keeping it real ! thanks to bjørn & co, as…', 10), ('ibyen.dk ny nørrebro-cafe vinder på beliggenhed og fabelagtig chili: der er kun enkelte skår i glæden på taxas s...', 10), ('hurra for forårsfornemmelser og fine frøkener som popper op som paddehatte på nørrebro <3', 10), ('yes så blev nørrebro teater nomineret som byens bedste teateroplevelse på aok.dk. vi er vildt stolte og glade og...', 10), ("det var ment på den mest positive og kærlige måde :) som i 'hvor ellers, selvfølgelig på nørrebro' så, easy there tiger ;)", 10), ('elsker du nørrebro og elsker du sushi, så vil du elske dagens tilbud. hent en lækker take-away sushi-menu hos...', 10), ('oh the wonders of owning a smart car! car smart tiny fun awesome frejasgade nørrebro', 10), ("good music, good friday, good food at bodega nørrebro tomorrow night. come and join - it's all good!", 10), ('absolut fantastisk twitterpower :) tvivler lidt på at 5 m kan nå fra dr til nørrebro, men nu lykkedes det mig...', 10), ('pleased to see the superkilen park in nørrebro by topotek 1, big & superflex won an archdaily award. great project! …', 10), ('kære vil i hjælpe m at invitere kbhs nye medborgere t dette event?nørrebro vil gerne byde velkommen <3 …', 10), ('humor nørrebrostation nørrebro tidligt lækker maler sjovt humor ventepåbussen movia…', 10), ('gaming night. now in my living room. (: boyfriend nørrebro gaming lol support levelup <3', 10), ('love this glutenfree bread made of a finaxdk mix. fantastic crust and it taste great nørrebro', 10), ('pure love football in nørrebro park. great little reminder on a cold morning. i love this…', 10), ('where you gonna eat? i\'d check out "side car" it\'s good food and nice ambience. nørrebro and vesterbro are fun boroughs.', 10), ('ok. eat, på min datters skole på nørrebro, er helt genialt. god, spændende og nærende varm frokost for 20 kr. ren win', 10), ('bliver varm indeni når jeg ser marta og guldsaksen. og endnu mere glad for nørrebro. tak for godt tv, …', 10), ('fantastisk middag, her den sidste aften på nørrebro. kaj fik lam i stærk sovs og jeg fik kylling med grøntsager...', 10), ('. så er der hvertfald en stemme på nørrebro :) held og lykke :) dkpol', 10), ('eventyrer fra nørrebro vinder danmarks bedste firmanavn nyopstartet rejsebureau på nørrebro løber med titlen som danmarks bedste firmanavn.…', 10), ('go up the christiansborg palace tower! free too & has great views. and the assistens cemetery is beautiful & near the nice nørrebro area.', 10), ('fantastisk øl for en god sag og godt selskab med dejlige mennesker – deltagelse i dignity x nørrebro bryghus:...', 10), ('fred på jord - fryd på nørrebro... <3', 9), ('travl dag: to shows og efterfest på "ude i kulden". held og lykke til nørrebro scenen! glæder mig til selv at se stykket snart!', 9), ('lyder spændende! er bosat på nørrebro, så jeg bliver altid glad (og interesseret) når der sker noget godt i 2200 :-)', 9), ('elsker at rulle og har gået til det som pige på svanevej på nørrebro ;) glæder mig til forår, sol og varme engangimaj', 9), ("oh wow! i loved cph. i'd recommend kanal kafe ( ) for delicious food. the nørrebro district is cool too!", 9), ('sjov og ballede før en rigtig nice aften i selvskab med nørrebro i perfekt rammer sat af projekt julehjælp! nyd...', 9), ('rt “ : lovely venue, excellent meal & delicious beer copenhagen nørrebro bryghus ”', 9), ('lovely venue, excellent meal & delicious beer copenhagen nørrebro bryghus', 9), ('fri bikeshop - nørrebro ønsker jer alle en glædelig hjul og godt nytår. vi holder lukket mellem jul og nytår....', 9), ('just went to “the barking dog” in sct hans gade on nørrebro, copenhagen. really awesome bar with beer and cocktails made with love :)', 9), ('celebrating successful user test at nørrebro bryghus. beer celebration microbrewery bombaypaleale…', 9), ('feel lucky to live in an inspiring area like nørrebro in copenhagen. just hit the streets - people are starting small businesses everywhere', 9), ('look how big my plants have grown! best gift from wemind. urbanfarming nørrebro happiness', 9), ("super lækker 3'er i hjerte af det herlige nørrebro sælges. lige ved nørrebroparken og superkilen. lækkert,...", 9), ('fantastisk billede af min far og niece, der bliver heppet i mål efter 5k løb rundt på nørrebro. smukt :)', 9), ('dejlig dag: hygge med storebror, bogmesse i gentofte, frokost på gråbrødretorv, cykelløb, kage, aftensmad og biotur på nørrebro win', 9), ('når man har været dygtig, må man godt forkæle sig selv lidt eksamen homerun happiness nørrebro', 9), ('super best på enghavevej skiftede til en super brugsen efter jeg flyttede til nørrebro.. nu ligger den herude!', 9), ('bliv frivillig i gemmeren på nørrebro - støt , få erfaring på cv, nye venner og fine klæder win favorit dkut3xtqsj', 9), ('tak til den fantastiske bogogide i nørrebro bycenter. i har det bedste udvalg af engelske bøger!', 9), ('vesterbro!! hopper rundt i ekstatisk glæde :) (selvom nørrebro var nærmest højest på listen)', 9), ("en ny donation er overført med beskeden: 'du klarer den!' tak for den mangeartede kærlige støtte til giverne på nørrebro i københavn", 9), ('copenhague is great city almost as good as berlin :) greeting from nørrebro', 9), ("morgensolen over nørrebro <3 morning sun above my roof beautiful light sunny day love missdsign's crib", 9), ('rt : i was there last year and it was awesome, love the danish lifestyle, love nørrebro, love copenhagen', 9), ('i was there last year and it was awesome, love the danish lifestyle, love nørrebro, love copenhagen', 9), ("20 år efter uroligheder på nørrebro, vinder dk melodi grand prix. vil hellere være på nørrebro i '93 end at se grand prix. escdk", 9), ('jeg venter spændt på invitation til en aften ;) nyder at komme hjem fra nørrebro teater og se jeres dejlige show.. smil :)', 9), ('lyder så lækkert. ihvertfald sjovere end travetur på forårscrowded nørrebro. men hey - fik paradis is!', 9), ('ohhh fraser that nice boy. went there because of you michael. and he is the best and funniest barber on nørrebro. love', 9), ('by stonie85 fantastisk lækker mad! tak for i aften _noerrebro aftensmad vietnamesisk bao… igdhpwshd1', 9), ('teddybear teddy love instagood sweet s4s instalike like4like danmark nørrebro funny havefun girl boy … fqwvannhlt', 9), ('on nørrebro, jægerborgsgade – alternative shopping, the best bakery, best coffee shop and two great restaurants, manfreds and relæ.', 9), ('nørrebro! thank you all for an incredibly awesome street and club party! the streets are now all nice and clean....', 9), ('fest og glade dage distortion nørrebro københavn molly øl happy girls smile ... ajrpbgm6ct', 9), ('pig gris car top houses windows street funny sun spring nørrebro nice jægersborggade lr9oms8jdu', 9), ('flot og professionelt arbejde af tror mange på nørrebro er glade for jeres håndtering. keep up the good work', 9), ('a stunningly beautiful work in honor of michael tajo, a long-time comrade lost, by the amazing local nørrebro...', 9), ('boss super chorus ch-1, boss super chorus ch-1, lækker , kr. 450,- i københavn n (nørrebro) 2200 - j0i1lhbzdt', 9)]
+Sentiment total score for nørrebro is:  14033
+Mean sentiment value for each tweet for nørrebro is:  0.2982825319899673
+score/sqrt(num of tweets) for each tweet for nørrebro is:  74.61011029634102
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+5039
+9079
+0
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+5039
+9079
+0
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+5039
+9079
+0
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+5039
+9079
+14118
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 156, in <module>
+    sentiment(sys.argv[1])
+  File "sentiment_analysis.py", line 105, in sentiment
+    sent_total = list(neg_sentiments | pos_sentiments)
+TypeError: unsupported operand type(s) for |: 'list' and 'list'
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+5039
+9079
+14118
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py nørrebro
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py østerbro
+1858
+4997
+6855
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py vesterbro
+2447
+8240
+10687
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py valby
+3008
+7128
+10136
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py torvehallerne
+362
+2134
+2496
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py indreby
+701
+1377
+2078
+Nadias-MacBook-Pro:Desktop nadiakrag$ python sentiment_analysis.py amager
+7486
+18520
+26006
+Nadias-MacBook-Pro:Desktop nadiakrag$ 

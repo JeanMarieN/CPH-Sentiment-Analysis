@@ -1,0 +1,30 @@
+Top 8 topics for ØSTERBRO_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.27%: østerbro så lige kan mangler dag bare stadion nej ved lidt billede slået igen fucking bor desværre står kbh kun
+Topic #2 with probability 0.45%: ringsted foodporn frokostordning madhytten mad greve vallensbæk hundige ishøj herlev frokost holbæk karlslunde lækkersulten frisk køge roskilde vesterbro hjemmelavet valby
+Topic #3 with probability 0.52%: skud ramt mindst personer tre skyderi østerbro område fredag aften stort såret københavn dræbt skudepisode død politiet bil efterforsker terror
+Topic #4 with probability 0.59%: copenhagen denmark østerbro day oesterbro shooting chilling cafe police københavn one work night scene investigative personnel danmark lost arrested grey
+Topic #5 with probability 0.43%: anholdt mand årig sigtes skarpladt østerbro pistol 19 politiaktion ung blevet formiddag politi kampklædt søndag serievoldtægtsmand politiet yngre mulig avis
+Topic #6 with probability 0.53%: københavn kr 2100 overdrive pedal østerbro 000 delay elguitar 500 ibanez wah mærke cry fender andet baby dunlop hot rod
+Topic #7 with probability 0.41%: brand ved østerbro beboere ryparken evakueret stor voldsom tagbrand lejlighed kollegium person nat livet politiet kontrol beboelsesejendom lejlighedsbrand slukket røg
+Topic #8 with probability 0.25%: slog albummet facebook billeder 2013 spring skæmt spøg nyboder østerbro billede københavn tårnby ff hold 11 12 nice helt år
+
+Top 8 topics for ØSTERBRO_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.21%: østerbro kan lidt dag mangler kbh se går år træt slut kom nye parken står fuck nok ingen nogen bare
+Topic #2 with probability 0.67%: mad nørrebro vesterbro københavn valby livretter lækkersulten roskilde uge hjemmelavet foodporn køge frokost vallensbæk madhytten ishøj yndlings herlev ringsted holbæk
+Topic #3 with probability 0.86%: skud ramt københavn tre skyderi politiet personer terror mindst såret dræbt skudepisode fredag stort område person krudttønden død vilks fundet
+Topic #4 with probability 1.84%: østerbro copenhagen denmark københavn one today home new day night grey work danish oesterbro police time christmas sure get morning
+Topic #5 with probability 0.85%: østerbro årig mand politiet ved cphshooting anholdt politi københavns røveri blevet rt set sigtes søndag ung politiaktion mænd person kvinde
+Topic #6 with probability 1.09%: så københavn kr mangler 2100 ny pedal overdrive kan igen kæmpe få mærke kun slå sælger pris andet fået rod
+Topic #7 with probability 0.96%: ved venter brand lejlighed nat stor livet voldsom københavn mandag ryparken stjålet evakueret lige lejlighedsbrand köpenhamn røg fik beboere dr
+Topic #8 with probability 1.17%: østerbro lige stadion nej slog slået kamp facebook billeder ligger kl spelt tv lugter år stadium tager albummet live svær
+
+Top 8 topics for ØSTERBRO_negative.json using the LDA models with tf features.
+Topic #1 with probability 8.45%: østerbro copenhagen brand denmark art københavn day know kunst nature make cph kvinde delditkbh samtidskunst new architecture stop home bike
+Topic #2 with probability 4.04%: østerbro laver pose bamthepuppy dogsofinstagram dachshundlabrador terapi lizzy dachsador mizz dizzy område mindfulness sundmad attentatet vegan februar lange angst etc
+Topic #3 with probability 4.45%: østerbro copenhagen grey homedecor kr interiordesign ndrfrihavnsgade45 interiorncoffee stole pizza boligindretning fashion grå interior blomster instafood essen indretning lampe sofa
+Topic #4 with probability 3.78%: foodporn mad ringsted nørrebro frokostordning vesterbro valby frokost københavn østerbro hjemmelavet herlev roskilde madhytten køge brøndby holbæk ishøj frisk lækkersulten
+Topic #5 with probability 3.73%: østerbro cphshooting weekend que visitcopenhagen københavn copenhagen self awesomeearth france aokdk com media wonderfulcopenhagen cphpicks sure igerscopenhagen play thoughts cphfood
+Topic #6 with probability 13.59%: østerbro copenhagen denmark one christmas tre night bad last day danmark tired work food sunday dk krudttønden oesterbro københavn today
+Topic #7 with probability 11.18%: østerbro københavn kr 2100 get anholdt new black little 000 mand årig plads shit horse much overdrive weekend iron pedal
+Topic #8 with probability 50.78%: østerbro så kan københavn ved lige ramt lidt dag skud bare mangler politiet aften kl år få blevet mand kun
+

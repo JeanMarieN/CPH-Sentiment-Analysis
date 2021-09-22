@@ -1,0 +1,30 @@
+Top 8 topics for INDREBY_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 2.31%: indre så kan dag mangler bare bil lige nej ja går helt kl svært lidt hele politi få rundt bor
+Topic #2 with probability 0.70%: truth rebellion frederikschurch danish borsen amalienborgpalace norrebro amalienborg johncharles osterbro rat frederiksstaden frederiksborgpalace rebellionandtruth tivoligardens charles christianborg christianborgpalace rosenborgcastle middelalder
+Topic #3 with probability 0.83%: battles kulturhuset slam rap vs 11 beta klar indre simon fresco norup mikkel geeza beast mr magermayn vigsø via hakke
+Topic #4 with probability 0.50%: drabsforsøg cykelhandler skyldig årig 18 kendes 69 albaner nævningeting mand fundet ung kvinde skud anholdt dræbt politiet voldtægt bygmestervej livsfare
+Topic #5 with probability 0.50%: hal grå might go going feb religion bad jul 24 indre 14 alene lag ibyen life gater ganske gang gammelmønt
+Topic #6 with probability 0.71%: ramt del kun skud mand dr indre bygmestervej bandemiljøet livsfare tidligere arbejdet nedlagt 28 siger strømafbrydelse pol politiet ny viser
+Topic #7 with probability 0.39%: farlig røg brand gamle udvikle musikuniversitet indre kan sykle oslo kalder rasmussen stressende 40 ganske mindre bydel avfall innsamling uke
+Topic #8 with probability 0.70%: ved trafikkaos anlæg giver frygt nye måske byggerier operaen papirøen give kan indre lige gør så svært trække land harmoniske
+
+Top 8 topics for INDREBY_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 3.36%: indre lige år oslo mangler bare går nej ja helt sted fire folk kom må lidt dkpol nok rundt fuck
+Topic #2 with probability 0.82%: charles borsen christianshavn tivoli frederiksberg 2013 john tivoligardens osterbro rebellionandtruth christianborgpalace rat christianborg norrebro rosenborg rosenborgcastle nyhavn rebellion frederiksborgpalace frederiksstaden
+Topic #3 with probability 0.98%: kulturhuset slam rap vs 11 battles klar beta lost simon fresco norup januar mikkel via vores søndag tid rammer mr
+Topic #4 with probability 1.16%: mand årig 18 kvinde skyldig nævningeting politiet siger albaner ung rådhuspladsen midt bar fundet 28 wanna piss foran mener anholdt
+Topic #5 with probability 1.85%: indre kr grå bad go ibyen overdrive hal pedal architecture miss might 24 cphpicks religion feb city link jul vintageshop
+Topic #6 with probability 1.83%: indre ramt dag kun store uden træt tv undgå må nyt la del stoppe vej løser lille hader nat sur
+Topic #7 with probability 1.90%: indre kan kl politi politiet politidk københavns brand område køre demonstration mistænkelig time røg afspærret morgen natten trafikale risiko dræbt
+Topic #8 with probability 1.73%: så ved svært kan få måske nye se lige valby brønshøj hele ret hellerup vores københavnk frygt trafikkaos fucking dansk
+
+Top 8 topics for INDREBY_negative.json using the LDA models with tf features.
+Topic #1 with probability 5.65%: årig skyldig cykelhandler drabsforsøg ung mand 18 fundet københavns 69 kendes albaner nævningeting udligning 22 begrænse frank bør regeringen mener
+Topic #2 with probability 29.63%: indre mand så ramt politiet skud kan årig brand politi folk kvinde oslo dræbt siger lige lidt cykel midt 28
+Topic #3 with probability 4.05%: 20 rådhuspladsen mener første københavnere regner skeletterne arkæologer udgravet stammer arkæologerne hemmelighed stine grave skeletter winther damsbo mand fog mad
+Topic #4 with probability 4.27%: rebellion truth tivoli christianshavn 2013 frederiksberg john frederiksborgpalace nyhavn rosenborgcastle middelalder tivoligardens rebellionandtruth amalienborgpalace osterbro norrebro christianborg borsen johncharles amalienborg
+Topic #5 with probability 7.79%: indre kan så få vej undgå brønshøj valby person trafikulykke dræbt hellerup måske frederiksberg eyelash følg befinder nyt storkøbenhavn bekymring
+Topic #6 with probability 4.22%: tre prins skorsten 100 000 frem sydhavnen dage castrum henrik slotskirke farvel danskerne doloris besøge afdøde rives offentligheden kiste kæmpe
+Topic #7 with probability 4.62%: fc mestrene bo fem pænt la bedst slap stor dyrt kamp fire københavns straffer parken fejl slå anførerens midtjylland startede
+Topic #8 with probability 39.76%: indre ved kan kulturhuset battles kl kr dag 11 slam rap går politidk lige vs rundt så bare fire ja
+

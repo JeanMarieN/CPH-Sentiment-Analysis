@@ -1,0 +1,30 @@
+Top 8 topics for VESTERBRO_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.20%: slog billede copenhagen vesterbro albummet facebook billeder torv madklubben politiet prostituerede friday festival 2015 88 fotograferne 2013 bíiru heltefest ramen
+Topic #2 with probability 0.84%: vesterbro så nørrebro kan mangler mad distortion bare jul københavn dag lige advarer ved usa nej aften kbh borgere desværre
+Topic #3 with probability 0.50%: copenhagen vesterbro shooting mosque outside dead injured amerikavej street district denmark police person rt c4news miss one københavn day much
+Topic #4 with probability 0.18%: die skandinavische lässigkeit oder reisen reiseblog kopenhagen dänemark städte vesterbro via und meerblog wir danemark über ein nicole gleich laufen
+Topic #5 with probability 0.17%: altaner københavneriet rotte møder skide sgu gammel raquo laquo politiken dk vesterbro keepcopenhagenweird fantastisk dkmedier elsker artikel kim trempenau via
+Topic #6 with probability 0.41%: mand dræbt anholdt kvinde fundet årig skud vesterbro skudt politiet død københavn 48 politi ramt dr voldtægt 32 drab knivstik
+Topic #7 with probability 0.26%: brand evakueret voldsom københavn kontrol vesterbro ved beboere odense 27 30 tagbrand indre mændenes vesterbrogade røg flere hjem bygning femetagers
+Topic #8 with probability 0.20%: drinking brewing co duck ugly ipa photo citra amarillo brød øl chinook simcoe vesterbro pilsner wit devil miami vice hop
+
+Top 8 topics for VESTERBRO_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.13%: vesterbro torv slog mad rock copenhagen stop festival madklubben istedgade distortion tv fire venter penalty sur radio billeder kaffe aften
+Topic #2 with probability 1.61%: vesterbro så kan ved mangler lige lidt dag år nej jul nørrebro østerbro nogen mad kl kbh kom bare stadig
+Topic #3 with probability 1.21%: vesterbro copenhagen denmark today miss time one day night sure stop distortion new much cph go get drop see weekend
+Topic #4 with probability 0.43%: vesterbro via skandinavische oder lässigkeit die kopenhagen wear viking typeface helmet mad reisen reiseblog es dying war und dänemark vinstue
+Topic #5 with probability 0.64%: vesterbro nørrebro fuck dk sgu hipster skide kæmpe så usa møder gammel rotte thomas1976lbv københavneriet politiken borgere vega mest vesterbro_ht
+Topic #6 with probability 0.65%: mand årig politiet anholdt dræbt fundet kvinde skud skudt tre ramt outside pushere politi shooting nat person drab skyderi politiken
+Topic #7 with probability 0.66%: københavn brand voldsom ved kr evakueret vesterbrogade odense indre hjem tagbrand nat overdrive mændenes 30 new politiet søndag professor lukker
+Topic #8 with probability 0.69%: vesterbro drinking photo jul copenhagen mikkeller øl sick music shit vesterbronx ipa paa telescope finished duck ugly download nowplaying good
+
+Top 8 topics for VESTERBRO_negative.json using the LDA models with tf features.
+Topic #1 with probability 8.22%: vesterbro danish københavn venter haft ringsted ready die problemer crazy day fashion feel streetart drag sur yes le el cold
+Topic #2 with probability 6.38%: vesterbro vesterbro_ht red vesterbronx valby singer songwriter copenhagen foodporn mitkbh onkeldannysplads guitar photos songs composingmusic musician song lyrics frokostordning guitarist
+Topic #3 with probability 9.72%: vesterbro new københavn art drinking photo done home need got mikkeller artist homeless child many food bad brød really fucking
+Topic #4 with probability 8.38%: vesterbro dag grå samme så ingen tilbage bulldog job andre kaffe hundenherman engelskbulldog bully bulldogsofinstagram kr danmark god bare synes
+Topic #5 with probability 12.81%: vesterbro så kan nørrebro kbh jul se få mangler svært coffee ja last link advarer aldrig fucking usa tired enghave
+Topic #6 with probability 17.98%: vesterbro copenhagen denmark stop årig music københavn time today tre distortion cph first miss get day back see street one
+Topic #7 with probability 9.58%: vesterbro fire nej torv christmas distortion sgu møder træt så tove give skide ved gammel la endnu unge altaner københavneriet
+Topic #8 with probability 26.92%: vesterbro københavn mad så ved mand lige brand bare aften går kan dag kl helt politiet anholdt hjem lidt mangler
+

@@ -1,0 +1,30 @@
+Top 8 topics for VESTERBRO_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.20%: jul video lide melodi anders matthesen hit dagens youtube hits sangen glædelig today afsnit liked episode hjerternes fraklip fest danny
+Topic #2 with probability 0.13%: aalborg world fitness express comic 28 others chestday occ fresh buddy week innovation 18 day quality workout back yeah today
+Topic #3 with probability 0.15%: vesterbro_ht ukirke rt valbygarden gis_sharer let lige får mere light relyreley brunch beautiful d_fischermann v7dmbx1hiz boyseatscotland 22 guldsmedentwt bluetapper 190973ss
+Topic #4 with probability 0.39%: så kan god tak lige dag klar distortion aften ja ved lidt morgen vores se går bedste kom glæder bor
+Topic #5 with probability 0.15%: hotel comfort drinking first photo hotels good morning guldsmeden posted one us tuborg best pilsner copenhagenhotels axel check на lobby
+Topic #6 with probability 0.16%: happy new year 2018 happynewyear newyear day years us fireworks birthday 2017 christmas friends today friday great see nye one
+Topic #7 with probability 0.17%: godt nytår 2018 sted happynewyear nok godtnytår kan twitterhjerne ser spise kender billigt selskab 2017 venner år nye tror bud
+Topic #8 with probability 0.19%: love place art streetart gotta home life city torussiawithlove beautiful travel christmas pride street family party weekend good distortion little
+
+Top 8 topics for VESTERBRO_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.73%: jul video elsker lide vores ser fest så kærlighed år set via kan hit se glædelig dagens haha skydebanegade 10
+Topic #2 with probability 0.42%: aalborg world fitness yeah fresh comic express win 28 others fan fit quality innovation community gym dk www blockbuster workout
+Topic #3 with probability 0.71%: vesterbro_ht super rt hygge kr weekend lige restaurant mere lækker vesterbrogade brunch kødbyen får fin god dag valbygarden mad ukirke
+Topic #4 with probability 1.17%: så tak kan ved god ja torv nye lidt klar morgen dag lige glæder går aften kom se kl nogen
+Topic #5 with probability 0.70%: good hotel nice best comfort photo great drinking morning cool one mikkeller first beer like place us visit night bar
+Topic #6 with probability 0.98%: like today day christmas thanks great time fun visitcopenhagen thank one weekend amazing tonight party get friends sunday lovely saturday
+Topic #7 with probability 0.43%: godt happy new year nytår 2018 newyear happynewyear sted 2017 years spise selskab godtnytår li virkelig newyearseve lyder birthday venner
+Topic #8 with probability 0.48%: love art home streetart street beautiful travel life sweet sun party graffiti snow summer true sunshine streets morning photo little
+
+Top 8 topics for VESTERBRO_positive.json using the LDA models with tf features.
+Topic #1 with probability 23.29%: love new good like happy one great beautiful best day year time food nice today coffee amazing night home get
+Topic #2 with probability 9.17%: vesterbro_ht hotel god weekend us saxogade comfort thank brunch voreskbh streetart homemade love look join motivation via design valbygarden friday
+Topic #3 with probability 10.06%: art dk kødbyen 10 får es cool travel igen istedgade110 yoga fashion back ibyen big weekend interior mad altid december
+Topic #4 with probability 9.46%: lille kr klar distortion store fredag kærlighed fest stadig plads tilbage fin par mere genbrug kunst tak set vega kender
+Topic #5 with probability 8.01%: istedgade fik visitcopenhagen dinner vegan tid hipster aokdk lækre shop tipkbh tatovering aldrig mennesker derfor nordicliving mxkbh altfordamerne thecaribbeanhousewife lokal
+Topic #6 with probability 18.48%: så kan godt ved vores lige nye lidt god tak år fine se helt morgen få glæder ja forbi bare
+Topic #7 with probability 10.27%: jul christmas bedste elsker 12 frederiksberg glædelig nok måske inspiration link com baby øl ret always dage torv creative dejlige
+Topic #8 with probability 11.25%: hygge dag aften nytår kaffe style retro vintage kl tak aalborg fitness 18 world fantastisk lørdag indretning dejlig 11 gode
+

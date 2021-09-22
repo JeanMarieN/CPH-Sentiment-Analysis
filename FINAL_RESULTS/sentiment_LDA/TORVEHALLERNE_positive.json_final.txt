@@ -1,0 +1,30 @@
+Top 8 topics for TORVEHALLERNE_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.89%: copenhagen denmark torvehallerne food smørrebrød travel lunch delicious foodie københavn foodporn danish yummy best foodmarket good day one breakfast instafood
+Topic #2 with probability 0.33%: vejle syddanmark western best 530 vanaf denemarken torvehallerne hotel drinking kirketorvet 16 ever beer 10 mayor town aften staying choice
+Topic #3 with probability 0.67%: torvehallerne kbh så god godt kan dag københavn ved frokost forbi bedste tak vores lige cph weekend lækker happy kom
+Topic #4 with probability 0.32%: coffee collective coffeecollective torvehallerne morning good best kaffe great espresso breakfast cup coffeetime thecoffeecollective copenhagen softice latte day enjoying barista
+Topic #5 with probability 0.40%: flowers stalksandroots interior flowerstothepeople urbanjungle beautiful stalks roots spring roses danmark home bouquet forår fashion torvehallernekbh ranunkler eucalyptus københavn greenliving
+Topic #6 with probability 0.30%: love place torvehallerne copenhagen happy family christmas summer autumn others life much flowers grød colors city look nature colours colorful
+Topic #7 with probability 0.48%: market food fresh torvehallerne amazing fish copenhagen place beautiful great day awesome fruit indoor last trip cph produce street costa
+Topic #8 with probability 0.25%: hygge torvehallerne weekend københavn frokost christmas efterår lørdag kaffe mor søndag lille gløgg christmasishere mums grød kage søde gormspizza øl
+
+Top 8 topics for TORVEHALLERNE_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.60%: torvehallerne copenhagen food denmark travel københavn yummy smørrebrød foodie lunch delicious foodporn market danish healthy visitcopenhagen one organic foodmarket torvehallernekbh
+Topic #2 with probability 0.50%: vejle western vanaf best denemarken syddanmark hotel 530 town usd drinking datravelapp thecheappassess kirketorvet 16 show ipa checked choice staying
+Topic #3 with probability 1.52%: torvehallerne så vores kan godt tak ved københavn torvehallernekbh god dag lige lækre forbi lækker kom lidt lækkert nye smukke
+Topic #4 with probability 1.09%: torvehallerne good coffee great time day grød morning collective porridge like today coffeecollective one perfect start way new lunch go
+Topic #5 with probability 0.95%: flowers copenhagen stalksandroots denmark urbanjungle beautiful interior spring torvehallernekbh flowerstothepeople home stalks urbanjunglebloggers roses happy roots summer today pretty danmark
+Topic #6 with probability 0.84%: torvehallerne love kbh happy summer place tapas sun life cph lovely sunday time friends sushi family new year smile others
+Topic #7 with probability 0.81%: torvehallerne market fresh beautiful day nice cph trip win place today last like wonderful visit fish shop new fruit produce
+Topic #8 with probability 0.77%: hygge weekend københavn søde kærlighed søndag shopping mor frokost elsker god lørdag kaffe fredag kage christmas jul tapas wine go
+
+Top 8 topics for TORVEHALLERNE_positive.json using the LDA models with tf features.
+Topic #1 with probability 3.45%: fashion torvehallerne la roots le copenhague un blanca costa stalks costablancaincopenhaguen style el que mercado ootd vild super con pour
+Topic #2 with probability 34.49%: torvehallerne copenhagen food market denmark day best danish good great cph love amazing fresh one delicious like kbh lunch smørrebrød
+Topic #3 with probability 13.55%: copenhagen torvehallerne flowers denmark love beautiful københavn travel market stalksandroots danmark interior fresh spring torvehallernekbh urbanjungle flowerstothepeople kbh visitcopenhagen home
+Topic #4 with probability 3.22%: torvehallerne com copenhagen twitter israels plads razspa organic metro service wonderfulcopenhagen så на succes velkommen loppetorv danishdesign antiques opera københavns
+Topic #5 with probability 10.04%: torvehallerne coffee copenhagen grød healthy food breakfast foodporn collective foodie porridge hygge instafood delicious københavn lunch coffeecollective vegan yummy healthyfood
+Topic #6 with probability 19.33%: torvehallerne så kan godt dag københavn tak god ved kbh vores torvehallernekbh bedste kaffe få elsker hygge forbi går dejlig
+Topic #7 with probability 10.71%: torvehallerne vores så lækre lige kom lækker lækkert fisk forbi pizza te kbh søndag god hygge sommer kl nye københavn
+Topic #8 with probability 5.21%: vejle torvehallerne syddanmark best western denemarken vanaf 530 dk ja juice tapas cava via link mad bio havtorvehallerne www gin
+

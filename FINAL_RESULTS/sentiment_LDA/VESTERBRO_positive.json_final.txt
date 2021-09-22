@@ -1,0 +1,30 @@
+Top 8 topics for VESTERBRO_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.42%: copenhagen vesterbro love denmark good beautiful morning best københavn great cool art travel cph day nice one like city hygge
+Topic #2 with probability 0.20%: jul video lide vesterbro melodi anders matthesen hit dagens youtube danmark sangen hits glædelig afsnit liked today denmark episode hjerternes
+Topic #3 with probability 0.13%: aalborg world fitness vesterbro express comic 28 others chestday occ fresh innovation buddy week 18 workout quality day yeah back
+Topic #4 with probability 0.56%: vesterbro så kan god tak dag københavn distortion lige ja elsker bedste aften ved klar nørrebro torv bor kbh morgen
+Topic #5 with probability 0.15%: vesterbro_ht ukirke rt valbygarden gis_sharer let lige får mere light relyreley brunch d_fischermann 22 v7dmbx1hiz boyseatscotland bluetapper guldsmedentwt 190973ss aovez0bl5z
+Topic #6 with probability 0.15%: hotel comfort drinking denmark vesterbro first photo hotels copenhagen guldsmeden posted tuborg pilsner copenhagenhotels axel us на lobby check checked
+Topic #7 with probability 0.17%: godt nytår 2018 sted kan happynewyear godtnytår nok spise ser twitterhjerne billigt 2017 selskab kender venner år nye igen li
+Topic #8 with probability 0.15%: happy new year 2018 happynewyear newyear years day fireworks birthday us 2017 love cph nye friends everyone friday see vesterbro
+
+Top 8 topics for VESTERBRO_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.15%: vesterbro copenhagen københavn good weekend great denmark love nice like hygge cool one time night today nørrebro lovely food street
+Topic #2 with probability 0.62%: vesterbro jul video så lide elsker vores kan år ser set fest glædelig kærlighed god se hit sgu haha melodi
+Topic #3 with probability 0.59%: world fitness morning aalborg good copenhagen life fresh love comic express week yeah streetart instagood travel motivation healthy others two
+Topic #4 with probability 1.20%: vesterbro så tak kan københavn ved god lige dag nørrebro torv super nye morgen lidt kbh kr klar kl vores
+Topic #5 with probability 0.40%: vesterbro_ht rt valbygarden let ukirke light hygge lige brunch xmas mere party vesterbronx best merry får pizza sunrise mother view
+Topic #6 with probability 0.41%: vesterbro hotel photo drinking comfort denmark wit pilsner first stout och spontanale god ha win station service wow jag toilet
+Topic #7 with probability 0.46%: godt year happy nytår new 2018 denmark copenhagen newyear happynewyear sted 2017 nok nye år style love years godtnytår selskab
+Topic #8 with probability 0.66%: vesterbro love new happy us cph thanks rock starz like see thank mikkeller distortion radio join hope today party christmas
+
+Top 8 topics for VESTERBRO_positive.json using the LDA models with tf features.
+Topic #1 with probability 7.58%: vesterbro dk jul video gode sammen bedre danmark lide via www 2017 bolig masser london dagens besøg book lokal denmark
+Topic #2 with probability 15.55%: vesterbro godt så dag kan nye nytår nørrebro år morgen vores retro vintage aalborg fitness 18 gerne kommer hjem igen
+Topic #3 with probability 29.63%: vesterbro copenhagen love denmark new happy good christmas like one great beautiful hotel cph best day art cool food year
+Topic #4 with probability 6.78%: vesterbro istedgade fik shopping es shop istedgade110 vegan festival tid aokdk rock 100 udsalg tipkbh aldrig caribbean ceramics radio mxkbh
+Topic #5 with probability 6.56%: københavn vesterbro vesterbro_ht kr vesterbronx homemade kunst valbygarden gold madklubben fo och mode special selfie gift till super københavns share
+Topic #6 with probability 6.36%: vesterbro design inspiration plads interior foodie pretty delditkbh motivation architecture com interiordesign start photography black tatovering decor danishdesign enghave sale
+Topic #7 with probability 20.05%: vesterbro københavn så god tak jul kan ved lige bedste lille elsker hygge aften se lidt mere vores kl kbh
+Topic #8 with probability 7.50%: vesterbro mitkbh music yoga indretning voreskbh restaurant sted streetart densocialehandelsgade lejlighed shopforengodsag endnu designforengodsag link boligindretning bio interiør lækkert kaffe
+

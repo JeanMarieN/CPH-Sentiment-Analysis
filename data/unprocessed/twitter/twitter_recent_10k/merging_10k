@@ -1,0 +1,52 @@
+Last login: Tue Feb 27 07:47:44 on ttys000
+Nadias-MacBook-Pro:~ nadiakrag$ cd Desktop/Project1/Methods
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017
+Number of tweets in 2018 is  730
+Number of tweets in 2017 is  9097
+Number of tweets in merged file is  9827
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017 2016 2015
+Number of tweets in 2018 is  385
+Number of tweets in 2017 is  3636
+Number of tweets in 2016 is  3282
+Number of tweets in 2015 is  4326
+Number of tweets in merged file is  11629
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017 2016
+Number of tweets in 2018 is  546
+Number of tweets in 2017 is  4523
+Number of tweets in 2016 is  5378
+Number of tweets in merged file is  10447
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017 2016
+Number of tweets in 2018 is  1149
+Number of tweets in 2017 is  4251
+Number of tweets in 2016 is  6057
+Number of tweets in merged file is  11457
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009
+Number of tweets in 2018 is  103
+Number of tweets in 2017 is  987
+Number of tweets in 2016 is  1421
+Number of tweets in 2015 is  1645
+Number of tweets in 2014 is  1766
+Number of tweets in 2013 is  1269
+Number of tweets in 2012 is  969
+Number of tweets in 2011 is  728
+Number of tweets in 2010 is  41
+Number of tweets in 2009 is  9
+Number of tweets in merged file is  8938
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017
+Number of tweets in 2018 is  1423
+Number of tweets in 2017 is  10956
+Number of tweets in merged file is  12379
+Nadias-MacBook-Pro:Methods nadiakrag$ python merging.py 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008
+Number of tweets in 2018 is  186
+Number of tweets in 2017 is  1528
+Number of tweets in 2016 is  985
+Number of tweets in 2015 is  991
+Number of tweets in 2014 is  935
+Number of tweets in 2013 is  822
+Number of tweets in 2012 is  752
+Number of tweets in 2011 is  530
+Number of tweets in 2010 is  213
+Number of tweets in 2009 is  94
+Number of tweets in 2008 is  9
+Number of tweets in merged file is  7045
+Nadias-MacBook-Pro:Methods nadiakrag$ 

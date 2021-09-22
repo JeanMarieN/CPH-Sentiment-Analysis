@@ -1,0 +1,30 @@
+Top 8 topics for VALBY_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.29%: kostplan fitnessdk altermuligt diæt målsætning livskraft muskler detgodeliv kostvejleder slank toning selvtillid styrke personligtræning vægttab energi com sundhed fitnessmotivation fitnessworld
+Topic #2 with probability 0.74%: valby så fitness godt love world dag hygge kan hovedstaden tak klar lige se kl bakke dk morgen god ved
+Topic #3 with probability 0.24%: big bowl flæsk stegt besøg kun 99 persillesovs libitum spise bowling kan times vores valby vinterferien bbq skyder få 29
+Topic #4 with probability 0.28%: john playing funny town train valby dirty video dr liked listen explicit ya comedy eat bite skeeter rose like fri
+Topic #5 with probability 0.22%: vintage tilsalg smuktbrugt boligindretning retroguld vintagefurniture tilsalgkbh børnemøbler childlikeliving vintagelove kidsinterior reusereducerecycle barnrum tilsalgbørn kidsdecor scandinavianinterior relovedfurniture kidsroom børneværelse sustainableliving
+Topic #6 with probability 0.26%: 2500 kr iphone super 204 tv sim låst nej langgade elguitar gb 000 valby 16 sort flot 500 fed 800
+Topic #7 with probability 0.18%: god pubic thank hair nowplaying john valby pandora listening via morgen aften weekend dag søndag jul fredag rigtig new perfect
+Topic #8 with probability 0.13%: familiefilm villads populære baseret bøger dansk årige 12 bio rødding grindsted kinoteater valby biografen åri kanten filmteatret hobro bibliografen dre
+
+Top 8 topics for VALBY_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.87%: valby kan så lidt ved roskilde træning fitness motivation komme håber via hvidovre sundhed vægttab hjælp rødovre inspiration fitnessmotivation fitnessworld
+Topic #2 with probability 1.30%: valby love happy new karen good like weekend today time summer morning hygge great fun one life day nice welcome
+Topic #3 with probability 0.45%: kun big bowl vores spise besøg kan persillesovs få helt nye stegt times libitum 99 årets så igang julefrokost sommer
+Topic #4 with probability 0.65%: john video thank playing dr train dirty town funny pubic liked nowplaying like god show comedy fri listen great night
+Topic #5 with probability 0.49%: vintage tilsalg frederiksberg boligindretning interiordesign interiør genbrug indretning smuktbrugt loppefund loppeguld danishdesign sælges nordichome loppemarked retro genbrugsguld solgt vintagefund vintagelove
+Topic #6 with probability 0.49%: kr super 2500 langgade god tv sort nej flot elguitar fed stand fin låst iphone sim 500 andet lækker 16
+Topic #7 with probability 1.51%: så tak godt dag se god år klar lige hygge vores weekend søndag morgen sushi nye kom kærlighed elsker glæder
+Topic #8 with probability 0.64%: home inspiration elskditvalby villads spinderiet dansk art photooftheday flowers kl shopping valbylanggade217 populære bøger kunst instagood familiefilm love shoplokalt kino
+
+Top 8 topics for VALBY_positive.json using the LDA models with tf features.
+Topic #1 with probability 10.28%: valby vores kærlighed klar aften sundhed elskditvalby interior smukke dag nye bolig bedste elsker første frem gang nails fødselsdag sund
+Topic #2 with probability 7.01%: så valby instagood dine idag dr www coconailsdk gå december nailswag dit ha negle naildiva byholm lige dagens dirty garden
+Topic #3 with probability 6.74%: inspiration kostplan interiør valby motivation fitnessmotivation interiordesign rødovre food altermuligt toning diæt selvtillid kostvejleder slank personligtræning muskler detgodeliv livskraft vægttab
+Topic #4 with probability 22.03%: valby love happy home beautiful new art like john good coffee christmas fun weekend flowers day morning danish life time
+Topic #5 with probability 23.19%: valby kan hygge godt frederiksberg dag tak ved god se håber weekend kl år lige gerne dk jul søndag mere
+Topic #6 with probability 10.87%: valby kr 2500 kun super vintage tilsalg genbrug loppefund loppeguld genbrugsguld retro loppemarked bedste sælges elsker indretning altid lille boligindretning
+Topic #7 with probability 5.45%: valby healthy indretning kunst design abstractpainting dansk solgt abstractart amagerstrand butikk9 familiefilm artlovers _art lipkit boligindretning boliginspiration kunstner malerier figurtivepainting
+Topic #8 with probability 14.43%: valby så træning fitnessdk big com bowl fitness via igang kan lidt komme brug fitnessworld hjælp hvidovre glæder energi skriv
+

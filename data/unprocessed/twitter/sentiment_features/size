@@ -1,0 +1,66 @@
+Last login: Mon Feb 26 00:09:45 on ttys000
+Nadias-MacBook-Pro:~ nadiakrag$ cd Desktop/Project1
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentimental_analysis.py nørrebro
+python: can't open file 'sentimental_analysis.py': [Errno 2] No such file or directory
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py nørrebro
+Mean sentiment value for each tweet for nørrebro is:  0.2982825319899673
+score/sqrt(num of tweets) for each tweet for nørrebro is:  74.61011029634102
+5039
+9079
+Nadias-MacBook-Pro:Project1 nadiakrag$ østerbro
+-bash: østerbro: command not found
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py østerbro
+Mean sentiment value for each tweet for østerbro is:  0.4733217088055798
+score/sqrt(num of tweets) for each tweet for østerbro is:  80.65518975135683
+1858
+4997
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py vesterbro
+Mean sentiment value for each tweet for vesterbro is:  0.5446287519747235
+score/sqrt(num of tweets) for each tweet for vesterbro is:  124.36078753596976
+2447
+8240
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py valby
+Mean sentiment value for each tweet for valby is:  0.35341638177305296
+score/sqrt(num of tweets) for each tweet for valby is:  76.14165273259088
+3008
+7128
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py torvehallerne
+Mean sentiment value for each tweet for torvehallerne is:  0.7687325516471245
+score/sqrt(num of tweets) for each tweet for torvehallerne is:  84.13745633063164
+362
+2134
+Nadias-MacBook-Pro:Project1 nadiakrag$ indreby
+-bash: indreby: command not found
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py indreby
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 130, in <module>
+    data = dataset["text"]
+TypeError: list indices must be integers or slices, not str
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py indre by
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 128, in <module>
+    with open(f"raw_twitter_data/{sys.argv[1]}.json","r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'raw_twitter_data/indre.json'
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py indreby
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 130, in <module>
+    data = dataset["text"]
+TypeError: list indices must be integers or slices, not str
+Nadias-MacBook-Pro:Project1 nadiakrag$ islandsbrygge
+-bash: islandsbrygge: command not found
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py islandsbrygge
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 130, in <module>
+    data = dataset["text"]
+TypeError: list indices must be integers or slices, not str
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py indreby
+Mean sentiment value for each tweet for indreby is:  0.3512928116962231
+score/sqrt(num of tweets) for each tweet for indreby is:  35.544889222754065
+701
+1377
+Nadias-MacBook-Pro:Project1 nadiakrag$ python sentiment_analysis.py islandsbrygge
+Mean sentiment value for each tweet for islandsbrygge is:  0.37681787686432366
+score/sqrt(num of tweets) for each tweet for islandsbrygge is:  140.88703752005605
+7136
+17234
+Nadias-MacBook-Pro:Project1 nadiakrag$ 

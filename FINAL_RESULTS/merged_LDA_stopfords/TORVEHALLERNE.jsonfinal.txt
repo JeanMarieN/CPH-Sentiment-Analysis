@@ -1,0 +1,30 @@
+Top 8 topics for TORVEHALLERNE.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.17%: hovedstaden others pic linnésgade rømersgade mellem frederiksborggade 10 12 11 mercado com fundet pastries frokost favoris hier compras forår kulturnat
+Topic #2 with probability 0.35%: market food travel fresh fish foodmarket danish amazing love foodie lunch place foodporn day seafood beautiful street great eat delicious
+Topic #3 with probability 0.21%: coffee collective coffeecollective morning time kaffe thecoffeecollective breakfast best espresso good ristretto coffeetime cup first break day great cafe softice
+Topic #4 with probability 0.18%: smørrebrød lunch danish smorrebrod sandwich hallernes open foodporn danishfood hallernessmørrebrød food delicious foodie opensandwich yummy torvehallernekøbenhavn instafood sandwiches travel traditional
+Topic #5 with probability 0.25%: flowers stalksandroots interior flowerstothepeople stalks torvehallernekbh roots spring home forår fashion urbanjungle roses ranunkler græs orkide trend eucalyptus greenliving greenhouse
+Topic #6 with probability 0.14%: vejle syddanmark best western 530 vanaf denemarken hotel bw kirketorvet book 16 ever 10 job drinking town beer køkkensouschef friends
+Topic #7 with probability 0.14%: grød breakfast porridge risotto lunch foodporn groedcph oatmeal morgenmad food love healthy good groed danish frokost foodie chia bygotto travel
+Topic #8 with probability 0.10%: photo posted drinking collective taken hedonistic hedonism photography instagram gorm view day friendlyshadows chefsjobforumspain universalawesomeness actioncampos liveanddirect viticulture viticultura scandinaviangastronomyaroundtheworld
+
+Top 8 topics for TORVEHALLERNE.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.52%: hovedstaden others copenhague frederiksborggade un pic mercado la mellem solen le rømersgade com linnésgade el twitter mercato marché que petit
+Topic #2 with probability 1.17%: market food travel love today visitcopenhagen fresh one flowers foodmarket summer shopping place fish wine beautiful visitdenmark like day visit
+Topic #3 with probability 0.78%: coffee collective time coffeecollective sunday kaffe day breakfast morning good new happy sun friday 코펜하겐 weekend start summer cake laurasbakery
+Topic #4 with probability 0.80%: smørrebrød lunch danish foodporn torvehallernekøbenhavn köpenhamn sandwich smorrebrod yummy foodie food beer instafood delicious mikkeller och open streetfood yum øl
+Topic #5 with probability 1.10%: torvehallernekbh så flowers stalksandroots ved vores kan dag urbanjungle kom interior lige rudestore forbi spring fashion kl blomster flowerstothepeople nye
+Topic #6 with probability 0.33%: best vejle western vanaf denemarken syddanmark hotel ever 530 town world tasting book bw one friends checked winesfromalicante job slog
+Topic #7 with probability 1.07%: grød tapas hygge så weekend frokost mad porridge godt sushi fisk palæo pizza tur tak lækker dinner mums sushilovers god
+Topic #8 with probability 0.57%: photo nørreport dk tacos posted via hijadesanchez ude madblogs hija elevatoren festival drinking taco red sunset sanchez day drift gorm
+
+Top 8 topics for TORVEHALLERNE.json using the LDA models with tf features.
+Topic #1 with probability 14.47%: best day good photo market food others beer wine new tacos great go mikkeller lovely friends last today one happy
+Topic #2 with probability 8.95%: flowers stalksandroots syddanmark spring interior torvehallernekbh urbanjungle flowerstothepeople home kopenhagen stalks forår denemarken vanaf 530 roots western urbanjunglebloggers fashion roses
+Topic #3 with probability 7.79%: hovedstaden via dk madblogs на torvehallernekbh hav plads israels magnusogsøn デンマーク copenhagencooking コペンハーゲン blomster israelsplads frederiksberg vild agnes копенгаген vin
+Topic #4 with probability 10.90%: coffee collective foodporn food coffeecollective foodie breakfast tapas love instafood yummy sunday seafood hygge yum danish tasty morning delicious tea
+Topic #5 with probability 8.40%: köpenhamn och frederiksborggade mercado rudestore cava el 코펜하겐 style istedgade sushilovers till cool 덴마크 är tulips fashion sushi att que
+Topic #6 with probability 20.69%: så kan vejle ved dag vores lige godt forbi kom god mad kl lidt frokost få nørreport fisk bedste tak
+Topic #7 with probability 10.71%: market travel grød torvehallernekbh visitcopenhagen porridge copenhague food visitdenmark la travelgram foodmarket wanderlust europe un fruit breakfast trip shopping instatravel
+Topic #8 with probability 18.09%: food market smørrebrød lunch danish fresh love like time sandwich fish beautiful smorrebrod place today dinner foodie one visit friday
+

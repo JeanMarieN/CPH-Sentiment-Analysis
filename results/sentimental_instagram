@@ -1,0 +1,156 @@
+Last login: Tue Feb 27 19:02:13 on ttys000
+Nadias-MacBook-Pro:~ nadiakrag$ cd Desktop/Project1/Methods
+Nadias-MacBook-Pro:Methods nadiakrag$ git add sentiment_analysis.py
+Nadias-MacBook-Pro:Methods nadiakrag$ git commit -m "Sentiment analysis"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   ../.DS_Store
+	modified:   .DS_Store
+	modified:   ../data/.DS_Store
+	modified:   ../data/unprocessed/.DS_Store
+	modified:   ../methods/sentiment_analysis.py
+
+no changes added to commit
+Nadias-MacBook-Pro:Methods nadiakrag$ git commit -a -m "fiwing problem"
+[master c2b1954] fiwing problem
+ Committer: Nadia Krag <nadiakrag@Nadias-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+Nadias-MacBook-Pro:Methods nadiakrag$ git push
+To https://github.itu.dk/nadk/Project1.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.itu.dk/nadk/Project1.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Nadias-MacBook-Pro:Methods nadiakrag$ git pull
+remote: Counting objects: 26, done.
+remote: Total 26 (delta 1), reused 1 (delta 1), pack-reused 25
+Unpacking objects: 100% (26/26), done.
+From https://github.itu.dk/nadk/Project1
+   4da66dd..14242d5  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ Methods/grams.py | 28 ++++++++++++++--------------
+ 1 file changed, 14 insertions(+), 14 deletions(-)
+Nadias-MacBook-Pro:Methods nadiakrag$ git add sentiment_analysis.py
+Nadias-MacBook-Pro:Methods nadiakrag$ git commit -m "sentiment analysis"
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Nadias-MacBook-Pro:Methods nadiakrag$ cd ../
+Nadias-MacBook-Pro:Project1 nadiakrag$ git add sentiment_analysis.py
+fatal: pathspec 'sentiment_analysis.py' did not match any files
+Nadias-MacBook-Pro:Project1 nadiakrag$ git add Methods/sentiment_analysis.py
+Nadias-MacBook-Pro:Project1 nadiakrag$ git commit -m "Things changed"
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Nadias-MacBook-Pro:Project1 nadiakrag$ git commit -a -m "fixingthings"
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Nadias-MacBook-Pro:Project1 nadiakrag$ git push
+Counting objects: 14, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (14/14), 2.40 KiB | 2.40 MiB/s, done.
+Total 14 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas: 100% (8/8), completed with 6 local objects.
+To https://github.itu.dk/nadk/Project1.git
+   14242d5..7eece41  master -> master
+Nadias-MacBook-Pro:Project1 nadiakrag$ git pull
+Already up to date.
+Nadias-MacBook-Pro:Project1 nadiakrag$ git rm -r results.txt
+fatal: pathspec 'results.txt' did not match any files
+Nadias-MacBook-Pro:Project1 nadiakrag$ git Methods
+git: 'Methods' is not a git command. See 'git --help'.
+Nadias-MacBook-Pro:Project1 nadiakrag$ cd Methods
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py amager_merge.json
+Sentiment total score for amager_merge.json is:  28977
+Mean sentiment value for each tweet for amager_merge.json is:  1.44885
+Standard diviation for each tweet for amager_merge.json is:  1.7875848880662764
+Total sentiments dataset:  7107
+Numbers of negative tweets/posts 680
+Percentage of negative posts 0.034
+Numbers of positive posts 6427
+Percentage of positive posts 0.32135
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py indreby_merge.json
+Sentiment total score for indreby_merge.json is:  3970
+Mean sentiment value for each tweet for indreby_merge.json is:  1.892278360343184
+Standard diviation for each tweet for indreby_merge.json is:  1.7976045749985272
+Total sentiments dataset:  854
+Numbers of negative tweets/posts 68
+Percentage of negative posts 0.032411820781696854
+Numbers of positive posts 786
+Percentage of positive posts 0.3746425166825548
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py nørrebro_merge.json
+Sentiment total score for nørrebro_merge.json is:  28244
+Mean sentiment value for each tweet for nørrebro_merge.json is:  1.4453712706616857
+Standard diviation for each tweet for nørrebro_merge.json is:  1.881318604814324
+Total sentiments dataset:  7221
+Numbers of negative tweets/posts 902
+Percentage of negative posts 0.04615935724886137
+Numbers of positive posts 6319
+Percentage of positive posts 0.3233713730105931
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py østerbro_merge.json
+Sentiment total score for østerbro_merge.json is:  41432
+Mean sentiment value for each tweet for østerbro_merge.json is:  2.113985407418746
+Standard diviation for each tweet for østerbro_merge.json is:  1.6937492279303987
+Total sentiments dataset:  8549
+Numbers of negative tweets/posts 695
+Percentage of negative posts 0.03546099290780142
+Numbers of positive posts 7854
+Percentage of positive posts 0.4007347313638451
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py torvehallerne_merge.json
+Sentiment total score for torvehallerne_merge.json is:  29945
+Mean sentiment value for each tweet for torvehallerne_merge.json is:  1.5392721291251157
+Standard diviation for each tweet for torvehallerne_merge.json is:  1.7879863190933862
+Total sentiments dataset:  6726
+Numbers of negative tweets/posts 637
+Percentage of negative posts 0.03274390870772078
+Numbers of positive posts 6089
+Percentage of positive posts 0.31299475686234196
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py velby_merge.json
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 138, in <module>
+    with open(text,"r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'velby_merge.json'
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py valby_merge.json
+Sentiment total score for valby_merge.json is:  40629
+Mean sentiment value for each tweet for valby_merge.json is:  2.0624904817503427
+Standard diviation for each tweet for valby_merge.json is:  1.6779220316699945
+Total sentiments dataset:  8324
+Numbers of negative tweets/posts 744
+Percentage of negative posts 0.037768414640337075
+Numbers of positive posts 7580
+Percentage of positive posts 0.38479110614752016
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py vesterbro_merge.json
+Sentiment total score for vesterbro_merge.json is:  29401
+Mean sentiment value for each tweet for vesterbro_merge.json is:  1.5092915811088297
+Standard diviation for each tweet for vesterbro_merge.json is:  1.8444058456892174
+Total sentiments dataset:  7183
+Numbers of negative tweets/posts 816
+Percentage of negative posts 0.04188911704312115
+Numbers of positive posts 6367
+Percentage of positive posts 0.32684804928131417
+Nadias-MacBook-Pro:Methods nadiakrag$ 

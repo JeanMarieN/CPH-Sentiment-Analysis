@@ -1,0 +1,30 @@
+Top 8 topics for NØRREBRO_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.58%: ringsted foodporn frokostordning holbæk valby brøndby lækkersulten ishøj madhytten hundige greve karlslunde vallensbæk herlev frisk roskilde køge hjemmelavet frokost livretter
+Topic #2 with probability 0.58%: stateofmind cphstreetstyle streetdwellers illmatic streetvibes moet drinkin rayban hoodvibes skupalife nystateofmind caylorandsons ill peso copenhagenstreetstyle dwellers hood fashionphotography norrebrø vans
+Topic #3 with probability 1.04%: mad food instafood nørrebrogade foodie pizza essen alhamdulillah kobenhavn woodoven madfrabunden homemade foodporn woodfiredpizza foodlover foodpic mm lovepizza sapore shayonskitchen
+Topic #4 with probability 0.51%: tatovering boldwillhold traditionaltattoo oldlines bright_and_bold tradworkers realtattoos boldtattoos traditionalartist traditionalflash skinartmag oldschooltattoo newschooltattoo classictattoo neotraditional cartoon blackandgrey blackworkers pma radtrad
+Topic #5 with probability 0.37%: miss xtinaisbeautiful xtinawemissyou _rutler summer one ago already posting theme gonna tomorrow girl gaver gave gasning gange gang girlsnight gammel
+Topic #6 with probability 0.80%: så bare kan lige fandme nye lidt mangler få kom står tiden ramt gerne degamlesby ved år jul kun snart
+Topic #7 with probability 0.46%: day rainy lots photo grey dk colors flowers color mads street red vegan cold us one selfie today sunny goddess
+Topic #8 with probability 0.47%: genbrugsbutik secondhand fredensgade 15a genbrugsfund funiture retrobutik møbler boligindretning interiør 2200 indretning danskdesign styk fire stole 100kr patina mangler farvetglas
+
+Top 8 topics for NØRREBRO_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.89%: mad foodporn valby weekend frokost god frisk hjemmelavet greve roskilde holbæk nok jul køge vallensbæk ringsted frokostordning hundige ishøj lækkersulten
+Topic #2 with probability 1.29%: art street streetart nørrebronx blackandwhite graffiti grey vans bw stateofmind picoftheday hood streetstyle biking photography light winter streetphotography travel sunset
+Topic #3 with probability 1.28%: mad food nørrebrogade instafood pizza foodie essen kobenhavn go homemade woodoven dk alhamdulillah madfrabunden nørrebronx ready chaos die woodfiredpizza vegan
+Topic #4 with probability 0.91%: shit sorry tradworkers traditionaltattoo dead comicart oldlines boldwillhold tattooart tatovering traditionalflash bright_and_bold cartoon one neotraditional traditionalartist hair boldtattoos tattooculture realtattoos
+Topic #5 with probability 1.63%: miss bad one 2017 fucking wearenørrebro night pretty jegborpånørrebro winter voreskbh xtinawemissyou xtinaisbeautiful music december stop _rutler fuck happy 2018
+Topic #6 with probability 2.16%: så kan mangler lidt dag lige nye år bare ved sidste vores træt går nytår tømmermænd kom lille venter første
+Topic #7 with probability 2.21%: new today day time year christmas still tired get got missing made like last cold week snow much hard rainy
+Topic #8 with probability 0.86%: fire lost 2200 danskdesign indretning secondhand interiør boligindretning møbler moody genbrugsbutik retrobutik fredensgade 15a funiture genbrugsfund stole death interiordesign gamle
+
+Top 8 topics for NØRREBRO_negative.json using the LDA models with tf features.
+Topic #1 with probability 6.39%: sur la threading old copenhague much meat dk ipa water available online around sour look halo like travel say citra
+Topic #2 with probability 10.81%: bæst tatovering 2018 streetart bright_and_bold boldwillhold traditionaltattoo oldlines tradworkers tattooart traditionalartist boldtattoos classictattoo tattooculture blackworkers neotraditional oldschooltattoo newschooltattoo radtrad cartoon
+Topic #3 with probability 6.90%: photooftheday canon streetphotography home photography street one missing picoftheday agameoftones ibyen citylife snow moodygrams morning cat urbanandstreet lot know shoot
+Topic #4 with probability 21.87%: day today new one hole worse time week last days get really even long well keep bathroom hell starting makes
+Topic #5 with probability 7.30%: ringsted foodporn valby frokostordning hjemmelavet mad køge roskilde frisk holbæk herlev hundige ishøj brøndby karlslunde frokost greve madhytten lækkersulten vallensbæk
+Topic #6 with probability 23.92%: så kan fået år lige mere går første vores lidt dag tiden 17 mangler måske siden langsom syv tattoo bare
+Topic #7 with probability 15.62%: mad dk selfie get pizza food essen go dårligste art instafood wearenørrebro street foodporn 12 woodoven nørrebronx empirebio still guldbergsgade
+Topic #8 with probability 7.20%: nørrebrogade mad overspringshandling afslører food foodie alhamdulillah kobenhavn instafood homemade madfrabunden die bike foodlover nørrebronx mitnørrebro cykelbutik photography winter ibikecph
+

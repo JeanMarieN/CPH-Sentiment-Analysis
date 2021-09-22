@@ -1,0 +1,30 @@
+Top 8 topics for ØSTERBRO_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.41%: viborggade shopping accessories modetøj inspiration modebutik shopøsterbro wardrobeno2 mode damemode loveshopping dametøj sneakers tøj womensfashion sko mitøsterbro instafashion clothes østerbroshopping
+Topic #2 with probability 0.26%: godt nytår 2018 godtnytår happynewyear år 2017 nye fyrværkeri rigtig herfra nok newyear allesammen selskab ønsker kransekage kan derude nyt
+Topic #3 with probability 0.25%: happy new year 2018 happynewyear newyear fireworks newyearseve day 2017 everyone friends years birthday love beautiful family best let good
+Topic #4 with probability 0.62%: så kan god dag lige tak klar aften ved vores lidt år se nye kom bare glæder helt mere ja
+Topic #5 with probability 0.18%: newlookcph shellac nailbeauty nailart cndshellac cndeducationambassador spraytan cndvinylux lashlift cnd beauty gelenegle akrylnegle naildiva cndbrisagel negle lovelecente cndsolaroil cndgowithapro cndliquidandpowder
+Topic #6 with probability 0.38%: love hygge christmas home interior gaystagram merry interiordesign beautiful gay interiors homedecor interiør indretning interior123 boligindretning boligindretningogkreativitet christmastime mood interiordecor
+Topic #7 with probability 0.14%: classensgade sincerely østerbroshopping fashion style fashionstore summer friday majestic monday sunday mont weekend saint hello le basic michel shop beautiful
+Topic #8 with probability 0.17%: jul glædelig glædeligjul christmas rigtig december julpåøsterbro ønsker merrychristmas familie juleaften juletræ jul2017 god familien advent mennesker skønne gaver sammen
+
+Top 8 topics for ØSTERBRO_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.77%: shopping kl inspiration mode fashion østerbroshopping mitøsterbro smukke wardrobeno2 viborggade idag lækre womensfashion ses tøj newin ootd instafashion modebutik 18
+Topic #2 with probability 0.91%: godt tak nytår år så bedste nye kan kærlighed nok må lidt bor lige velkommen sted tillykke dag vores ved
+Topic #3 with probability 1.02%: love happy like new time good today great day best nice one night life work thanks see food fun danish
+Topic #4 with probability 1.24%: så kan ved stadion lige vores se dag god klar mere lidt aften tid helt morgen lejlighed fik lille få
+Topic #5 with probability 0.38%: beauty newlookcph smuk shellac spraytan nailart nailbeauty cndshellac cndeducationambassador lashlift cndvinylux cnd negle gelenegle lækker akrylnegle repost naildiva smukke hår
+Topic #6 with probability 0.73%: hygge love christmas home interior interiordesign indretning interiør merry design winter travel food beautiful homedecor boligindretning morning foodie good mood
+Topic #7 with probability 0.69%: weekend love kr 2100 beautiful classensgade sincerely fashion østerbroshopping friday sunday super cool fælledparken style søerne pretty fed morning top
+Topic #8 with probability 0.49%: jul happy god year new glædelig rigtig ønsker 2018 klar newyear december kære tak familie happynewyear newyearseve smukt nordrefrihavnsgade juleaften
+
+Top 8 topics for ØSTERBRO_positive.json using the LDA models with tf features.
+Topic #1 with probability 10.10%: fashion shopping inspiration viborggade mode mitøsterbro kl østerbroshopping instafashion accessories tøj sko ootd newin wardrobeno2 shopøsterbro modebutik modetøj sneakers beauty
+Topic #2 with probability 14.23%: new love beautiful home happy day time morning best danish coffee amazing one little work life nice winter family fun
+Topic #3 with probability 16.73%: år tak kom aften klar god dag 10 så søndag bedste dejlig kærlighed lørdag dk morgen sidste helt igen gang
+Topic #4 with probability 20.76%: så kan godt lige lidt vores dag nye ved lille få bare glæder elsker går god får kommer altid forbi
+Topic #5 with probability 12.72%: christmas happy year food good 2018 interiordesign interior like great foodie merry dinner homedecor instagood gay gaystagram newyear happynewyear sunday
+Topic #6 with probability 7.86%: hygge nytår cool stadig både hele 00 12 kunst 17 boligindretning kl design 30 2017 indretning nordhavn jeans 18 interiør
+Topic #7 with probability 7.96%: kr 2100 østerbrogade nordrefrihavnsgade lækker velkommen vintage super 100 str 300 taske fed tak økologisk nye hele guld classic ny
+Topic #8 with probability 9.64%: love jul beauty weekend foodporn glædelig friday picoftheday shellac newlookcph flowers photooftheday nailart fit cndshellac nailbeauty cndeducationambassador lashlift smile cnd
+

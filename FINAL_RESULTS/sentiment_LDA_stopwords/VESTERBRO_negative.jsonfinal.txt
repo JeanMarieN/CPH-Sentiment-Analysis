@@ -1,0 +1,30 @@
+Top 8 topics for VESTERBRO_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.21%: slog billede albummet facebook billeder torv madklubben politiet friday prostituerede festival 2015 fotograferne 88 distortion bíiru 2013 18 ramen heltefest
+Topic #2 with probability 0.39%: mand dræbt anholdt kvinde fundet årig skud skudt politiet død 48 politi ramt dr voldtægt 32 drab knivstik anholder hovedet
+Topic #3 with probability 0.18%: die skandinavische lässigkeit oder reiseblog reisen kopenhagen dänemark städte via und meerblog wir danemark über ein freibeuter laufen gleich nicole
+Topic #4 with probability 0.17%: altaner københavneriet rotte møder skide sgu gammel raquo laquo politiken dk keepcopenhagenweird fantastisk dkmedier elsker artikel trempenau kim via boet
+Topic #5 with probability 0.43%: så mangler kan bare jul lige dag ved kun se desværre nogen helt træt forbi nej går aften kommer komme
+Topic #6 with probability 0.19%: mosque shooting outside dead injured amerikavej district street police person rt c4news one st plak drop distortion agh apfellows killed
+Topic #7 with probability 0.25%: brand evakueret voldsom kontrol ved beboere odense 27 30 indre tagbrand mændenes røg flere vesterbrogade hjem bygning udvikler nat femetagers
+Topic #8 with probability 0.19%: drinking brewing duck co ugly ipa photo citra amarillo brød øl chinook simcoe pilsner wit devil vice miami hop brown
+
+Top 8 topics for VESTERBRO_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.79%: torv slog billede madklubben stop festival winter 18 friday billeder morning demonstration slagtergårdene facebook mad sad slået bus albummet rain
+Topic #2 with probability 1.22%: mand anholdt ved politiet ramt årig aften dræbt fundet lejlighed kvinde blevet tre mænd skudt politi tv2 nat skud restaurant
+Topic #3 with probability 0.69%: die istedgade via skandinavische oder lässigkeit kopenhagen hard sur starz shop kyotoistedgade tired war summer mad reisen need reiseblog problem
+Topic #4 with probability 0.70%: fuck dk hipster sgu kæmpe skide usa advarer distortion møder gammel så rotte københavneriet altaner borgere nej politiken imod mest
+Topic #5 with probability 1.75%: så kan mangler jul lige bare dag lidt kl nej mad nogen ved fucking venter helt svært ja træt nye
+Topic #6 with probability 1.01%: distortion rt one today street dead day time district outside shooting stop crazy get mosque party see next grey night
+Topic #7 with probability 0.55%: brand new voldsom hotel evakueret vesterbrogade odense 30 indre ved hjem nat mændenes flere tagbrand kontrol post farlig beboere 27
+Topic #8 with probability 1.25%: mad drinking photo miss bad mikkeller much øl shit music sure got brød home vesterbronx wear ipa duck good telescope
+
+Top 8 topics for VESTERBRO_negative.json using the LDA models with tf features.
+Topic #1 with probability 11.18%: så torv nej rock hipster desværre fjollet kan foodporn bio bar kl valby kun tid helt frokostordning roskilde radio 16
+Topic #2 with probability 13.88%: mand politiet anholdt aften årig fundet tre dk dræbt ramt folk kvinde politi nat blevet advarer få død 30 søndag
+Topic #3 with probability 10.10%: går dkpol lidt sgu møder træt må hjem skide kødbyen aldrig fashion altaner work gammel ny københavneriet rotte drag kom
+Topic #4 with probability 14.41%: mad dag ved brand stop fire får god nogen done fordi lidt haft ringsted lille aften venter city madklubben morgen
+Topic #5 with probability 10.88%: mangler bare vesterbro_ht drinking photo se home got shit brød kr vores hele artist 12 20 fuck tove tog ipa
+Topic #6 with probability 12.89%: så jul lige one see fucking 2018 dead vesterbronx night stadig district street vesterbrogade bare kommer guitar ready glemt sick
+Topic #7 with probability 16.03%: distortion time kaffe day today die first kæmpe back go slog much coffee get hotel crazy danish grey sure billede
+Topic #8 with probability 10.62%: kan new music miss christmas red svært need link la homeless video give photos bad blackandwhite style songwriter que coming
+

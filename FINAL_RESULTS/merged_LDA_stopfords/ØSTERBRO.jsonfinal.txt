@@ -1,0 +1,30 @@
+Top 8 topics for ØSTERBRO.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.19%: brandalarm førstemelding brandvæsen station københavns politi østerport beredskab gentofte skyderi kommune nordhavn undersøger svanemøllen ved fødevarefællesskab dk madblogs gadelys gadefest
+Topic #2 with probability 0.18%: viborggade shopping fashion østerbroshopping mode inspiration wardrobeno2 modebutik accessories modetøj shopøsterbro kl mitøsterbro damemode sneakers dametøj loveshopping tøj sko womensfashion
+Topic #3 with probability 0.30%: så kan lige ved dag kom stadion lidt bare se nye bor vores igen år god forbi få aften kl
+Topic #4 with probability 0.17%: 2100 kr elguitar 000 fender 500 andet pedal mærke boss guitar stratocaster ibanez gibson telecaster 200 guitarcombo fed marshall 300
+Topic #5 with probability 0.06%: præstøgade lørdagsslik streetsofcopenhagen became igersdenmark mayor gadekunst gadenavn gaden gadelys gadeliv gadefotografi gadehjørnet gadehaver gader gadefest2014 gadefest gadens 코펜하겐 gaderne
+Topic #6 with probability 0.11%: godt nytår 2018 godtnytår 2017 år happynewyear rigtig nok newyear kan nye fyrværkeri herfra tak god selskab ønsker nyt allesammen
+Topic #7 with probability 0.13%: 2018 new happy year happynewyear newyear love newyearseve 2017 fireworks years day post friends everyone godtnytår beautiful nye eve good
+Topic #8 with probability 0.16%: home jul christmas hygge interior interiordesign boligindretning indretning homedecor interiør gaystagram love gay glædelig interiors interior123 boligindretningogkreativitet travel bolig boligmagasinet
+
+Top 8 topics for ØSTERBRO.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.43%: københavns station førstemelding brandvæsen brandalarm via politiet ved skud skyderi tre politi mand fundet svanemøllen årig jobs dk skudt ramt
+Topic #2 with probability 0.65%: kl kom fashion shopping søndag så østerbrogade tilbage østerbroshopping mode lørdag forbi morgen idag 10 nye mitøsterbro vores inspiration 18
+Topic #3 with probability 1.03%: så kan ved lige stadion dag år lidt tak se god aften går bor mere helt vores indre bare kommer
+Topic #4 with probability 0.38%: kr 2100 000 elguitar vintage 500 nordhavn str andet ny pris fender pedal secondhand mærke sælger østerbroshopping super vintagefashion sælges
+Topic #5 with probability 0.22%: præstøgade kaffe hovedstaden søerne visitcopenhagen voreskbh igersdenmark latergram fælledparken deldinby spring igerscopenhagen bibliotek tree sharingcph visitdenmark sun streetsofcopenhagen igang voresby
+Topic #6 with probability 0.37%: godt new 2018 happy nytår year love 2017 happynewyear newyear nye år family party years godtnytår birthday wine post friends
+Topic #7 with probability 0.84%: love morning weekend sunday today time beautiful night day winter one good like photo work art food friday saturday danish
+Topic #8 with probability 0.50%: jul hygge home christmas interior interiordesign indretning boligindretning weekend glædelig design interiør december homedecor flowers bolig spejder frokost nordrefrihavnsgade gustavsbistro
+
+Top 8 topics for ØSTERBRO.json using the LDA models with tf features.
+Topic #1 with probability 10.46%: butikken food østerbrogade ny fredag nordhavn best fantastisk 17 fået uden ved boligindretningogkreativitet nordrefrihavnsgade dagen mennesker trianglen siger gave lige
+Topic #2 with probability 15.46%: kan kr så godt lige nytår god viborggade frederiksberg inspiration få year interior pris mitøsterbro sneakers coffee får tilbage lille
+Topic #3 with probability 10.55%: 2100 art idag super stadion foodporn lyngby sidste kunst elsker gode flere før bor elguitar stor find dine first style
+Topic #4 with probability 12.13%: dag kl vores kom 18 mere fashion 00 tøj accessories 11 morgen 15 30 wardrobeno2 newin så modebutik shopøsterbro today
+Topic #5 with probability 16.58%: love christmas jul shopping home weekend tak beautiful day københavns sunday sko morning station one time danish ses night good
+Topic #6 with probability 10.12%: new mode østerbroshopping 10 interiordesign boligindretning december interiør design homedecor bolig nyt travel flowers efterår gør blomster cool hele boligmagasinet
+Topic #7 with probability 12.75%: så 2018 nye år se aften 2017 ved lidt gang dk første stadig bare må foodie andet aalborg dejlig dage
+Topic #8 with probability 11.95%: hygge happy helt ootd indretning fashion like winter bedste life lækre beauty work little picoftheday family newyear gay mad hanne
+

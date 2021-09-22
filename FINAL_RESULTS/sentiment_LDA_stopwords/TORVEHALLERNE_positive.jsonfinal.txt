@@ -1,0 +1,30 @@
+Top 8 topics for TORVEHALLERNE_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.33%: vejle syddanmark western best vanaf 530 denemarken hotel drinking kirketorvet 16 ever beer 10 town mayor aften staying choice need
+Topic #2 with probability 0.44%: market fresh food fish beautiful day fruit place seafood trip last produce costa blanca awesome amazing costablancaincopenhaguen travel nice vegetables
+Topic #3 with probability 0.40%: flowers stalksandroots beautiful interior flowerstothepeople urbanjungle stalks roots spring bouquet roses home forår torvehallernekbh fashion ranunkler eucalyptus greenliving græs urbanjunglebloggers
+Topic #4 with probability 0.33%: coffee collective coffeecollective morning best good kaffe great breakfast espresso day coffeetime cup thecoffeecollective softice latte enjoying time today cafe
+Topic #5 with probability 0.31%: love place happy christmas family summer life autumn others grød much city sun colors time nature look flowers travel design
+Topic #6 with probability 0.72%: food smørrebrød lunch delicious foodporn foodie amazing yummy danish travel good best great instafood healthy grød foodmarket porridge one sandwich
+Topic #7 with probability 0.25%: hygge weekend frokost christmas efterår lørdag søndag kaffe mor lille danish gløgg elsker sunday gormspizza christmasishere mums grød øl kage
+Topic #8 with probability 0.60%: så god godt kan dag vores forbi ved lige weekend kom tak bedste lækre få lækker fisk lidt kl frokost
+
+Top 8 topics for TORVEHALLERNE_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.61%: best vejle western vanaf denemarken syddanmark ever 530 hotel town world beer via mikkeller life tip photo drinking dk post
+Topic #2 with probability 1.35%: food market travel fresh like one amazing visitcopenhagen today lovely day foodmarket delicious great danish markets seafood go wonderful visit
+Topic #3 with probability 0.81%: flowers stalksandroots beautiful weekend torvehallernekbh urbanjungle interior sunday blomster spring summer smukke happy friday flowerstothepeople vendersgade home roses rudestore stalks
+Topic #4 with probability 0.87%: coffee good day time collective great morning coffeecollective porridge breakfast nice perfect start grød danish way top kaffe today pastry
+Topic #5 with probability 0.79%: love happy place summer life sun smile family time friends happiness girl champagne autumn city much birthday fun instagood holidays
+Topic #6 with probability 0.92%: yummy lunch foodporn smørrebrød food foodie tapas healthy delicious instafood grød frokost sandwich weekend sushi lækkert yum lækker pizza unmercato
+Topic #7 with probability 0.66%: hygge market fresh weekend elsker søde søndag kærlighed trip shopping win mor kage last efterår lørdag kaffe hyggelig sommer fish
+Topic #8 with probability 1.28%: så vores kan godt god ved dag tak lige torvehallernekbh lækre forbi kom bedste lidt nye få klar lækker se
+
+Top 8 topics for TORVEHALLERNE_positive.json using the LDA models with tf features.
+Topic #1 with probability 8.15%: coffee hygge collective kl coffeecollective kaffe 10 vendersgade december morgen østers cafe espresso 13 jul style norreport 18 latte fredag
+Topic #2 with probability 6.16%: vejle best syddanmark western denemarken 530 vanaf hotel champagne och oysters win köpenhamn cava ha costa att blanca costablancaincopenhaguen opera
+Topic #3 with probability 4.76%: beer mikkeller tea craftbeer wonderfulcopenhagen mikkellerandfriendsbottleshop date kimchi la el ootd omegn copenhagencooking beers bottle øl birthday summer mercado ipa
+Topic #4 with probability 8.07%: vores torvehallernekbh forbi kan kom blomster smukke bedste lækker dk kage så butikken øko loveit lækre te klar ses få
+Topic #5 with probability 23.60%: flowers love day like good beautiful stalksandroots today one great time new happy home christmas danish food get interior perfect
+Topic #6 with probability 17.30%: så godt kan god dag ved vores lige tak lidt bedste frokost weekend lækkert lækker lækre mad helt få aften
+Topic #7 with probability 5.36%: plads så sted israels uganic rudestore jackfruit tirsdag torvehallernekbh stor rosé istedgade velkommen københavns sommer dejlig dk tak vinskole magnusogsøn
+Topic #8 with probability 26.60%: food market fresh travel love foodie lunch delicious best foodporn yummy amazing fish danish healthy instafood foodmarket place breakfast smørrebrød
+

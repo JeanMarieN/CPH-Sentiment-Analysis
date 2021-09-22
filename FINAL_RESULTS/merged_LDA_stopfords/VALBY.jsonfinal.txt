@@ -1,0 +1,30 @@
+Top 8 topics for VALBY.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.38%: valby station så langgade bakke st hallen ved parken 26 1a vej mellemtoftevej lige kan kl idrætspark kamhusene dag tango
+Topic #2 with probability 0.17%: station hotel rossini located including train breakfast various dates 330 yards 80 78 metres 300 46 2011 th 79 valby
+Topic #3 with probability 0.20%: john playing listen explicit dirty dr valby nowplaying xmas stoned tickets show funny town aka video listening gangbang comedy christmas
+Topic #4 with probability 0.12%: hovedstaden st restaurantskolen valby fitnessdk hotel flsmidth others parken world spinderiet fitness ellebjerg jacobsen bar rejsetid ny dsb længere 2500
+Topic #5 with probability 0.11%: kunde ser kniv dk kategorien 160 køkkenknive cm valby kokkeknive knivsæt kokkekniv dick lag strygestål tojiro stål zwilling superior premier
+Topic #6 with probability 0.18%: 2500 kr elguitar iphone 000 nej sim låst gb 500 andet valby fender 16 mærke sort guitarcombo sælger boss 200
+Topic #7 with probability 0.10%: vintage vintagefurniture børnemøbler childlikeliving kidsdecor kidsinterior reusereducerecycle barnrum tilsalgkbh relovedfurniture scandinavianinterior vintagelove smuktbrugt kidsroom retroguld tilsalgbørn sustainableliving børneværelse scandinaviandesign tilsalg
+Topic #8 with probability 0.14%: fitnessdk så kostplan kan altermuligt hvidovre træning diæt komme com muskler kostvejleder detgodeliv slank toning vægttab energi personligtræning selvtillid målsætning
+
+Top 8 topics for VALBY.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.20%: valby karen hallen langgade summer koncert villads tango kamhusene love new rt fremad valbyparken carlsberg grøn årig sunset mand jobs
+Topic #2 with probability 0.32%: station train breakfast hotel located including rossini various dates yards 80 metres 78 330 th 79 mellemtoftevej sun 46 apr
+Topic #3 with probability 0.88%: john dr playing dirty listen new video show love night xmas live tickets nowplaying via one vita friday like tonight
+Topic #4 with probability 0.35%: st hovedstaden plzk world others restaurantskolen parken tog mellem fitnessdk flsmidth længere øjeblikket rejsetid spinderiet tognummer kører jobseekers togene dsb
+Topic #5 with probability 0.30%: dk ser kunde kniv kategorien www cm fitness køkkenknive kokkekniv 160 lag workout tojiro kokkeknive dick training knivsæt stål reason
+Topic #6 with probability 0.46%: kr 2500 ny super elguitar nej sælger mærke 500 andet vej sim sort 16 iphone låst pedal fender guitarcombo gb
+Topic #7 with probability 0.52%: frederiksberg vintage tilsalg sushi weekend boligindretning home interiordesign interiør sushi2500 indretning boliginspiration inspiration loppeguld danishdesign smuktbrugt lille loppemarked vintagelove loppefund
+Topic #8 with probability 1.09%: så ved kan lige se vores kl år dag tak nye godt lidt søndag kom morgen kun god tog via
+
+Top 8 topics for VALBY.json using the LDA models with tf features.
+Topic #1 with probability 12.74%: valby lidt kl se inspiration weekend kom søndag aften hvidovre train lørdag hjem hygge klar sun kommer igang 30 skriv
+Topic #2 with probability 14.45%: valby john home station christmas dirty dr one sunday danish winter located sunset including nofilter playing grøn weekend video various
+Topic #3 with probability 9.11%: valby dk ser photooftheday www cm sundhed nature architecture photography kunde kniv mand 14 før 26 picoftheday hjemmelavet training vegan
+Topic #4 with probability 15.15%: valby love art 10 new breakfast beautiful motivation coffee hotel morning day fitness like night today 00 good big sommer
+Topic #5 with probability 9.23%: valby kr 2500 vintage summer flowers sælges super interior family elguitar 000 fun 100 valbylanggade sælger bolig shopping lækre valbylanggade217
+Topic #6 with probability 18.82%: valby så kan dag ved vores elskditvalby roskilde godt lige nye lille fitnessdk år st kostplan ny bare tak gerne
+Topic #7 with probability 11.00%: valby god træning happy helt fredag jul komme hygge sushi loppemarked kærlighed nyt kun fitnessworld andet plads børn familie loveit
+Topic #8 with probability 9.50%: valby frederiksberg boligindretning tilsalg indretning interiordesign boliginspiration smuktbrugt loppeguld danishdesign loppefund nordichome genbrug retroguld design børneværelse retro scandinaviandesign kunst sustainableliving
+

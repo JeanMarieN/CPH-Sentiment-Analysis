@@ -1,0 +1,30 @@
+Top 8 topics for INDREBY.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.36%: tango vinos vinbar restaurant indre åbner italiensk girlsnightout giz gjerne gjennom gjelder gjeld gj givet giving giv gjort gives giver
+Topic #2 with probability 0.84%: indre så kan kulturhuset ved lige godt dag twitterhjerne lokaludvalg travel bare sted god hele københavns lidt ja nogen går
+Topic #3 with probability 0.22%: hovedstaden indre borgerservice others la на годом avec ambulance rykkede dødsulykke lastbil dræbt kvinde midt new year happy gott sandwich
+Topic #4 with probability 0.22%: копенгаген дания жизньвдании lifeindenmark скандинавия турист lonelyplanet ukrainianindenmark блогодании вокругсвета девушкаиздании girlfromdenmark путешествия fitnessgirl самостоятельноепутешествие блогопутешествиях instatravel scandinavia люблюкопенгаген wonderfulcopenhagen
+Topic #5 with probability 0.24%: nyheter oslo dittoslo indre sport av bli ha tøyen nå meg slik må frigg blir gate oslos ingen syklist sted
+Topic #6 with probability 0.41%: kr elguitar fender 500 000 stratocaster indre andet supreme guitar mærke 1309 komplet telecaster us nyt sã gibson 1161 1367
+Topic #7 with probability 0.33%: visitdenmark visitcopenhagen city opdagdanmark citylife govisitcopenhagen københavnerliv voresby byliv loves_united_copenhagen centrum canon cannon55d loves_united_denmark ibyen igerscopenhagen pride explore_earth_ copenhagenpride mitdanmark
+Topic #8 with probability 0.20%: eyelash valby brønshøj hellerup eyelashesextension nomoremascara smukkeøjne smukkevipperhverdag smukkevipper ikkemeremascara stayflawless eyelashes storkøbenhavn eyelashextensions lashesbybella flawlesslashes flawlesslashescph frederiksberg lashes blinknordic
+
+Top 8 topics for INDREBY.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.02%: indre restaurant vinbar vinos tango twitterhjerne ny travel søger åbner bedste la rt social job popular hjemmeplejen helvede innenstadt god
+Topic #2 with probability 2.45%: indre ved kulturhuset københavns lige sted politiet år nok kun ja lokaludvalg kl politi tak rundt væk politidk hele vej
+Topic #3 with probability 0.29%: hovedstaden wonderfulcopenhagen voresby loves_united_copenhagen loves_united_denmark loves_united_life københavnerliv igerscopenhagen loves_united_scandinavia govisitcopenhagen opdagdanmark byliv staden lovecopenhagen loves_united_europe street happy borgerservice others rykkede
+Topic #4 with probability 0.61%: wonderfulcopenhagen vintagestore vintageshop visitcopenhagen diamondsandrustcopenhagen strøget scandinavia турист ilovecopenhagen скандинавия самостоятельноепутешествие ilovevintage vintageshopping sanktpederstræde путешествия vintagedresses nyhavn копенгаген pisserenden дания
+Topic #5 with probability 0.69%: oslo nyheter må dittoslo nå av ha mer sentrum sport ut nye kan oslos blir bo meg ta ring enn
+Topic #6 with probability 0.76%: kr elguitar 000 andet mærke fender 500 stratocaster pedal nyt guitar super boss 200 supreme us guitarcombo 1367 gibson sã
+Topic #7 with probability 1.12%: city visitcopenhagen visitdenmark ibyen love voreskbh photo opdagdanmark new rådhuspladsen weekend night innercity copenhagenbible sharingcph aokdk citylife centrum street architecture
+Topic #8 with probability 1.39%: så kan lige vores ved lidt dag se frederiksberg få kom valby godt kaffe nogen mere lille nye aften hellerup
+
+Top 8 topics for INDREBY.json using the LDA models with tf features.
+Topic #1 with probability 9.17%: indre kulturhuset uden dk rundt kbhpol lokaludvalg ny 800 københavns 1254 via hjemmeplejen før borgerservice gader byen eshakhamo elsker lokaludvalgsmøde
+Topic #2 with probability 8.00%: kr indre elguitar fender stratocaster pedal boss 1367 nå guitar frederiksberg valby 400 hellerup 300 nyt følg supreme cphshooting sã
+Topic #3 with probability 17.87%: indre kan så ved godt lige kun twitterhjerne god sted bar bare bil få står bedste gerne nye gode plads
+Topic #4 with probability 18.06%: indre oslo nyheter københavns årig bor politiet av mand politi dittoslo politidk distortion må kan flere nat biler folk så
+Topic #5 with probability 7.25%: indre 000 kr visitcopenhagen копенгаген дания wonderfulcopenhagen scandinavia instatravel жизньвдании скандинавия strøget lifeindenmark gibson girlfromdenmark вокругсвета путешествия fitnessgirl ukrainianindenmark lonelyplanet
+Topic #6 with probability 19.35%: indre så kan dag 500 år andet kl ja kommer se diamondsandrustcopenhagen kom lige vores mærke ved 30 fundet ung
+Topic #7 with probability 11.74%: visitcopenhagen city hovedstaden visitdenmark ibyen christianshavn opdagdanmark copenhagenbible christiansborg love architecture citylife byliv voreskbh københavnerliv nyhavn cphpicks govisitcopenhagen one centrum
+Topic #8 with probability 8.56%: indre restaurant vinbar vinos tango skyldig drabsforsøg cykelhandler fc 18 69 nævningeting albaner kendes 00 madrid atlético 11 mellem social
+

@@ -1,0 +1,76 @@
+Last login: Tue Feb 27 19:08:38 on ttys000
+Nadias-MacBook-Pro:~ nadiakrag$ cd Desktop/Project1/Methods
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py amager_10K.json
+Sentiment total score for amager_10K.json is:  3031
+Mean sentiment value for each tweet for amager_10K.json is:  0.24485014944664352
+Standard diviation for each tweet for amager_10K.json is:  2.2554024144553386
+Total sentiments dataset:  3218
+Numbers of negative tweets/posts 1136
+Percentage of negative posts 0.09176831731157606
+Numbers of positive posts 2082
+Percentage of positive posts 0.16818806042491316
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py indre_merged_10K.json
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 138, in <module>
+    with open(text,"r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'indre_merged_10K.json'
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py indre_merged_10K.json
+Traceback (most recent call last):
+  File "sentiment_analysis.py", line 138, in <module>
+    with open(text,"r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'indre_merged_10K.json'
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py indreby_merged_10K.json
+Sentiment total score for indreby_merged_10K.json is:  2542
+Mean sentiment value for each tweet for indreby_merged_10K.json is:  0.36082327892122074
+Standard diviation for each tweet for indreby_merged_10K.json is:  2.083867213558374
+Total sentiments dataset:  2078
+Numbers of negative tweets/posts 701
+Percentage of negative posts 0.09950319375443577
+Numbers of positive posts 1377
+Percentage of positive posts 0.19545777146912705
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py nørrero_10K.json
+Sentiment total score for nørrero_10K.json is:  723
+Mean sentiment value for each tweet for nørrero_10K.json is:  0.07357280960618703
+Standard diviation for each tweet for nørrero_10K.json is:  2.224940400562975
+Total sentiments dataset:  2900
+Numbers of negative tweets/posts 1322
+Percentage of negative posts 0.1345273226824056
+Numbers of positive posts 1578
+Percentage of positive posts 0.16057799938943726
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py østerbro_10K.json
+Sentiment total score for østerbro_10K.json is:  4883
+Mean sentiment value for each tweet for østerbro_10K.json is:  0.41989852953822343
+Standard diviation for each tweet for østerbro_10K.json is:  2.127308712875398
+Total sentiments dataset:  3403
+Numbers of negative tweets/posts 965
+Percentage of negative posts 0.08298219967323071
+Numbers of positive posts 2438
+Percentage of positive posts 0.20964829306045232
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py torvehallerne_10K.json
+Sentiment total score for torvehallerne_10K.json is:  6882
+Mean sentiment value for each tweet for torvehallerne_10K.json is:  0.7699709107182815
+Standard diviation for each tweet for torvehallerne_10K.json is:  1.9614960240579855
+Total sentiments dataset:  2495
+Numbers of negative tweets/posts 362
+Percentage of negative posts 0.0405012307003804
+Numbers of positive posts 2133
+Percentage of positive posts 0.2386439919445066
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py valby_10K.json
+Sentiment total score for valby_10K.json is:  4874
+Mean sentiment value for each tweet for valby_10K.json is:  0.4254167757702714
+Standard diviation for each tweet for valby_10K.json is:  2.071498735159508
+Total sentiments dataset:  2778
+Numbers of negative tweets/posts 779
+Percentage of negative posts 0.06799336650082918
+Numbers of positive posts 1999
+Percentage of positive posts 0.17447848476913677
+Nadias-MacBook-Pro:Methods nadiakrag$ python sentiment_analysis.py vesterbro_10K.json
+Sentiment total score for vesterbro_10K.json is:  5800
+Mean sentiment value for each tweet for vesterbro_10K.json is:  0.5551833062123097
+Standard diviation for each tweet for vesterbro_10K.json is:  2.01476292304943
+Total sentiments dataset:  2839
+Numbers of negative tweets/posts 615
+Percentage of negative posts 0.05886857471044319
+Numbers of positive posts 2224
+Percentage of positive posts 0.21288408155451324
+Nadias-MacBook-Pro:Methods nadiakrag$ 

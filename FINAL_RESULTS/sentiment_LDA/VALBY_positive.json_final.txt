@@ -1,0 +1,30 @@
+Top 8 topics for VALBY_positive.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.29%: kostplan fitnessdk altermuligt diæt målsætning livskraft muskler detgodeliv kostvejleder slank toning selvtillid styrke personligtræning energi vægttab com sundhed fitnessmotivation fitnessworld
+Topic #2 with probability 0.76%: valby så copenhagen love denmark fitness københavn godt world dag hygge kan hovedstaden tak se happy klar lige weekend frederiksberg
+Topic #3 with probability 0.24%: big bowl flæsk stegt besøg kun 99 persillesovs libitum spise bowling kan times vores valby vinterferien bbq skyder få 29
+Topic #4 with probability 0.30%: john pubic thank hair nowplaying god playing valby funny town train dirty video dr liked listen explicit comedy pandora ya
+Topic #5 with probability 0.21%: vintage tilsalg smuktbrugt boligindretning retroguld vintagefurniture tilsalgkbh børnemøbler childlikeliving vintagelove tilsalgbørn barnrum kidsdecor kidsinterior reusereducerecycle scandinavianinterior relovedfurniture kidsroom børneværelse sustainableliving
+Topic #6 with probability 0.26%: 2500 kr iphone super 204 tv langgade sim låst nej valby elguitar gb 000 16 sort flot 500 fed 800
+Topic #7 with probability 0.12%: familiefilm villads populære baseret bøger dansk årige 12 bio rødding grindsted kinoteater valby biografen åri kanten filmteatret hobro bibliografen dre
+Topic #8 with probability 0.20%: abstractpainting abstractart amagerstrand kunst spinderiet indretning art amager artlovers _art figurtivepainting københavn kunstnerliv kunstner hillo kunstwerk malerier colourful galleri per
+
+Top 8 topics for VALBY_positive.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.35%: valby så kan københavn godt ved lige kbh lidt se tak år træning klar dag vores nye nørrebro håber komme
+Topic #2 with probability 1.05%: valby hygge weekend tak world søndag jul koncert hallen velkommen kl morgen rt grøn tillykke parken dk kino fitness fest
+Topic #3 with probability 0.47%: kun big bowl vores kan spise besøg persillesovs få helt nye stegt så libitum times 99 årets sommer julefrokost igang
+Topic #4 with probability 0.52%: john video playing thank dr dirty train town funny pubic liked nowplaying god comedy fri show via listen like lol
+Topic #5 with probability 0.56%: frederiksberg vintage tilsalg interiør sushi2500 boligindretning sushi inspiration indretning roskilde interiordesign sælges genbrug smuktbrugt loppefund loppeguld luksus nordichome loppemarked danishdesign
+Topic #6 with probability 0.61%: valby kr super god 2500 langgade nej tv sort lækker flot fed elguitar fin stand rigtig ny perfekt låst iphone
+Topic #7 with probability 0.73%: like karen good love new copenhagen great today one happy time night villads welcome see day year denmark populære dansk
+Topic #8 with probability 0.96%: love copenhagen denmark københavn happy weekend home summer beautiful morning danmark photooftheday flowers life smile art sunday hygge sun family
+
+Top 8 topics for VALBY_positive.json using the LDA models with tf features.
+Topic #1 with probability 12.07%: valby vores nye kl klar kom smukke elsker elskditvalby glad familie 00 15 søde 16 lørdag 10 aften butikk9 fredag
+Topic #2 with probability 16.72%: valby john new good like happy morning copenhagen sunday christmas friends friday day one today fashion see breakfast thank year
+Topic #3 with probability 7.05%: valby kr 2500 vintage genbrug super design københavn genbrugsguld retro instagood sælges loppeguld fin stand nature smuk flot pink beauty
+Topic #4 with probability 6.26%: boligindretning indretning frederiksberg interiør valby interiordesign boliginspiration healthy smuktbrugt tilsalg loppefund interior nordichome danishdesign sushi2500 solgt luksus retroguld gym kunst
+Topic #5 with probability 11.62%: valby big bowl kærlighed lille brug kun jul sommer besøg loppemarked bedste loveit langgade københavn få grøn nyt lækkert lækker
+Topic #6 with probability 5.01%: kostplan fitnessmotivation com sundhed vægttab altermuligt personligtræning styrke toning diæt selvtillid kostvejleder muskler detgodeliv livskraft hvidovre fitnessdkvalby inspirere fitnessdkrostorv valby
+Topic #7 with probability 13.66%: valby copenhagen love denmark beautiful home art hygge coffee danmark flowers happy life danish photooftheday family abstractpainting fine smile food
+Topic #8 with probability 27.61%: valby så københavn kan dag godt lidt inspiration træning tak kbh amager fitnessdk roskilde se god lige dk motivation ved
+

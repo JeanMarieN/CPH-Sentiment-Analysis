@@ -1,0 +1,30 @@
+Top 8 topics for AMAGER.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.11%: førstemelding brandvæsen brandalarm station københavns christianshavn amagerbro universitet kua torv metro politi kommune manhattan strand christianshavns strandpark ørestads njalsgade 70
+Topic #2 with probability 0.23%: drinking bryghus photo axe series todd sinner ipa frederiksen hr love metal sunstone arctic beer danish batch orange crush black
+Topic #3 with probability 0.17%: islands brygge kulturhuset islandsbrygge posted photo havnebadet others elevatoren bryggen metro summer ved sunset drift så skolen igen st njalsgade
+Topic #4 with probability 0.20%: christianshavn christiania huset photo elevatoren canal metro drift posted summer så kirke kanal st travel christianshavns ved igen ml beautiful
+Topic #5 with probability 0.12%: strandpark posted photo beach strand station video others amagerstrand sunset amagerstrandpark summer 2300 ved hovedstaden instagram day taken sneglen today
+Topic #6 with probability 0.09%: hovedstaden kopenhagen vanaf denemarken christiania others danhostel 489 hotel 145 guesthouse 500 st centret strandpark metro lilleskole amagerbro strand region
+Topic #7 with probability 0.09%: dansk blue bowl bistro christianshavn cereal fruit 12 oz plate butter bread inch individual pasta soup dinnerware 99 plates salad
+Topic #8 with probability 0.13%: bio south live going 2016 go joss stone photos performed impressive might nr så koncert nov aften today tonight via
+
+Top 8 topics for AMAGER.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.55%: christianshavn station københavns førstemelding brandvæsen time new today day brandalarm like good night one tonight nice love home see great
+Topic #2 with probability 0.68%: bryghus drinking photo ipa beer series love sinner todd hr axe frederiksen stout la tap new black danish metal sunstone
+Topic #3 with probability 0.51%: islands brygge islandsbrygge ude tog bryggen kører ml kulturhuset igen elevatoren ingen vest drift kl vestamager lufthavnen lejlighed mellem pga
+Topic #4 with probability 0.63%: christianshavn islandsbrygge weekend travel summer huset visitcopenhagen view love sky hygge architecture christiania sunset visitdenmark photography beautiful copenhague kirke nofilter
+Topic #5 with probability 0.37%: strandpark strand fælled photo posted beach video summer sunset today kastrup sommer strandvej amagerstrand park 2300 sun sol øresund ørestad
+Topic #6 with probability 0.28%: hovedstaden amagerbro metro st kopenhagen others denemarken danhostel hotel centret one christiania bio vanaf hospital boulevard pic 500 kaffebaren 489
+Topic #7 with probability 0.55%: ved dansk via blue 10 mand bakke 12 set bowl twitter årig bistro politiet com 11 politi skud post fruit
+Topic #8 with probability 1.03%: så bio fremad kan lige dag godt se live vs år lidt god morgen tak kommer kom bare aften bor
+
+Top 8 topics for AMAGER.json using the LDA models with tf features.
+Topic #1 with probability 16.01%: islands brygge christianshavn 10 aften københavns mand fc pale ved ja så god tak islandsbrygge dr mellem ml koncert dag
+Topic #2 with probability 9.74%: bio via dk christianshavn vs imperial blue video available summer com 12 sloth added danhostel evil 2300 amazing 1908 plant
+Topic #3 with probability 20.96%: fremad så kan ved lige hovedstaden kl 00 strand dag bakke se godt lidt år mere igen kommer bare 1000
+Topic #4 with probability 9.50%: christianshavn la ale kopenhagen dansk 2016 center 2015 el con di christiania una pride denemarken vanaf copenhague nørreport dinamarca al
+Topic #5 with probability 9.71%: strandpark strand hr station amagerbro tog spiller politiet metro brandvæsen brandalarm centret 2014 førstemelding kastrup och rt fodbold fundet st
+Topic #6 with probability 8.50%: beer todd live craftbeer brunch nice hvidovre home væsel beers match best porter bar surly modern christianshavn hospital sunday islandsbrygge
+Topic #7 with probability 8.71%: fælled islandsbrygge day king twitter frog pictures shadow hotel wild sunset south boulevard chad yeasts architecture skyggebilleder island park sun
+Topic #8 with probability 16.88%: bryghus drinking photo ipa love series axe new sinner beach frederiksen danish stout tap black one metal great orange time
+

@@ -1,0 +1,30 @@
+Top 8 topics for AMAGER_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.54%: todd axe drinking bryghus photo found jdw version cask uk wetherspoon bar house get pub surly grinder linda biografen café
+Topic #2 with probability 0.32%: orange crush drinking bryghus photo cigar city session ipa la irreale beer available collab house craftbeer cardinal crowbar bryggeri keg
+Topic #3 with probability 0.32%: series envy sinner bryghus drinking sinners greed photo beer sloth gluttony available bitter wrath pride lust craftbeer house bra festival
+Topic #4 with probability 0.42%: christianshavn problemer tog tekniske lufthavnen ved pga ml amagerbro øjeblikket forsinkelse skyldes forsinkelser strand ca 10 vestamager grundet ingen blokeret
+Topic #5 with probability 0.34%: mand ramt skud anholdt årig død politiet skyderi person ung fundet drab kvinde ved dr blevet stukket fængslet aften politi
+Topic #6 with probability 0.35%: photo drinking bryghus princess bastard curry rice brown boobies falling suns darkest beer revenge reepicheep grinder linda lager new fermentoren
+Topic #7 with probability 0.28%: islands brygge slog billede vestamager metro kulturhuset ballademagere albummet uacceptabelt hærger billeder havnebadet facebook ml ved tog elevatoren så desværre
+Topic #8 with probability 0.27%: ipa surly tap beermenus available todd axe new ratebeer ale pale added beer india menu full cans see cigar city
+
+Top 8 topics for AMAGER_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.93%: bryghus todd axe drinking photo ipa tap surly available found beer new ratebeer beermenus ale version damn added pale bar
+Topic #2 with probability 0.63%: bryghus crush drinking orange photo city cigar la session och revenge que porter black reepicheep hops hr gun el jag
+Topic #3 with probability 0.55%: series bryghus sinner drinking envy sinners beer photo greed øl sloth bitter die batch pride craftbeer festival sins gluttony deadly
+Topic #4 with probability 1.71%: christianshavn så ved kan lige amagerbro fremad strand problemer tog lidt mangler pga bare lufthavnen mad desværre tekniske ingen dag
+Topic #5 with probability 1.09%: mand årig politiet anholdt ramt brand ved fire skud kvinde dr tre skyderi politi aften død fundet politidk politiken mænd
+Topic #6 with probability 0.65%: fælled strandpark rice princess bastard dkpol curry bakke fucking byggeri falling kbhpol wtf hader udskældt boobies brown dkbiz lager natur
+Topic #7 with probability 0.74%: islands brygge islandsbrygge slog facebook billeder albummet bio billede stop frank jensen crazy night rainy bryggen fremad lost kovending tårnby
+Topic #8 with probability 1.31%: bio christianshavn new sure twin miss time live today evil one day bad metal go replacing danish love bakke see
+
+Top 8 topics for AMAGER_negative.json using the LDA models with tf features.
+Topic #1 with probability 9.41%: fælled tap bakke islands brygge new strandpark available danish waste going damn lost galt falling islandsbrygge match frank ski like
+Topic #2 with probability 15.64%: bryghus drinking axe todd photo ipa fremad ale bastard princess curry rice ratebeer pale envy christianshavn bitter koncert mad added
+Topic #3 with probability 14.59%: mand årig ramt anholdt politiet slog kvinde skud tre københavns ved død facebook billeder fundet politi metal skyderi 20 kæmpe
+Topic #4 with probability 10.53%: crush series sinner envy greed sinners christianshavn love metro see fuck death get sure hell beach day fucking bet one
+Topic #5 with probability 25.33%: så ved fremad kan christianshavn lige strand problemer mangler bare tog dag lidt brygge amagerbro islands ingen desværre lufthavnen igen
+Topic #6 with probability 8.48%: orange beer surly found city beermenus new stop cigar craftbeer replacing christianshavn mikkeller brewing bar menu full darkest summer boobies
+Topic #7 with probability 6.75%: evil twin la kamp com demons ghost que nota session sur eagles kampe fc un fået division sidste par vanlose
+Topic #8 with probability 9.26%: bio christianshavn brand bad via video dk live byggeri set tv dansk egen voldsom con ulykke och 50 2015 city
+

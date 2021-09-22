@@ -1,0 +1,30 @@
+Top 8 topics for NØRREBRO_negative.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 1.46%: copenhagen nørrebro denmark københavn winter jægersborggade rainy day grey art darkness street today cph valby streetart mitkbh graffiti travel get
+Topic #2 with probability 0.61%: ringsted foodporn frokostordning holbæk valby karlslunde brøndby madhytten lækkersulten herlev greve vallensbæk hundige ishøj frisk køge roskilde hjemmelavet frokost livretter
+Topic #3 with probability 0.58%: stateofmind copenhagenstreetstyle hoodvibes caylorandsons cphstreetstyle nystateofmind illmatic moet ill drinkin dwellers streetvibes skupalife peso streetdwellers rayban hood fashionphotography norrebrø vans
+Topic #4 with probability 0.52%: tatovering oldlines tradworkers boldwillhold traditionaltattoo bright_and_bold realtattoos classictattoo blackworkers traditionalartist traditionalflash radtrad pma blackandgrey cartoon tattooculture newschooltattoo oldschooltattoo neotraditional skinartmag
+Topic #5 with probability 1.07%: mad food instafood nørrebrogade foodie pizza essen alhamdulillah kobenhavn nørrebro woodoven madfrabunden homemade foodporn københavn woodfiredpizza foodlover foodpic mm østerbro
+Topic #6 with probability 0.38%: miss xtinawemissyou xtinaisbeautiful _rutler summer one already ago posting theme gonna day gamle gammel gasning gang gange game gave gaveide
+Topic #7 with probability 0.82%: så bare kan lige fandme nye lidt mangler nørrebro kom få står tiden gerne ramt år degamlesby ved jul kun
+Topic #8 with probability 0.50%: genbrugsbutik fredensgade funiture retrobutik genbrugsfund 15a secondhand møbler boligindretning interiør indretning 2200 danskdesign kbh denmark styk fire stole copenhagen 100kr
+
+Top 8 topics for NØRREBRO_negative.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 2.64%: nørrebro copenhagen københavn winter denmark mitkbh dk cph sunday tired get morning time new lost streetart stefansgade life street see
+Topic #2 with probability 0.78%: københavn valby mad foodporn frokost hjemmelavet østerbro vesterbro frokostordning greve roskilde herlev køge holbæk vallensbæk frisk karlslunde hundige lækkersulten ishøj
+Topic #3 with probability 0.66%: vans streetfashion stateofmind streetstyle street hood nørrebronx mensfashion blackandwhite bw dwellers peso nystateofmind norrebrø fashionphotography kbh rayban hoodvibes moet streetvibes
+Topic #4 with probability 1.11%: shit copenhagen københavn sorry vesterbro one wine tradworkers traditionaltattoo evil traditionalartist oldlines tatovering tattooart comicart left traditionalflash bright_and_bold guy tattooculture
+Topic #5 with probability 1.16%: mad nørrebrogade food instafood københavn pizza foodie kobenhavn essen woodoven nørrebronx homemade madfrabunden woodfiredpizza østerbro shayonskitchen lovepizza kbh italianfood sapore
+Topic #6 with probability 2.77%: today new day miss one year bad like much still missing rainy pretty time hard really xtinaisbeautiful xtinawemissyou week got
+Topic #7 with probability 2.34%: nørrebro så kan mangler lidt lige nye lille københavn dag år ved vores sidste wearenørrebro se bare træt kæmpe nytår
+Topic #8 with probability 0.94%: denmark copenhagen kbh fire indretning secondhand danskdesign interiør moody genbrugsbutik møbler retrobutik fredensgade funiture genbrugsfund gamle abandoned stole 2200 boligindretning
+
+Top 8 topics for NØRREBRO_negative.json using the LDA models with tf features.
+Topic #1 with probability 11.89%: år mere 17 går nørrebro første lige kan siden fået syv tiden tattoo selvbillede langsom få ved nytår så lidt
+Topic #2 with probability 15.40%: nørrebro mad så food copenhagen københavn nørrebrogade instafood dk måske pizza selfie essen afslører overspringshandling skæg kbh fået game dårligste
+Topic #3 with probability 9.38%: nørrebro copenhagen art wearenørrebro mitkbh københavn voreskbh kbh blackandwhite street delditkbh bw empirebio 12 collage guldbergsgade artist vans nørrebronx hood
+Topic #4 with probability 5.08%: available new sour canon beer ipa tømmermænd fuck nørrebro lemon sur copenhagen citra ale halo cl england urbanandstreet brus brewed
+Topic #5 with probability 3.75%: nørrebro pels copenhague vegan dag små sur københavn les change nothing copenhagen water foran protest ser colors side est godt
+Topic #6 with probability 16.16%: nørrebro today copenhagen day københavn bad yesterday altos hell one new tatovering love shit vores comicart store boldwillhold oldlines traditionaltattoo
+Topic #7 with probability 24.68%: nørrebro copenhagen københavn denmark hole get week bathroom really keep foodporn starting much ringsted moon worse toilet ground build cph
+Topic #8 with probability 13.67%: day nørrebro time new copenhagen one even well last long today food dinner makes took eat worst days months bæst
+

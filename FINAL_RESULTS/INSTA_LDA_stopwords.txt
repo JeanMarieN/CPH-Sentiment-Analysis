@@ -1,0 +1,210 @@
+Top 8 topics for amager_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.44%: christianshavn christianshavnskanal canal autumn architecture strandgade copenhague vorfrelserskirke kopenhagen canals boat boats nyhavn så hygge church visitcopenhagen papirøen weekend sommer
+Topic #2 with probability 0.37%: islandsbrygge nofilter copenhagenharbour sunset langebro bryggebroen havnevigen ibyen winter solnedgang så visitcopenhagen light københavnshavn sunday ballonskoven snow siloliving homesweethome fisketorvet
+Topic #3 with probability 0.25%: amagerbro metro streetart madogkaffe sundby sundholmskvarteret områdeløft sundholmsvej hygge brunch amagerstrand altanliv byhave minaltanhave grillenburgerbar havepåtredje så urbangarden københavnerliv nofilter
+Topic #4 with probability 0.45%: summer sunset beautiful love morning day city visitcopenhagen travel architecture sun view visitdenmark canal water sky nofilter photography weekend good
+Topic #5 with probability 0.16%: christiania freetown graffiti travel streetart cannon55d copenhague canon art hippie cycle bicycle welcome bike coulours staden wonderland colours danimarca free
+Topic #6 with probability 0.19%: bryggen sommer salg loppemarked lopper køb flea købogsalg hygge krejler kr udsalg loppesalg krejlerliv homesweethome morgen genbrug secondhand interiør mypinkwall
+Topic #7 with probability 0.13%: home new sweet back weekend view love like way snow little christmas stillness work happy place tuesday friday light feeling
+Topic #8 with probability 0.14%: brygge islands night ibyen ievabluma voreskbh visitcopenhagen artist kalvebod godmorgen morgen artistlife sunset afhentes art mxkbh 2017 aokdk islandsbrygge flea
+
+Top 8 topics for amager_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.80%: christianshavn strandgade flowers vorfrelserskirke nyhavn christianshavnskanal hygge church hagenuhreflowersdelights kirke hagenuhre kanal papirøen köpenhamn flowershop sommer tattoo skiathos interfloradk dk
+Topic #2 with probability 0.69%: islandsbrygge bryggen nofilter spring sommer running solnedgang winter sol homesweethome langebro sunrise forår weekend sun islands solskin hygge udsigt københavnshavn
+Topic #3 with probability 0.63%: amagerbro hygge weekend food metro brunch sunday foodporn urbangarden sundby københavnerliv godmorgen instafood girls søndag urbangardener amagerbrogade lunch healthy påkantenafamager
+Topic #4 with probability 0.82%: summer travel beautiful sun water city photography day love night weekend danish sky sunday photooftheday canal one sunset sunny instagood
+Topic #5 with probability 0.50%: christiania streetart copenhague travel kopenhagen graffiti art freetown street danemark kobenhavn bike la canon trip christiana wonderland hippie colours freedom
+Topic #6 with probability 0.99%: så kan dag vores nye tak godt lige god lille lidt år jul ved kr se kom morgen søndag helt
+Topic #7 with probability 0.83%: love home new morning today time work good happy view day christmas like year way little go back friday coffee
+Topic #8 with probability 0.57%: visitcopenhagen visitdenmark sunset islands voreskbh brygge ibyen sharingcph architecture efterår cphpicks wonderlustcopenhagen opdagdanmark aokdk wonderfulcopenhagen urban copenhagenbible autumn kunst december
+
+Top 8 topics for amager_merge.json using the LDA models with tf features.
+Topic #1 with probability 11.86%: så kan christianshavn lige islandsbrygge amagerbro dag vores nye kr lidt bryggen helt kl se lille mere igen få år
+Topic #2 with probability 13.52%: amagerbro så islandsbrygge christianshavn weekend hygge tak godt dag ved bedste hjem food brunch fitness dinner klar søndag foodporn aften
+Topic #3 with probability 13.79%: islandsbrygge christianshavn brygge bryggen islands sunset visitcopenhagen ibyen voreskbh visitdenmark sommer aokdk sharingcph art december nofilter artist efterår sol evening
+Topic #4 with probability 9.29%: islandsbrygge amagerbro dk design interiør cm boligindretning danishdesign bryggensbutikker keramik www solgt inspiration indretning bolig københavnerliv art interior tattoo kunst
+Topic #5 with probability 8.08%: christianshavn morgen islandsbrygge christmas jul 2018 god godmorgen smuk music venner 2017 blessed love nogen happynewyear goodmorning livet hold sunrise
+Topic #6 with probability 15.37%: day new islandsbrygge like happy love view time one today summer life christianshavn coffee good morning beautiful cphpicks sun family
+Topic #7 with probability 10.48%: home christianshavn islandsbrygge love sunday amagerbro work night great friday yoga weekend friends la un hygge vous fun wonderful copenhague
+Topic #8 with probability 17.61%: christianshavn travel architecture christiania beautiful city summer photography visitcopenhagen canal amagerbro danish photooftheday water flowers sky visitdenmark picoftheday instagood boat
+
+Top 8 topics for indreby_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.99%: копенгаген дания жизньвдании lifeindenmark скандинавия блогопутешествиях блогодании вокругсвета путешествия lonelyplanet турист fitnessgirl самостоятельноепутешествие девушкаиздании ukrainianindenmark girlfromdenmark instatravel scandinavia люблюкопенгаген kongenslyngby
+Topic #2 with probability 0.75%: loves_united_denmark explore_earth_ mitdanmark loves_united_copenhagen loves_united_life igerscopenhagen loves_united_scandinavia visitdenmark byliv københavnerliv voresby govisitcopenhagen citylife world_great worldgreat travelspaceless pictureoftheday opdagdanmark wonderfulcopenhagen visitcopenhagen
+Topic #3 with probability 0.81%: eyelash eyelashesextension nomoremascara brønshøj ikkemeremascara storkøbenhavn stayflawless smukkeøjne smukkevipperhverdag smukkevipper eyelashes valby hellerup eyelashextensions lashesbybella flawlesslashescph flawlesslashes frederiksberg lashes blinknordic
+Topic #4 with probability 0.89%: cannon55d pride centrum canon cphpride copenhagenpride colour colours color colors rainbow aok gayparade city flag lgbt ibyen gay rådhuspladsen govisitdenmark
+Topic #5 with probability 1.15%: diamondsandrustcopenhagen vintageshop vintagestore ilovecopenhagen ilovevintage vintagedresses vintageshopping sanktpederstræde wonderfulcopenhagen luxurysecondhand ibyen vintagekjoler vintagejagt beautiful dress vintage pisserenden vintagefund dresses shoplocal
+Topic #6 with probability 0.79%: cphpicks wonderlustcopenhagen tilbyen sharingcph voreskbh copenhagenbible tipkbh ibyen livefromcph lifeofdenmark opdagdanmark ig_week_denmark architecture nyboder visitcopenhagen ig_week_scandinavia aokdk copenhagenfacades streetview visitdenmark
+Topic #7 with probability 0.44%: rebellion truth rosenborgcastle tivoli frederikschurch frederiksborgpalace rebellionandtruth johncharles christianborg christianborgpalace middelalder rat tivoligardens borsen 2013 john charles osterbro norrebro amalienborgpalace
+Topic #8 with probability 0.69%: photooftheday govisitdenmark picstagram voreskøbenhavn lovecopenhagen mitkøbenhavn instagram visitdenmark city govisitcopenhagen citylife byliv københavnerliv voresby visitcopenhagen opdagdanmark papillondesign nyhavn christiansborg tivoli
+
+Top 8 topics for indreby_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.00%: scandinavia турист скандинавия самостоятельноепутешествие путешествия копенгаген lonelyplanet дания lifeindenmark wonderfulcopenhagen instatravel visitcopenhagen блогодании блогопутешествиях ukrainianindenmark девушкаиздании жизньвдании вокругсвета люблюкопенгаген girlfromdenmark
+Topic #2 with probability 1.26%: visitcopenhagen visitdenmark opdagdanmark voresby citylife københavnerliv wonderfulcopenhagen govisitcopenhagen igerscopenhagen byliv loves_united_copenhagen govisitdenmark loves_united_denmark photooftheday mitkøbenhavn lovecopenhagen mitdanmark loves_united_life loves_united_scandinavia city
+Topic #3 with probability 1.13%: valby storkøbenhavn stayflawless smukkeøjne frederiksberg smukkevipperhverdag smukkevipper hellerup nomoremascara eyelashextensions brønshøj eyelashesextension ikkemeremascara eyelash lashesbybella eyelashes flawlesslashescph flawlesslashes lashes blinknordic
+Topic #4 with probability 1.11%: city colours pride centrum ibyen colors love copenhagenpride canon color colour cphpride rainbow cannon55d rådhuspladsen aok gayparade night flag light
+Topic #5 with probability 2.20%: vintagestore vintageshop diamondsandrustcopenhagen wonderfulcopenhagen ilovecopenhagen vintageshopping vintagedresses ilovevintage sanktpederstræde vintage ibyen weekend beautiful today link get vintagejagt new pisserenden vintagekjoler
+Topic #6 with probability 2.01%: voreskbh wonderlustcopenhagen visitcopenhagen tipkbh ibyen cphpicks architecture sharingcph copenhagenbible strøget tilbyen aokdk københavnk nofilter kbhk autumn travel urban kopenhagen opdagdanmark
+Topic #7 with probability 0.81%: nyhavn danish tivoli christianshavn frederiksberg rosenborgcastle frederiksstaden norrebro hygge rosenborg slotsholmen osterbro night john tivoligardens middelalder frederiksborgpalace frederikschurch rat charles
+Topic #8 with probability 2.95%: så vores kan dag smukke indre restaurantpalægade se komogspis ved www glæder dk sidste hygge smørrebrød lokaler instafood få lidt
+
+Top 8 topics for indreby_merge.json using the LDA models with tf features.
+Topic #1 with probability 14.60%: diamondsandrustcopenhagen vintageshop vintagestore ilovecopenhagen wonderfulcopenhagen ilovevintage vintageshopping ibyen vintagedresses sanktpederstræde eyelash valby vintage hellerup eyelashextensions ikkemeremascara eyelashesextension nomoremascara eyelashes storkøbenhavn
+Topic #2 with probability 20.44%: visitcopenhagen visitdenmark opdagdanmark copenhagenbible citylife architecture govisitcopenhagen københavnerliv ibyen byliv cphpicks voresby igerscopenhagen govisitdenmark loves_united_copenhagen wonderfulcopenhagen voreskbh wonderlustcopenhagen aokdk sharingcph
+Topic #3 with probability 6.09%: bio link spice specialist get ditkbh indre seeds pepper check sweet know make like organic leaves christmas vores used different
+Topic #4 with probability 8.90%: vores weekend kan smukke lokaler 00 kl opleve find dag 18 se glæder yoga 30 gang nye åbent us kom
+Topic #5 with probability 15.58%: så eshakhamo dag kan restaurantpalægade www hygge vores komogspis tattoo få helt smørrebrød instafood dk ved se tatovering mor år
+Topic #6 with probability 8.09%: копенгаген дания scandinavia visitcopenhagen wonderfulcopenhagen instatravel жизньвдании скандинавия lifeindenmark lonelyplanet ukrainianindenmark турист девушкаиздании путешествия блогодании girlfromdenmark fitnessgirl вокругсвета самостоятельноепутешествие блогопутешествиях
+Topic #7 with probability 18.13%: city pride centrum color colors canon copenhagenpride colours cannon55d colour cphpride love ibyen aok rainbow day gayparade one rådhuspladsen summer
+Topic #8 with probability 8.18%: københavnk vuggestue børnehave trinitatis trinitatisbørnehus daginstitution nightpixdybdal cykel børnehus lidt innercity nails metroexpress dk negle salon tur beautiful søerne night
+
+Top 8 topics for nørrebro_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.24%: 2200 genbrugsbutik fredensgade funiture retrobutik genbrugsfund møbler 15a secondhand interiør boligindretning indretning danskdesign gammel fed patina 150kr lampe mål fin
+Topic #2 with probability 0.20%: new happy year years newyear everyone one happynewyear today friends newyearseve best ready eve old stefansgade last 2017 us everybody
+Topic #3 with probability 0.17%: ravnsborggade prettypunkcph tatovør tattoo tattoocopenhagen tatovørnørrebro copenhagentattoo tatovørkøbenhavn tattoocph cphtattoo femaletattooartist tatuaje direct message tatovering email booking send tatuering københavntattoo
+Topic #4 with probability 0.15%: nytår godt happynewyear godtnytår 2017 venner newyear år nye fest newyearseve aften nytårsaften skønne bitches fantastisk bedste party piger selskab
+Topic #5 with probability 0.20%: jul christmas glædelig hygge december merry merrychristmas julepynt family glædeligjul advent god xmas streetwear christmastree julemarked jægersborggade tree mifkids 2017
+Topic #6 with probability 0.18%: 2018 happynewyear newyear nye godtnytår 2017 january nightcity newyearseve february år party happy welcome møllegade klar good nytår 01 elmegade
+Topic #7 with probability 0.31%: love weekend winter beautiful streetart art photooftheday home hair christmas fashion streetstyle day style food graffiti ootd instafashion fashionaddict styleblogger
+Topic #8 with probability 0.30%: så valby frederiksberg kan nye dag se kom lige bare holbæk klar år vores tak nordvest lidt møn igen sammen
+
+Top 8 topics for nørrebro_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.46%: secondhand 2200 retrobutik indretning interiør møbler danskdesign boligindretning genbrugsbutik funiture fredensgade genbrugsfund 15a vintage interiordesign gammel retro design interior gamle
+Topic #2 with probability 0.85%: new happy year today time one love like good music friends day last get back stefansgade newyear see party years
+Topic #3 with probability 0.46%: tattoo art ravnsborggade frisør salonaskepot kunst tatovering prettypunkcph tattoocopenhagen drawing tatovør copenhagentattoo tattoocph tatovørnørrebro tatovørkøbenhavn hair tatuaje femaletattooartist cphtattoo little
+Topic #4 with probability 0.45%: nytår godt nye år så tak 2018 happynewyear bedste aften godtnytår venner kærlighed dag igen fantastisk går 2017 verdens ja
+Topic #5 with probability 0.70%: christmas hygge food vegan elmegade brunch julefrokost blågårdsgade love melangedeluxe coffee homemade mad jægersborggade øl foodie inspiration december pizza selfie
+Topic #6 with probability 0.54%: jul wearenørrebro 2018 nørrebronx december nørrebrogade 2017 visitcopenhagen voreskbh jegborpånørrebro søerne vinter guldbergsgade glædelig streetwear january økologisk voresnørrebro graffiti dansk
+Topic #7 with probability 0.89%: love winter weekend streetart superkilen photography sunday travel morning home street photooftheday night nofilter city visitcopenhagen urban norrebro architecture art
+Topic #8 with probability 0.86%: så valby kan vores frederiksberg dag se søndag lille lige god kom kl ved lørdag lidt morgen bare fredag mere
+
+Top 8 topics for nørrebro_merge.json using the LDA models with tf features.
+Topic #1 with probability 9.31%: jul søndag inspiration julefrokost melangedeluxe glædelig træning fine øreringe ja åbent ser femina altfordamerne aok cphfood nye kreativ earrings lyngby
+Topic #2 with probability 21.13%: så kan godt nytår dag vores år nye tak 2018 jul lidt lige bare se ved lille valby kom aften
+Topic #3 with probability 19.49%: love new happy year day one time like home good food weekend friends last coffee best get back night today
+Topic #4 with probability 9.07%: 2200 indretning boligindretning interiør danskdesign secondhand genbrugsbutik møbler genbrugsfund retrobutik funiture fredensgade 15a superkilen newyear visitcopenhagen visitdenmark travel aokdk architecture
+Topic #5 with probability 12.18%: christmas 2018 music winter art hygge danishdesign red new happynewyear stefansgade snow sun december creative blågårdsgade cold pink design kunst
+Topic #6 with probability 7.45%: tattoo ravnsborggade elmegade retro vintage tatovering prettypunkcph tatovør copenhagentattoo tattoocopenhagen shop genbrug _rutler tatovørnørrebro tatovørkøbenhavn cphtattoo tattoocph femaletattooartist send sælges
+Topic #7 with probability 9.56%: vegan christmas jægersborggade tt today open foodporn 11 12 18 00 la breakfast chocolate dk free things online www food
+Topic #8 with probability 11.81%: wearenørrebro streetart art photography graffiti nørrebronx street photooftheday norrebro streetphotography hair jegborpånørrebro winter voreskbh monday urban 2017 love nørrebrogade streetstyle
+
+Top 8 topics for torvehallerne_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.26%: market fresh flower travel fish place fruit torvehallernemarket veggies torvehallernekøbenhavn vegetables seafood food fruits day glass produce trip local streetfood
+Topic #2 with probability 0.25%: stalks roots torvehallernekbh flowerstothepeople forår interior stalksandroots fashion home spring ranunkler græs orkide roses trend eucalyptus greenliving greenhouse conceptstore newconceptstore
+Topic #3 with probability 0.20%: smørrebrød sandwich hallernessmørrebrød danish hallernes open smorrebrod danishfood opensandwich torvehallernekøbenhavn kopenhagen foodporn delicious sandwiches traditional faced first mikkeller herring roastbeef
+Topic #4 with probability 0.42%: food foodporn foodmarket foodie danish travel fish love delicious instafood yummy smorrebrod fresh seafood amazing eat streetfood hygge weekend instagood
+Topic #5 with probability 0.28%: flowers stalksandroots urbanjungle beautiful bouquet urbanjunglebloggers weekend interior flower tulips flowertothepeople friday blomster flowerstagram open flowerstothepeople sunday love bouquets plants
+Topic #6 with probability 0.22%: coffee coffeecollective collective morning kaffe thecoffeecollective coffeetime breakfast time espresso best softice good day hygge cup cappuccino cafe first latte
+Topic #7 with probability 0.17%: grød breakfast porridge risotto groedcph morgenmad oatmeal groed chia frokost healthy foodporn bygotto love caramel morning nørreport grod chiagrød healthyfood
+Topic #8 with probability 0.17%: lunch köpenhamn time smorrebrod frokost tacos tapas today danish paleo risotto lunchtime yummy instafood vegan sunday delicious unmercato one lovely
+
+Top 8 topics for torvehallerne_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.12%: market food travel foodmarket foodie foodporn visitcopenhagen fresh fish torvehallernemarket torvehallernekbh one seafood instafood streetfood delicious travelgram yummy visitdenmark love
+Topic #2 with probability 0.76%: torvehallernekbh stalksandroots urbanjungle spring flowers interior rudestore fashion flowerstothepeople blomster urbanjunglebloggers stalks forår istedgade roots home vores roses style vendersgade
+Topic #3 with probability 0.60%: smørrebrød danish smorrebrod sandwich foodporn open kopenhagen delicious torvehallernekøbenhavn hallernessmørrebrød yummy danishfood opensandwich salmon sandwiches foodie top traditional hallernes instafood
+Topic #4 with probability 1.10%: så vores weekend hygge fisk kan kom mad havtorvehallerne sommer fredag dag forbi god tak ved lækre østers dk nye
+Topic #5 with probability 0.94%: flowers love weekend day summer sunday beautiful shopping today happy christmas flower friday new visitcopenhagen friends get autumn last sun
+Topic #6 with probability 0.59%: coffee coffeecollective 코펜하겐 kaffe morning 덴마크 torvehallernekbh thecoffeecollective laurasbakery coffeetime 토르브할렌 デンマーク grannyshouse ponyfony_flowers コペンハーゲン voreskbh kings_flora eye4flowers good bakery
+Topic #7 with probability 0.63%: grød breakfast porridge så godt nørreport søde søndag tur frokost mums morgenmad tak hygge kan dag risotto start igen elsker
+Topic #8 with probability 0.70%: lunch köpenhamn tapas torvehallernekøbenhavn time frokost mikkeller tacos beer och tapadeltoro hijadesanchez øl champagne unmercato summer mikkellerandfriendsbottleshop craftbeer är sushi
+
+Top 8 topics for torvehallerne_merge.json using the LDA models with tf features.
+Topic #1 with probability 10.73%: coffee coffeecollective organic hygge kaffe weekend bio ice sweet cake friday kage favorite coffeetime good start cream get go time
+Topic #2 with probability 24.81%: food market travel smørrebrød day foodporn danish love lunch foodie fish summer fresh foodmarket best one delicious visitcopenhagen good happy
+Topic #3 with probability 7.41%: grød torvehallernekbh на porridge torvehallernekøbenhavn breakfast omegn hedonistic コペンハーゲン デンマーク hedonism omegntorvehallerne tacos berries el color november farmersmarket копенгаген scandinavia
+Topic #4 with probability 10.45%: christmas today beer shopping torvehallernekbh mikkeller first time winter get oysters aokdk voreskbh new great come back visitcopenhagen us see
+Topic #5 with probability 19.52%: så vores kan dag forbi torvehallernekbh kom godt frokost lige få kl fisk nye lækker god tak lidt ved mad
+Topic #6 with probability 7.09%: rudestore istedgade tapas fashion style rude birthday rudepige frederiksborggade butcher cava ost _laekkerier plads tapadeltoro så slagter madrokonkurrence _soelleroedkro rudegirl
+Topic #7 with probability 9.86%: flowers stalksandroots interior urbanjungle torvehallernekbh flowerstothepeople spring home stalks roots urbanjunglebloggers fashion forår flower roses bouquet beautiful greenliving eucalyptus greenhouse
+Topic #8 with probability 10.13%: food köpenhamn healthy fruit chocolate och yum healthyfood vegan eating market dessert foodie kopenhagen vegetables veggies bakery lunch dinner heaven
+
+Top 8 topics for valby_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.50%: valby garri acabatelo elskditvalby så grøn17 frederiksberg hygge mitvalby jul dag efterår morgen nofilter voreskbh valbyparken grønkoncert valbylanggade se sunset
+Topic #2 with probability 0.27%: childlikeliving vintagefurniture kidsdecor kidsinterior barnrum reusereducerecycle vintage børnemøbler scandinavianinterior relovedfurniture tilsalgbørn vintagelove tilsalgkbh kidsroom sustainableliving børneværelse scandinaviandesign retroguld nordichome danishdesign
+Topic #3 with probability 0.28%: kostplan fitnessdk så altermuligt diæt detgodeliv kostvejleder muskler slank toning målsætning selvtillid livskraft vægttab energi com personligtræning styrke fitnessmotivation sundhed
+Topic #4 with probability 0.19%: abstractpainting abstractart amagerstrand spinderiet kunst art indretning _art artlovers figurtivepainting hillo kunstnerliv kunstner home gerne per galleri kunstwerk malerier colourful
+Topic #5 with probability 0.25%: loppeguld loppefund genbrugsguld genbrug loppemarked retro loppedeluxe indretning sælges retrohjem interiør vintage rum bobedre vintagefund solgt tilsalg detydre boligindretning smuktbrugt
+Topic #6 with probability 0.24%: sushi sushi2500 frederiksberg roskilde luksus instasushi haps hverdag loveit weekend valby frokost foodporn ringsted maki dk tilbud skolegade frokostordning catering
+Topic #7 with probability 0.11%: lipkit valbyvaleriethomas lipstck makeuptutorials valerithomas wa makeupartist kehabisan sebelum diorder yuk dan thomas makeup untuk 0857 8900 7283 valeri organik
+Topic #8 with probability 0.36%: love weekend home happy hygge family summer new life christmas sunday beautiful smile morning friends friday jul nature photography photooftheday
+
+Top 8 topics for valby_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.99%: valby elskditvalby voreskbh økologi valbyparken efterår visitcopenhagen mosestykket valbylanggade toftegårdsplads mitvalby garri frederiksberg grøn17 visitdenmark isbjørnen nofilter søndermarken vinter grønkoncert
+Topic #2 with probability 0.38%: frederiksberg interiordesign vintagelove vintage vintagefurniture nordichome danishdesign tilsalgkbh scandinaviandesign tilsalg tilsalgbørn børneværelse sustainableliving boliginspiration smuktbrugt kidsroom scandinavianinterior retroguld børnemøbler childlikeliving
+Topic #3 with probability 0.54%: lidt så træning kan hvidovre motivation vægttab via rødovre komme håber roskilde personligtræning inspiration fitness sundhed igang ved fitnessworld skriv
+Topic #4 with probability 0.60%: home inspiration photooftheday shopping www valbylanggade217 dk art spinderiet interiør tid kunst design kl indretning shoplokalt photography interior elskditvalby photo
+Topic #5 with probability 0.40%: valby tilsalg loppeguld loppemarked loppefund retro vintage sælges genbrug kr genbrugsguld solgt indretning retrohjem vintagefund pris loppedeluxe interiør str boligindretning
+Topic #6 with probability 1.03%: så weekend vores dag nye søndag lige kan tak godt år sushi god byholm lille hygge sushi2500 roskilde se kærlighed
+Topic #7 with probability 0.24%: makeup dan thomas natural makeupartist model valerithomas wa valbyvaleriethomas emma hair di lipstck makeuptutorials yuk lipkit untuk dari valeri diorder
+Topic #8 with probability 1.03%: love happy new summer morning sunday weekend time night today sun life winter home day one christmas like smile family
+
+Top 8 topics for valby_merge.json using the LDA models with tf features.
+Topic #1 with probability 9.93%: valby jul byholm interiør inspiration hygge interior design shopping homedecor dk baby weekend home december forår valbylanggade217 www shoplokalt nordicliving
+Topic #2 with probability 10.47%: valby søndag weekend sushi kl fredag frederiksberg sushi2500 lørdag roskilde 11 10 15 loveit grøn17 luksus 18 haps onsdag sommer
+Topic #3 with probability 23.89%: valby så kan dag vores godt lige nye se ved tak god lille år bare lidt elskditvalby mere kom få
+Topic #4 with probability 6.28%: valby fitnessdk kostplan motivation træning så hvidovre fitnessmotivation inspiration fitnessworld sundhed vægttab igang com energi fitness rødovre hjælp komme lidt
+Topic #5 with probability 22.92%: valby love home happy art new beautiful morning summer flowers photooftheday coffee day nofilter danish life sunset winter sun family
+Topic #6 with probability 7.24%: valby urbangarden coconailsdk mørk lipkit luxury naildiva grønttorvet cndbrisa makeup altan portrait worldunion robinhusvalby ig_europe newyear ig_today nailcare semilac pic_groups
+Topic #7 with probability 9.82%: valby christmas food hygge healthy homemade weekend love dinner organic fit vegan royalcopenhagen cake instafood fitfam morgenmad sund basil chocolate
+Topic #8 with probability 9.43%: valby boligindretning tilsalg vintage interiordesign loppeguld loppefund boliginspiration frederiksberg genbrugsguld smuktbrugt loppemarked nordichome genbrug danishdesign retro indretning retroguld kr børneværelse
+
+Top 8 topics for vesterbro_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.23%: new happy year 2018 newyear love happynewyear day years 2017 friends fireworks eve christmas first music party life nye home
+Topic #2 with probability 0.21%: jul christmas glædelig så julpåvesterbro god december christmastree julepynt merry hygge xmas glædeligjul merrychristmas juletræ love snart jul2017 christmaslights istedgade
+Topic #3 with probability 0.25%: es istedgade110 shopping udsalg sale nyevarer strik skjorte 11 forårsvarer kl tilbage ses aiayu nye kjole nedsat forteforte butikken baumundpferdgarten
+Topic #4 with probability 0.12%: lettering letters goodtype handmadefont bftype typegang thedailytype typeyeah 50words signpainter tyxca typography graphicdesign thedesigntip typetopia letteringdesign alwayshandpaint logomaker signage logo
+Topic #5 with probability 0.16%: nytår godt 2018 happynewyear godtnytår så 2017 nye newyear år sammen tak newyearseve kan venner nytår2017 glædelig bedste nytårsaften farvel
+Topic #6 with probability 0.21%: visitcopenhagen cphpicks tipkbh ibyen wonderlustcopenhagen voreskbh aokdk vegan caribbean homemade mxkbh brugbyen vegetarian thecaribbeanhousewife politiken_mad latin cuisine madaboutcopenhagen munchiesdk soupmagic
+Topic #7 with probability 0.11%: tatovering oldschooltattoo oldlines radtrad tradworkers bright_and_bold traditionaltattoo traditionalflash comicart traditionalartist boldtattoos pma tattooculture newschooltattoo classictattoo boldwillhold skinartmag cartoon blackandgrey tattooart
+Topic #8 with probability 0.18%: streetart art graffiti urbanart graffitiart street streetphotography streetlife streetstyle streetphotographer urbanandstreet stickers urbanexploration stickerart stickerporn stickerbomb stickerlover urbanlandscape urbanlife mural
+
+Top 8 topics for vesterbro_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 1.01%: new love christmas happy year one time like today weekend day music style 2018 good friends party home us ready
+Topic #2 with probability 0.95%: jul så vores kan søndag hygge saxogade dag lille julpåvesterbro december se weekend istedgade god lørdag kaffe lidt shopforengodsag vesterbronx
+Topic #3 with probability 0.56%: shopping istedgade110 es nye udsalg sale tilbage nyevarer dag lidt vintage ses 11 kl strik str så 18 butikken stadig
+Topic #4 with probability 0.36%: friday kødbyen design sketch sign studio black crossfit istedgade work typography logo meatpackingdistrict graphicdesign illustration tyxca letters fitness lettering typo
+Topic #5 with probability 0.62%: nytår godt så 2018 tak år bedste happynewyear nye lige elsker kan 2017 godtnytår nyt kærlighed mere newyear sammen venner
+Topic #6 with probability 0.99%: visitcopenhagen winter night voreskbh morning travel food sunday photography home visitdenmark kødbyen ibyen cphpicks saturday vesterbrogade light coffee love vegan
+Topic #7 with probability 0.30%: tattoo thanks tatovering kronegekko crestedgecko tradworkers traditionaltattoo correlophusciliatus tattooart blackworkers traditionalflash blackandgrey oldschooltattoo curls bright_and_bold cartoon oldlines radtrad copenhagentattoo traditionalartist
+Topic #8 with probability 0.59%: streetart art istedgade street kunst graffiti streetphotography urbanart dk streetstyle retro tilsalg streetlife design graffitiart genbrug streetphotographer artwork vintage artist
+
+Top 8 topics for vesterbro_merge.json using the LDA models with tf features.
+Topic #1 with probability 10.36%: music morning art istedgade home vesterbronx style rock kødbyen street singer new sunday artist january dk video picoftheday songwriter pink
+Topic #2 with probability 8.91%: design vintage art saxogade kunst inspiration indretning retro boligindretning densocialehandelsgade interior shopforengodsag blond bolig interiør dk designforengodsag genbrug fine pris
+Topic #3 with probability 7.34%: yoga painting ootd mensfashion art menswear dapper dustyfingers myvinylstop vinylcollection_feature onmyturntable vinylcollectionpost preppy menstyle bulldog sprezzatura menwithclass menwithstyle sartorial arialpicture
+Topic #4 with probability 23.75%: christmas new love happy year one like day 2018 food time night good today get friends last weekend back little
+Topic #5 with probability 8.23%: visitcopenhagen travel visitdenmark hygge travelgram letters att sketch photography tyxca 50words typeyeah bftype typegang signpainter handmadefont thedailytype typo cphpicks thedesigntip
+Topic #6 with probability 9.09%: es istedgade110 shopping streetart sign udsalg graffiti urbanart sale nofilter crossfit streetphotography istedgade crestedgecko correlophusciliatus kronegekko strik streetstyle nyevarer motivation
+Topic #7 with probability 9.86%: winter architecture light frederiksberg december flowers interiordesign city scandinaviandesign christmas sunset voreskbh selfie colors danishdesign blomster bike værnedamsvej love nordic
+Topic #8 with probability 22.45%: så jul kan godt dag år tak nytår vores lille lidt lige nye 2018 god ved bare mere hygge december
+
+Top 8 topics for østerbro_merge.json using the NMF model (Frobenius norm) with tf-idf features.
+Topic #1 with probability 0.36%: viborggade shopping mode modetøj wardrobeno2 accessories modebutik inspiration shopøsterbro damemode fashion dametøj loveshopping mitøsterbro sneakers tøj womensfashion sko clothes instafashion
+Topic #2 with probability 0.18%: nytår godt 2017 år godtnytår happynewyear nye newyear så fyrværkeri rigtig herfra tak kan god kransekage nyt ønsker bedste kom
+Topic #3 with probability 0.25%: home interior interiordesign boligindretning gaystagram gay interiør indretning homedecor interiors interior123 boligindretningogkreativitet christmas bolig boligmagasinet travel plants homedecoration instadecor bobedre
+Topic #4 with probability 0.22%: new happy year love happynewyear newyear years newyearseve day beautiful fireworks eve friends everyone life birthday weekend 2017 family good
+Topic #5 with probability 0.20%: jul glædelig christmas så merry december glædeligjul hygge god merrychristmas juleaften juletræ rigtig familie jul2017 family christmastree ønsker xmas julpåøsterbro
+Topic #6 with probability 0.14%: shellac newlookcph nailbeauty cndeducationambassador cndshellac nailart cndvinylux lashlift spraytan cnd beauty gelenegle akrylnegle naildiva cndbrisagel negle lovelecente cndsolaroil cndliquidandpowder cndgowithapro
+Topic #7 with probability 0.18%: nordhavn secondhand foxholmdk secondhandluxury prelovedfashion vintagefashion vintage str fashionista østerbroshopping pris kr 38 luksussecondhand kjole 36 500kr 40 tilsalg ny
+Topic #8 with probability 0.17%: 2018 happynewyear newyear 2017 godtnytår nye newyearseve klar januar år fantastisk så fireworks nytår ready tak glæder night må first
+
+Top 8 topics for østerbro_merge.json using the NMF model (generalized Kullback-Leibler divergence) with tf-idf features.
+Topic #1 with probability 0.62%: shopping fashion mode mitøsterbro inspiration østerbroshopping kl tøj viborggade wardrobeno2 sko newin womensfashion sneakers ootd 18 instafashion shopøsterbro nordrefrihavnsgade ses
+Topic #2 with probability 0.62%: nytår godt år tak 2018 bedste aften 2017 kærlighed hygge nye godtnytår venner happynewyear fødselsdag kage tillykke verdens fantastisk dejlige
+Topic #3 with probability 0.78%: christmas home hygge food visitcopenhagen interiordesign interior love travel flowers jul weekend design mood foodie visitdenmark dinner foodporn homedecor voreskbh
+Topic #4 with probability 0.77%: new happy year 2018 love night today day one time like life happynewyear newyear good little work best years last
+Topic #5 with probability 1.01%: så kan jul søndag vores dag lige lidt ved god lille se glædelig weekend tid morgen helt frederiksberg mere kom
+Topic #6 with probability 0.53%: love beauty selfie photooftheday shellac newlookcph photography street nailart spraytan nailbeauty cndshellac girl smile cndeducationambassador pretty picoftheday architecture lashlift cndvinylux
+Topic #7 with probability 0.69%: weekend morning sunday art winter friday fælledparken efterår søerne autumn coffee frederiksberg odense kunst nordhavn nofilter saturday sunrise sun sunset
+Topic #8 with probability 0.53%: nye vintage str pris kr secondhand boligindretning østerbroshopping vintagefashion nordhavn indretning ny retro tilsalg secondhandluxury prelovedfashion farver sælges genbrug foxholmdk
+
+Top 8 topics for østerbro_merge.json using the LDA models with tf features.
+Topic #1 with probability 9.91%: dag kan så lidt godt træning running går mere år fitness run bedste ved yoga første tur løb bare fødselsdag
+Topic #2 with probability 8.64%: jul 2017 glædelig beauty shellac merrychristmas nailart newlookcph cndshellac nailbeauty glimmer cndeducationambassador tak lashlift cnd blomster spraytan cndvinylux pynt negle
+Topic #3 with probability 17.05%: new love happy year 2018 day time today one life like good little beautiful work night frederiksberg girl get best
+Topic #4 with probability 8.29%: visitcopenhagen autumn baby visitdenmark retro søerne voreskbh city architecture ibyen vintage travel danish photography 2100 way tilsalg travelblogger aokdk dogsofinstagram
+Topic #5 with probability 11.32%: food coffee hygge happynewyear dinner foodporn foodie weekend breakfast kaffe healthyfood chocolate foodlover homemade love cake vegan frokost morgenmad kage
+Topic #6 with probability 7.45%: art kunst bolig selfie efterår artist cm contemporaryart samtidskunst søndag maleri boligindretning danish tape moshimoshiforaltid moshimoshi boliginspiration daghammerskjoldsallé34 music forsale
+Topic #7 with probability 24.37%: så kan kl nytår nye godt lige shopping vores fashion dag inspiration mode viborggade år ootd kr se newin 18
+Topic #8 with probability 12.98%: christmas home interior interiordesign indretning homedecor boligindretning interiør gay newyear hygge gaystagram picoftheday beautiful design interiors morning winter jul family
+
